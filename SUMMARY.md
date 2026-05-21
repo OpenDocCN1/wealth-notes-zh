@@ -19,6 +19,7 @@
 +   [懒人群分享 202501](docs/lanrenqun-202501/README.md)
 +   [懒人群分享 202502](docs/lanrenqun-202502/README.md)
 +   [懒人群分享 202503](docs/lanrenqun-202503/README.md)
++   [懒人群分享 202504](docs/lanrenqun-202504/README.md)
 +   [懒人群分享 202505](docs/lanrenqun-202505/README.md)
 +   [懒人群分享 202506](docs/lanrenqun-202506/README.md)
 +   [懒人群分享 202507](docs/lanrenqun-202507/README.md)
