@@ -33,6 +33,7 @@
 +   [懒人群分享 202603](docs/lanrenqun-202603/README.md)
 +   [懒人群分享 202604](docs/lanrenqun-202604/README.md)
 +   [懒人群分享 202605](docs/lanrenqun-202605/README.md)
++   [懒人群分享 202606](docs/lanrenqun-202606/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
