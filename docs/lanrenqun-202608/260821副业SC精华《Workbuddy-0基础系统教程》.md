@@ -1,7 +1,9 @@
 
 
 
-**Workbuddy我是由月之暗面（Moonshot AI）研发的 kimi-k2.7-code 智能大模型。0 基础系统教程**
+**Workbuddy
+
+0 基础系统教程**
 
 260821 副业SC 精华
 
