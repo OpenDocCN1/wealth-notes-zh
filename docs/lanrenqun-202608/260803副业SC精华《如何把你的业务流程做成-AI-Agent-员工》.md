@@ -1,7 +1,7 @@
 
 
 
-公众号懒人搜索，懒人专属群分享
+
 
 # 如何把你的业务流程做成 **AI Agent** 员工
 
@@ -288,7 +288,7 @@ Obsidian 本质上是一个用于查看和管理本地 Markdown 文件的工具�
 
 
 
-公众号懒人搜索，懒人专属群分享
+
 
 - 验证器
 - 配置文件
@@ -609,7 +609,7 @@ if "我们先看 2000 元以内这个区间" in line:
 
 
 
-公众号懒人搜索，懒人专属群分享
+
 
 ### 第七步：在当前对话再执行一次任务（回归测试）（必做）
 
@@ -619,7 +619,7 @@ if "我们先看 2000 元以内这个区间" in line:
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_32_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 ## 第八步：新开一个对话，阅读一下项目，再执行一次任务（去聊天对话上下文的回归测试）（必做）
 
@@ -647,19 +647,19 @@ if "我们先看 2000 元以内这个区间" in line:
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_33_0.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 按 Codex 指示操作即可链接。
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_34_0.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_35_0.png)
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_35_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 看个人需要，可以将 Hermes 部署到云服务器上，好处就是可以 24 小时不停机。但我个人用不上，我电脑本身也不关机。
 
@@ -671,7 +671,7 @@ https://help.aliyun.com/zh/simple-application-server/use-cases/purchase-and-depl
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_36_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 嗯，反正就是说，实现目标的路径和方式是多种多样的。
 
@@ -689,7 +689,7 @@ https://eoeo.xyz/register?aff=ZRJG8W67LNAM
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_37_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 # 六、展示一下我的内容工厂
 
@@ -699,7 +699,7 @@ https://eoeo.xyz/register?aff=ZRJG8W67LNAM
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_38_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 ————分割线————
 
@@ -717,7 +717,7 @@ https://eoeo.xyz/register?aff=ZRJG8W67LNAM
 
 ![](img/fab9b22cf1a5ded3c6c0c223fe180f51_39_1.png)
 
-公众号懒人搜索，懒人专属群分享
+
 
 https://lazyso.com/insider/
 
