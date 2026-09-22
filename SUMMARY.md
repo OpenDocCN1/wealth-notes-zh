@@ -37,6 +37,7 @@
 +   [懒人群分享 202608](docs/lanrenqun-202608/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
++   [缺德学：黑色成功方案](docs/quedexue/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
 +   [赏味不足视频笔记](docs/shangwei/README.md)
 +   [守夜人总司令文章合集](docs/shouyeren/README.md)
