@@ -128,6 +128,7 @@
 +   [不为钱烦恼的富裕生活](docs/不为钱烦恼的富裕生活/README.md)
 +   [不离职创业](docs/不离职创业/README.md)
 +   [不说谎的价量](docs/不说谎的价量/README.md)
++   [专业投机原理1](docs/专业投机原理1/README.md)
 +   [专业投机原理2](docs/专业投机原理2/README.md)
 +   [中国史纲50讲](docs/中国史纲50讲/README.md)
 +   [「就聊挣钱」第一期精华电子书](docs/就聊挣钱第一期精华电子书/README.md)
