@@ -98,6 +98,7 @@
 +   [中国社会阶层调查研究](docs/zhongguo-shehui-diaocha-yanjiu/README.md)
 +   [资本主义个人反抗指南](docs/zibenzhuyi-geren-fankang-zhinan/README.md)
 +   [知识星球整理 2025](docs/zsxq2025/README.md)
++   [一个人的获利模式](docs/一个人的获利模式/README.md)
 +   [一个底层人的权谋术](docs/一个底层人的权谋术/README.md)
 +   [「就聊挣钱」第一期精华电子书](docs/就聊挣钱第一期精华电子书/README.md)
 +   [「帅张和他的朋友们」第一期精华电子书](docs/帅张和他的朋友们第一期精华电子书/README.md)
