@@ -1,0 +1,40 @@
+
+# THE ANARCHIST COOKBOOK
+
+by William Powell
+
+with a prefatory note on Anarchism Today
+
+by P. M. Bergman
+
+The Anarchist Cookbook will shock, it will disturb, it will provoke. It places in historical perspective an era when "Turn on, Burn down, Blow up" are revolutionary slogans of the day.
+
+Says the author:
+
+> "This book . . . is not written for the members of fringe political groups, such as The Weathermen, or The Minutemen. Those radical groups don't need this book. They already know everything that's in here. If the real people of America, the silent majority, are going to survive, they must educate themselves. That is the purpose of this book."
+
+In what the author considers a survival guide, there is explicit information on the uses and effects of drugs, ranging from pot to heroin to peanuts.
+
+There is detailed advice concerning electronics, sabotage, and surveillance, with data on everything from bugs to scramblers.
+
+There is a comprehensive chapter on natural, non-lethal, and lethal weapons, running the gamut from cattle prods to submachine guns to bows and arrows.
+
+The section on explosives and booby traps ranges from TNT to whistle traps.
+
+One hundred and eleven drawings supplement the recipes.
+
+> "This book is for anarchists," says William Powell, "those who feel able to discipline themselves on all the subjects (from drugs, to weapons, to explosives) that are currently illegal and suppressed in this country."
+
+Techniques, disciplines, precautions, and warnings pervade what may be the most disquieting "how-to" book of contemporary times.
+
+ISBN 0-53035-0-8
+
+![](img/e919135ba66be9a7514018d089664b9a_155_0.png)
+
+# BARRICADE BOOKS, INC.
+
+P.O. BOX 1401
+
+SECAUCUS, N.J. 07096
+
+Pages 26, 28, 60, 152 and 158 are intentionally left out as they were blank in the book. This method is commonly used to align chapters properly.

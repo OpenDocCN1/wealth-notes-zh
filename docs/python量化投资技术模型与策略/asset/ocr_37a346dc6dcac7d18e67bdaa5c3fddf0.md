@@ -1,0 +1,11 @@
++   - ROC Rate of change: ( (price/prevPrice) -1) *100 （变动率指标）
+- ROCP Rate of change Percentage: (price-prevPrice) /prevPrice （变化率百分比）
+- ROCR Rate of change ratio: (price/prevPrice) （变化率比率）
+- ROCR100 Rate of change ratio 100 scale: (price/prevPrice) *100 （变化率100比例）
+- RSI Relative Strength Index （相对强弱指标）
+- STOCH Stochastic （随机指标）
+- STOCHF Stochastic Fast （随机快速指标）
+- STOCHRSI Stochastic Relative Strength Index （随机相对强弱指标）
+- TRIX 1-day Rate-Of-Change (ROC) of a Triple Smooth EMA （三次平滑EMA的1天变化率）
+- ULTOSC Ultimate Oscillator （终极震荡指标）
+- WILLR Williams' %R （威廉指标）

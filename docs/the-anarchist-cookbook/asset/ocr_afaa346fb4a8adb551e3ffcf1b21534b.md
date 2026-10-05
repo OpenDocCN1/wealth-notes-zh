@@ -1,0 +1,24 @@
+escape planned, in case of an emergency. Needless to say, if you decide to go into the sewers, dress accordingly. It's cold, damp, infested with rodents, and dark, and many tunnels are partially full of water.
+
+A word of caution about using explosives to sever phone lines: In the sewers, don't. In Paris in 1945, the French resistance decided that to aid the oncoming Allied troops, they would cut all lines of communication from the Nazi Headquarters and Berlin. This proved unsuccessful, for many reasons, but the important fact was that they did attempt to use explosives in the sewer system. A small charge was placed right on the phone lines, and detonated from a good distance away. The phone line was cut but, unknown to the resistance, so was a gas main, right next to lines. The result: phone lines cut, a large number of civilians dead, and a block and a half completely leveled. Not only was the area totally destroyed, it was flooded by the bursting of water mains which also shared the sewers with the phone wires.
+
+One can use small explosive charges in rural areas, as the lines are above the ground.
+
+> I despise you.
+I despise your order, your false-propped authority.
+Hang me for it !!!
+—Louis Lingg, 1898
+
+# Other forms of sabotage
+
+A great deal of sabotage employs the use of explosive charges, but these methods will be discussed in a later chapter; here I will attempt to discuss nonexplosive sabotage operations. Sabotage plays a very important role in any form of warfare, especially in the guerrilla struggle. The urban areas are extremely conducive to the type of sabotage I will be dealing with in this section, as the distances are short between targets, and it is easier to create chaos and havoc when dealing with large numbers of people, in a relatively small area. This havoc and chaos that I have been talking about needs a definition, since I am using the terms in a different context than what they mean traditionally. Havoc and chaos are and should be the smallest part of the revolution. They take the smallest amount of time, and the maximum amount of planning. This time will be governed by a mob, driven not by fear, but by anger,
+
+and the passionate belief that they do what they do because they are the people, and more importantly they believe they have impunity. I do not speak of the tactics of nihilism, breaking windows and setting garbage cans on fire, for they accomplish nothing.
+
+A few of the more active individuals in New York City placed a strong form of epoxy glue in all the keyholes of the stock market, on Wall Street. When this substance dried, it hardened into a material as tough as steel. The Stock Exchange opened three hours late, after locksmiths had been called in to remove the useless mechanisms. Epoxy glue is fantastic, and its uses are unlimited.
+
+Since machines run the society we live in, it's only fair that an equal degree of destructive creativity be leveled against them. Computers, because of their very nature, are extremely easy to render inoperative. When paying bills by computer, always remember that you have the ultimate advantage of an open mind, and the ability to rationalize, whereas the machine is programmed to do one thing. A good method of sabotage is simply to punch a few extra holes in the IBM card. Most of the time the card will be rejected, and it will cost the company a few dollars to rectify the mistake. I have heard of people who have performed this operation, and have been issued several hundred dollars' worth of credit. This can be performed with impunity.
+
+When I was working for a large New York corporation, I had to deal with a bank, every day. I realized, after a period of time, that the people who were working at the bank had lost their identities, and were nothing more than machines themselves. Well, this sort of psychological surrealistic science fiction really got me interested. I viewed myself as a saver of identities, as the Messiah of the Spirit of Individualism. I was brought to earth quickly. These people didn't want to be saved. I was going to turn them all on to acid, but then I decided that a better tactic would be to screw up the object of their emulation, the computer. On my daily deposit I placed a large quantity of Scotch tape. This resulted in the deposit slips, themselves, getting stuck in the bowels of the computer. It took the bank three or four hours to take the machine apart, and unjam the mechanism. In unjamming the machine they somehow altered the program, and it didn't work right for weeks. I never had the guts to return to the bank, but I hope the clerks lost their reverence for the divine, infallible machine.
+
+Another form of sabotage is shoplifting. There is a big

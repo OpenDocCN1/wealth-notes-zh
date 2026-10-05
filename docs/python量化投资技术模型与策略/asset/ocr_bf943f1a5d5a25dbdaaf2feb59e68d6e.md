@@ -1,0 +1,12 @@
++   - CDLEVENINGDOJISTAR Evening Doji Star（十字暮星）
+- CDLEVENINGSTAR Evening Star（暮星）
+- CDLGAPSIDESIDEWHITE Up/Down-gap side-by-side white lines（向上/下跳空并列阳线）
+- CDLGRAVESTONEDOJI Gravestone Doji（墓碑十字）
+- CDLHAMMER Hammer（锤头）
+- CDLHANGINGMAN Hanging Man（上吊线）
+- CDLHARAMI Harami Pattern（母子线模式）
+- CDLHARAMICROSS Harami Cross Pattern（十字孕线模式）
+- CDLHIGHWAVE High-Wave Candle（风高浪大线）
+- CDLHIKKAKE Hikkake Pattern（陷阱模式）
+- CDLHIKKAKEMOD Modified Hikkake Pattern（修正陷阱模式）
+- CDLHOMINGPIGEON Homing Pigeon（家鸽）

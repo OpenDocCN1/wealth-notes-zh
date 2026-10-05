@@ -1,0 +1,15 @@
+# 25、干燥肌肤的新希望
+
+# World-famous cosmetologists
+reveal the beauty secret
+that was kept for centuries
+
+# New Hope for Dry Skin
+
+ON a 10th-century battlefield a corpsman ministers to a wounded Saracen. In the 18th’s a Scots woman uses a "comfort" potion. Centuries and continents apart, these two primitive healers rely on the curative powers of the same root: comfrey. Was it superstition? Or did the famed healing powers of the root have a scientific basis? Modern medical men thought they did. And the search went on till the 20th century when comfrey’s secret was finally extracted and proved to have amazing power to rebuild tissue. But it remained for Pond’s research chemists to see the cosmetic value of this remarkable "rebuilder"... to repairing dry skin! Pond’s christened it "Stimulin" and started the search for a way to add it to Pond’s Dry Skin Cream’s world-famous Moisturized Lanolin formula. Now that way has been found. The key to this cream’s restorative powers is simply that it encourages skin to behave naturally. The skin is always renewing itself: young cells push upward, dry lifeless surface cells flake off. But dry skin is "lazy" skin. It just can’t seem to discard those dry, lifeless cells fast enough.
+
+They accumulate on the skin surface. Of immediate benefit to dry-skin sufferers is the way Stimulin in Pond’s Dry Skin Cream starts to disperse this accumulation within 10 minutes of the first application. As the dry, lifeless cells are gently cream away, the skin begins to "breathe" normally again. Stimulin literally "opens the door" for Pond’s Moisturized Lanolin formula to penetrate faster, restoring the balance necessary for the skin’s freshness, vigor, tone. But it is the long-range benefits of the cream which seem to be most remarkable. Continuous use of new Pond’s Dry Skin Cream with Stimulin retains dry skin to function as nature intended, i.e. regularly discarding its dry, flaky cells and producing fresh, well-lubricated young tissue. Treatment may be started immediately since new Pond’s Dry Skin Cream with Stimulin is now available wherever cosmetics are sold, priced at 45¢ to $1.00 plus tax. For write for sample trial size jar and explanatory booklet "The Beauty Secret that Kept for Centuries." Send 25¢ to Pond’s Dry Skin Cream, Box 657, New York 46, N.Y.
+
+![](bbox=[0.45, 0.63, 0.54, 0.705])
+
+#59001

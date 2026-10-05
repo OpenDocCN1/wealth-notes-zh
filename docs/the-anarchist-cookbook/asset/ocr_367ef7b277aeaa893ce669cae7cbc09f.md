@@ -1,0 +1,3 @@
+gen from alcohol, and then replacing it, under laboratory controls, with metal arsenic. The formula for alcohol is H₆ O, whereas for cacodyl it is C₆ H₇ AR. Now, this new substance, cacodyal, possesses spontaneous inflammability, the moment it is exposed to the air. Therefore it can be
+
+put into a bottle and used like a Molotov Cocktail. If it is thrown, it will explode on impact, but this is not its real advantage. When it explodes, a dense white smoke is given off. This is white arsenic, a deadly poison. One inhalation will probably cause death in a matter of seconds.

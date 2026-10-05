@@ -1,0 +1,9 @@
+![](bbox=[0.09, 0.09, 0.78, 0.58])
+
+Figure 61. Converting a shotgun into a grenade launcher.
+
+The really curious aspect of most legalities is the manner in which they are enforced. If you are arrested for possession of an illegal silencer (felony) you face charges not by the FBI, but rather by the Tobacco and Alcohol Division of the Internal Revenue Service, which is pretty strange.
+
+The principles of firearm silencers differ to some degree with the type of weapon and the type of silencer used, but basically the compressed gas principle is the same. The silencer is constructed with an expansion chamber which will contain and distribute the compressed gas which follows the bullet. In most weapons, the gas escaping compression is what creates the explosive report. This containment and distribution are attained by using a series of baffles, coupled with absorbent material so to break up the
+
+high pressure. The sound of most low-caliber weapons (.22, .25, .32, etc.) comes directly from this gas under high pressure. However, in larger weapons with a higher caliber, the noisy gas is joined by another noise, that being a sonic boom. Any projectile that moves faster than 1,100 feet per second will experience a sonic boom. There have been devices created which will not only take care of the compressed gas, but will also reduce the speed of the bullet to a subsonic level, thus getting rid of the boom. This reduction in speed is made through several different methods. One which has been proven effective is drilling holes in the gun barrel, to bleed the weapon of some of its power. Another method (which is a great deal safer, as drilling a hole can ruin a gun completely) is simply to handload the cartridges to a lower velocity. The last method for reducing a

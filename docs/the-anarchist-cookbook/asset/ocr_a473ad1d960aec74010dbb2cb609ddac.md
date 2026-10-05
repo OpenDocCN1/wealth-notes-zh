@@ -1,0 +1,25 @@
+simply replaces the phone company's transmitter. These little mechanisms are so good that, in a lot of instances, they have even fooled the phone company. They run about $200 and are available from either Tri-Tron of Texas or from Continental Telephone in New York.
+
+For the real dodos, pre-bugged telephones are available. The installation is nothing more than unplugging the old phone and replacing it with the new pre-bugged one. (Many professional phone tappers pose as telephone repair men.) These pre-bugged phones are sold mainly through mail order houses and run about $250.
+
+The most sophisticated bug I have found available to the general public—and who the hell knows what the government has?—is what is called "The Infinity Transmitter." This is a device that allows the individual to dial any number, regardless of distance, and, through an electronic tone oscillator, deactivate the ring, thereby allowing the tapper to hear anything within earshot of the phone without the instrument being taken off the hook. These little wonders of our age sell for about $ 1,000, but I think some companies offer a discount.
+
+What is really ironic is that people are only slowly realizing that telephone tapping is actually going on. I have spoken to some people who have just recently been busted for drugs, and they are genuinely confused. They just seem unable to understand why the cops chose their apartment to raid. If you deal dope on the phone and live in an area like Harlem or the Lower East Side, you're a fool and you deserve to get busted.
+
+When I was living on St. Mark's Place with a friend, we had a feeling our phone was tapped, but had no proof until one day when my friend went to make a phone call. Somehow those mechanical geniuses had screwed up the tap, and we had a direct line to the desk sergeant at the 9th precinct. Needless to say, it caused many hours of amusement.
+
+In the same class as telephone taps, and probably more dangerous, are the undercover cops and FBI men who infiltrate activist groups. It's really getting to the point where you don't know whom to trust. One point about an undercover cop in New York City, which does not apply to FBI men, is that most of them have beards but short hair. This is because the plain-clothes man is often transferred around the city and, if he managed to grow long hair, how would it look in Queens? On the other hand, FBI men are usually on the job for much longer periods
+
+of time and are able more fully to don their disguises. If you think you know a plain-clothes cop, do yourself a favor and stay clear of him and warn your friends about him. If you've got the guts, you can have a great deal of fun, since you know he's a pig, but he doesn't know that you know. The East Village Other, The Rat, and The Berkeley Tribe have all been very good over a period of time, in publishing pictures of undercover cops.
+
+During the revolution in Ireland, the British used a very brutal and cruel form of terrorism to subdue the population. Although the idea of terrorism revolted the Irish Republican Army, they resorted to it as a last measure against the British, and it worked. There was an understanding in the Irish Republican Army that for every farmer who was killed by the British, two English civilians would die. For every farmhouse burned to the ground by the British, two Loyalists' houses would be burned. The British decided to stop their terrorist tactics.
+
+The same type of terrorism is being practiced in every ghetto of this country today, and it is my firm belief that the only way to stop it is to show everyone what terrorism is all about, and that two can play at the same game.
+
+# Microphones
+
+The choice of microphones for eavesdropping is an interesting one, as many different types are made, and certain ones will not be as effective as others. The microphone must be small enough to be hidden easily, and at the same time powerful enough to pick up whispers at 20 feet. These microphones can then be rigged up to voice-activated tape recorders, basic audio amplifiers, or any radio frequency transmitter.
+
+There are several basic types of microphones, and all have disadvantages. Try to stay away from listening devices that depend on batteries for their power supply, as nearly always the batteries will die out at the important moment in the conversation. Probably the most important rule for bugging or telephone tapping is not to try to retrieve the bug after it is placed, as more buggers get caught this way than any other. Many professional tappers and buggers have learned that using two microphones instead of one is a good safeguard against one failing, but at the same time it increases the chances of someone discovering it.
+
+The first and probably most common type of microphone is what is called the "carbon" button. These contain fine granules of carbon between thin plates of the dia-
