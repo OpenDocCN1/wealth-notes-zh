@@ -97,3 +97,4 @@
 +   [资本主义个人反抗指南](docs/zibenzhuyi-geren-fankang-zhinan/README.md)
 +   [知识星球整理 2025](docs/zsxq2025/README.md)
 +   [「就聊挣钱」第一期精华电子书](docs/就聊挣钱第一期精华电子书/README.md)
++   [「帅张和他的朋友们」第一期精华电子书](docs/帅张和他的朋友们第一期精华电子书/README.md)
