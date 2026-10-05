@@ -71,6 +71,7 @@
 +   [Python量化投资：技术、模型与策略](docs/python量化投资技术模型与策略/README.md)
 +   [缺德学：黑色成功方案](docs/quedexue/README.md)
 +   [Q帝老师的朋友圈](docs/q帝老师的朋友圈/README.md)
++   [Q帝职场疑难权谋宝典](docs/q帝职场疑难权谋宝典/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
 +   [赏味不足视频笔记](docs/shangwei/README.md)
 +   [守夜人总司令文章合集](docs/shouyeren/README.md)
