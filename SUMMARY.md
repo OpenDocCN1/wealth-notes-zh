@@ -318,6 +318,7 @@
 +   [The user wants me to translate the book title "成交心法" into Chinese.](docs/成交心法/README.md)
 +   [成交的最高境界](docs/成交的最高境界上/README.md)
 +   [成交的最高境界](docs/成交的最高境界下/README.md)
++   [成年人的第二次大学：愚公掘金](docs/成年人的第二次大学愚公掘金电子书/README.md)
 +   [我只是购买上涨的股票](docs/我只买上涨股/README.md)
 +   [我就是要教你恶](docs/我就是要教你恶/README.md)
 +   [我用波段投资法](docs/我用波段投资法/README.md)
