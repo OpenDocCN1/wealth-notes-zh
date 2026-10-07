@@ -375,4 +375,5 @@
 +   [权谋论坛：权谋帝术](docs/权谋论坛权谋帝术/README.md)
 +   [The provided text "权谋论坛：权谋心理" is already in Chinese.](docs/权谋论坛权谋心理/README.md)
 +   [权谋论坛：权谋与谋略](docs/权谋论坛权谋思略/README.md)
++   [权谋论坛：权谋深度](docs/权谋论坛权谋深度/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
