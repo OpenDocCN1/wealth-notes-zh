@@ -1,0 +1,10 @@
+# 自由流通股市值
+
+当日收盘价 × 当日自由流通股本
+
+# 说明
+
+流通股是指上市公司股份中可以在交易所流通的股份数量，通过统计流通股市值可以直观的体现公司目前流通规模的大小。
+
+[参考文献]
+Ludwig B. Chincarini, Daehwan Kim, 2006, Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management (1st edition), McGraw-Hill Library of Investment and Finance.
