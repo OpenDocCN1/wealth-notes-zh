@@ -1,0 +1,25 @@
+Jun.
+6月
+
+![](bbox=[0.36, 0.009, 0.668, 0.202])
+
+星期日
+五月十八
+
+# 收益季节性反转
+
+① 在 t 月的月末，计算过去 t-1 月至 t-11 月的月超额收益均值（不包含去年同月的收益），即得到 1 年期的收益季节性反转。
+
+② 在 t 月的月末，计算滞后 2-5 年区间内所有非同月的月超额收益率（不包含同期日历月的收益），取均值，即得到 2-5 年期的收益率季节性反转。
+
+# 其中
+
+滞后的月份数需满足 12 的倍数。
+
+# 说明
+
+收益季节性反转对应的是剔除相同日历月后"其他月份"的收益，同样包含了未来收益的相关信息；这些过去的其他月份的收益负向的预测未来收益，比如：如果其他非 12 月的收益较高，预示着下个 12 月份的收益较低，反之亦然。
+
+【参考文献】
+① Heston, S. L. and R. Sadka, 2008, Seasonality in the cross-section of stock returns. Journal of Financial Economics 87(2), 418-445.
+② M. Keloharju, J.T. Linnainmaa, P.M. Nyberg, 2021, Are return seasonalities due to risk or mispricing?, Journal of Financial Economics 139(1), 138-161.

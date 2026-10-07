@@ -1,0 +1,30 @@
+Apr. 4月
+
+星期日
+三月十三
+
+# 总应计盈余（常规版）
+
+财务质量因子
+
+```
+Accruals = [(ΔCA − ΔCash) − (ΔCL − ΔSTD − ΔTP) − Dep] / AverageTotalAssets
+```
+
+# 其中
+
++   ① ΔCA − ΔCash 对应流动资产部分、ΔCL − ΔSTD − ΔTP 对应流动负债部分；
+② ΔCA 流动资产的变动、ΔCash 为现金及现金等价物净增加额；
+③ ΔCL 为流动负债的变动、ΔSTD 为流动负债中的借款、ΔTP 为应付税款的变动；
+④ Dep 为折旧与摊销；
+⑤ AverageTotalAssets 为期初总资产和期末总资产的平均值。
+
+# 说明
+
+从资产负债维度计算的总应计盈余，进而衡量公司盈余管理的程度；可靠性较低的应计盈余会导致较低的盈余持久性，投资者没有完全预期较低的盈余持久性，从而导致重大的证券错误定价。
+
+〔参考文献〕
+
+① Dechow P., Sloan R., Sweeney A, 1995, Detecting Earnings Management, The Accounting Review 70(2), 193-225.
+
+② Sloan R., 1996, Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings?, The Accounting Review 71(3), 289-315.
