@@ -304,6 +304,7 @@
 +   [徐来给孩子的博物学](docs/徐来给孩子的博物学201707-09/README.md)
 +   [徐来给孩子的博物学201710-12](docs/徐来给孩子的博物学201710-12/README.md)
 +   [徐来给孩子的博物学 2018年1-4月](docs/徐来给孩子的博物学201801-04/README.md)
++   [徐瑾经济学大师30讲](docs/徐瑾经济学大师30讲/README.md)
 +   [The user has provided a Chinese title to be translated into Chinese? No, wait.](docs/微信审查规则及企业微信被封申诉/README.md)
 +   [公司财务快速入门指南](docs/怎样快速搞懂一家公司/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
