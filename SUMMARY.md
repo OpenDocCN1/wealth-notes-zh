@@ -318,4 +318,5 @@
 +   [The user wants me to translate the book title "成交心法" into Chinese.](docs/成交心法/README.md)
 +   [成交的最高境界](docs/成交的最高境界上/README.md)
 +   [成交的最高境界](docs/成交的最高境界下/README.md)
++   [我只是购买上涨的股票](docs/我只买上涨股/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
