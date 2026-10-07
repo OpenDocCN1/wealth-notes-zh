@@ -308,4 +308,5 @@
 +   [The user has provided a Chinese title to be translated into Chinese? No, wait.](docs/微信审查规则及企业微信被封申诉/README.md)
 +   [公司财务快速入门指南](docs/怎样快速搞懂一家公司/README.md)
 +   [怎样成为带团队的高手](docs/怎样成为带团队的高手/README.md)
++   [怎样成为精力管理的高手](docs/怎样成为精力管理的高手/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
