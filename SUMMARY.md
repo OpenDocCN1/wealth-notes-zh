@@ -300,4 +300,5 @@
 +   [彼得林区征服股海](docs/彼得林区征服股海/README.md)
 +   [Peter Lynch's Picking Strategy](docs/彼得林区选股战略/README.md)
 +   [徐弃郁美国简史30讲](docs/徐弃郁美国简史30讲/README.md)
++   [徐来给孩子的博物学](docs/徐来给孩子的博物学201704-06/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
