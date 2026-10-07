@@ -268,6 +268,7 @@
 +   [如何管好孩子的视力](docs/如何管好孩子的视力/README.md)
 +   [如何通过简短演讲让产品大卖](docs/如何通过简短演讲让产品大卖/README.md)
 +   [孙亚飞化学通识30讲](docs/孙亚飞化学通识30讲/README.md)
++   [孤独大脑一](docs/孤独大脑一/README.md)
 +   [孤独大脑 III](docs/孤独大脑三/README.md)
 +   [孤独大脑二](docs/孤独大脑二/README.md)
 +   [「就聊挣钱」第一期精华电子书](docs/就聊挣钱第一期精华电子书/README.md)
