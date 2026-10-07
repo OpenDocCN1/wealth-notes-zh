@@ -1,0 +1,380 @@
+## 新闻实验室会员通讯（582）知网、Sci-Hub 与学术出版业的暴利
+
+
+
+
+
+
+## 知网、Sci-Hub与学术出版业的暴利
+
+这两天，中科院停用知网CNKI数据库的消息成为热门话题。
+
+据《新京报》报道，中科院部分研究所在邮件中通知学生，由于CNKI数据库价格连年上涨，全员开通费用已近千万，文献情报中心决定，院级经费全额订购、为全院新增开通万方数据库，配合原已为全院订购开通的维普数据库，保障全院中文期刊、中文学位论文的普遍需求。
+
+实际上，知网引发的争议并不是中国独有的问题，而是一个全球学术出版界共同的现象：出版商依靠学者生产的知识，获取暴利。国外有一个叫做Sci-Hub的网站，就旗帜鲜明地与这种暴利行业作对，提供大量论文的免费下载，因此成为学术出版商的心头恨。最近，一些出版商正在印度起诉这家网站。
+
+本期会员通讯，我们就来聊聊这种畸形的商业模式，以及Sci-Hub这个神奇的网站。
+
+## “学者都是出版商的奴隶”
+
+学术出版听上去是一个小众的领域，但实际上，这个产业在全球的总营收达到了大约250亿美元之巨，和唱片、电影产业的规模差不多——而比起唱片和电影产业，学术出版业的利润率要高得多。2010年，爱思唯尔（Elsevier）的学术出版业务收入20亿英镑，利润7.24亿英镑——也就是说，利润率达到了36%，比那一年的苹果、谷歌、亚马逊的利润率都要高。两年后，它的利润率更是超过了40%。
+
+为什么可以获得如此之高的利润率？因为学术出版的商业模式非常奇葩。
+
+如果你要运营一本普通的杂志，那么实际上你的利润率只有10%左右，因为你要给作者支付稿费，给编辑支付工资，还要雇人做发行和销售，这些都是很大的支出。
+
+但是，如果你要运营一本学术期刊，那么，这些支出基本都可以避免——首先，你不用支付稿费；其次，虽然你要支付一定的编辑费，但实际上编辑过程中最主要的工作——对稿件质量的把关（也就是所谓“同行评议”）是由学者们义务劳动完成的，出版商不需要支付费用；第三，购买这些学术期刊的客户是非常固定的，主要就是大学和研究机构，并不需要费力到市场上吆喝，而每一本学术期刊的定价又是畸高并且不断上涨的，大学被迫支付高价购买。
+
+在这个过程中，学术出版商几乎是无本万利，而充当了冤大头的则是政府——大部分研究经费都是政府拨款的，学者的工资也大部分是由政府发的（私立大学除外），到头来，大学还得再花政府的拨款去购买学者写的这些论文的下载权限。这就好像，你开了一家商店，商品由顾客提供，对商品的质量控制也由顾客完成，最后你却又能把这些商品以高价卖给那些顾客——天底下居然真的有这么好的生意。
+
+学术界早已对此现象不满。有学者形容说，学者都是出版商的奴隶，这种商业模式简直就是一种丑闻。
+
+还有学者认为，学术出版商对学术研究产生了不利的影响。因为出版商喜欢发表那些新的、能够引发轰动的研究结果，这样可以迅速提升一份期刊在学术界的名气，带来更多的订阅。这就对学者们形成了一种指挥棒作用，大家都想发表成功的、能引发轰动的研究。可是，学术研究大部分时候并不会导向石破天惊的结果。很多没能成功的实验永远都不会被发表，也就不会被其他同行知道，这就会导致很多人都朝向一个死胡同里面走，但没有人告知彼此：此路不通。
+
+## 学术出版行业背后的英国大亨
+
+学术出版业是如何一步步走到今天这般田地的？《卫报》的一篇文章对这个过程做了详尽的梳理。
+
+二战之后，英美等国的科学研究腾飞，出现大量研究成果。而当时的学术出版主要还是依靠各个学科的学会自行印制一些刊物。这些刊物不仅纸张和印刷质量很差，而且出版滞后。英国政府决定让一家本土出版商和著名的德国出版商Springer合作，建立一套商业化的流程，以支持学术作品的出版。
+
+英国富豪Robert Maxwell正是抓住了这个机会，赚到了大钱。他在1951年花1.3万英镑（相当于现在的42万英镑）买下了英德合作的这部分出版业务，并建立了新的公司，名为Pergamon。
+
+他采用了非常激进的商业策略：不断去说服知名学者创办新的学术刊物（1959年有40份，到1965年已经有150份，而它的主要竞争对手只有50份），然后将刊物卖给大学图书馆。那时，在各 国政府大力发展科研的背景下，大学图书馆突然有了大笔政府经费，正好可以用于购买这些期刊。
+
+那么，不断办新刊，真的有那么论文可以发表吗？Robert Maxwell对此并不担心，因为他洞察了学术出版的本质——新办刊物并不会稀释市场，因为这个市场根本就没有边界。在《核物理》之外再办一份《核能学刊》，并不意味着《核物理》就办不下去了，因为科学发现就是靠论文的方式承载的，而每一篇论文都有着独特的发现，很难相互替代。因此，一旦有知名学者创办了一份严肃的新刊物，学者们就会要求自己的大学图书馆订阅。只要政府投入的科研经费还在，Robert Maxwell就根本不担心销路，他的主要精力都用于接近那些知名学者，请他们吃好喝好，签他们给自己办刊物。
+
+为了办更多的刊物，Robert Maxwell的“魔爪”不仅伸到了日本、印度这样的国家，甚至还伸到了苏联。1957年，当苏联发射了人类第一颗人造卫星之后，西方科学家还在奋力追赶苏联的太空研究，而大家惊讶地发现：Robert Maxwell已经在10年之前就 跟苏联科学院谈好了出版英文刊物的合同。
+
+就这样，到1960年代时，学术出版的模式已经成了人们默认的规则。科学家可谓是引狼入室，不过这匹狼确实让学术出版变得更有效率，因此很多学者也发现自己已离不开它了。而后来又产生的“影响因子”等给学术刊物排序的方式，更让学者们被迫进入了追逐发表的游戏，无法停下，否则就找不到工作、得不到晋升。
+
+虽然Robert Maxwell的商业帝国最终因为其他方面的投资失败而垮台，他的学术出版生意被迫卖给爱思唯尔，但这种基本的商业模式一直没有受到根本的挑战，刊物的订阅价格也在不断上涨。
+
+互联网出现之后，曾有人预测，学术出版商会倒闭，因为学者们可以自己在互联网上分享文章。然而事实恰好相反，互联网给了学术出版商赚更多钱的机会——以往，出版商要将刊物一份份地卖给各个大学图书馆，但现在，他们只需要把刊物打包卖出去就可以了。大学里的老师和学生可以方便地下载到各种刊物的论文，享受便利，图书馆则负责支付昂贵（每年百万、千万级）的打包订阅费用。
+
+## Sci-Hub能否挑战出版商霸权？
+
+最近数十年，学术出版商的商业模式屡屡被质疑、挑战，但从未被撼动过。迄今为止最重要的挑战者，当属Sci-Hub。
+
+这个网站的创始人是1988年出生于哈萨克斯坦的Alexandra Elbakyan，她如今被称为“科研女神”或“盗版学术女神”。她本人也是一名学术研究者，对计算机科学、神经科学、哲学的交叉领域感兴趣。
+
+根据《科学》杂志的报道，Alexandra Elbakyan在读大学的时候钻研了黑客技术。之所以对黑客感兴趣，是因为它需要对计算机系统、数学、原始编程语言等更深一层的知识有深入了解，这令她非常着迷。
+
+她本人去美国访学后返回哈萨克斯坦之后，发现很多期刊论文都无法从哈萨克斯坦下载，因为那里的学校没有强大的财力可以购买那么多论文数据库。这让她感到非常气馁。而那个时候，想要从其他地方获得这些论文也很麻烦——你需要到推特上发个帖子，写出你需要的文章的标题，加上#icanhazPDF的标签，然后等着其他好心的学者帮你下载和发送给你。
+
+于是，她在2011年创办了Sci-Hub网站，批量获取了大量学术论文（目前已有8700多万篇），放到网站上供人们免费下载。她说自己的初衷很简单，就是帮助人们分享自己的想法，而期刊付费墙则是反方向的——令传播变得更封闭和低效。
+
+这个网站显然动了学术出版商的蛋糕，他们在各国发起侵权诉讼，因此Sci-Hub在这几年间不断地更换自己的域名和镜像。2017年，美国的法庭判决Sci-Hub要向爱思唯尔支付1500万美元的罚金。（不过，这笔罚金至今仍未被支付。）
+
+去年，几家出版商又联手在印度的法庭状告Sci-Hub，要求印度的电信商屏蔽这个网站。但是，这个案子在印度国内也引发了反弹，尤其是来自学术界的反弹——他们提出，对于印度这样的发展中国家来说，如果没有Sci-Hub这样的网站，不少研究者将无从获取最新的学术论文，这势必影响印度的科学发展，甚至有印度学者认为，这种影响将是毁灭性的。
+
+在Sci-Hub的网站上可以查询到来自各国的下载量。以上个月为例，来自中国的下载量高达2624万篇，雄踞榜首，排在第二名的美国是1463万篇，印度则以142万篇排在第6。可以看到，若论从Sci-Hub的受益程度，其实中国的学者才是受益最大的。从一定程度上来说，这个网站也为减轻世界学术的不平等状况做出了贡献。
+
+尽管Sci-Hub在资源雄厚的学术出版商的屡屡攻击之下依然屹立不倒，但仅凭这个网站，也无法从根本改变畸形的学术出版模式。近年来，学界又兴起了一波“开放存取(open access)”的风潮——也即，由学者（或学者所在的大学）向出版商支付一笔费用，请他们出版论文，而这样的论文将会放在网站上供大家免费下载。
+
+“开放存取”让人们可以免费获取文章，但在其中承担成本的依然是政府的研究经费——只不过，支付费用的人从读论文的变成了发表论文的，一篇文章的发表费用甚至要几千美元。因此，正如有些学者指出的，这对于发展中国家的研究机构和学者来说又是一笔沉重的负担。
+
+说到底，目前的“开放存取”有一个前提，那就是不影响出版商赚钱。只要这一点没有改变，学术出版中的种种问题就依然存在。但是，又有谁能够让财力如此雄厚的出版商们乖乖吐出嘴里的肥肉呢？恐怕在很长一段时间之内，这将依然是一种僵局。
+
+
+## How the open access model hurts academics in poorer countries
+
+
+**Brenda Wingfield**
+Vice President of the Academy of Science of South Africa and DST-NRF SARChI chair in Fungal Genomics, Professor in Genetics, University of Pretoria, University of Pretoria
+
+**Bob Millar**
+Professor and Director, Centre for Neuroendocrinology, University of Pretoria
+
+![](img/5045c6e2edc03ff9c31671072a380124_5_0.png)
+
+The rise of open access publishing should be applauded. Scientific research and literature should be made available to everyone, with no cost to the reader.
+
+But there’s a catch: nothing is actually free and someone has to pay. The open access model merely changes who pays. So rather than individuals or institutions paying to have access to publications, increasingly, academics are expected to pay for publishing their research in these “open access” journals. In this way, publishers continue to make money even though they no longer charge readers to access their journals.
+
+The bottom line is that payment has been transferred from institutions and individuals paying to have access to researchers having to pay to have their work published.
+
+And these are substantial. For example, PlosOne charges academics US $1,595 per paper; PlosBiology charges US $3 000. Cell Reports charges US $5 000. Some journals call this cost a “publication fee”. Others refer to “article processing charges”. Ironically, the revenue received in this way is much higher than journal subscriptions – and yet the costs are minimal because the publications are digital with no hard copy costs and little administration.
+
+The cost is usually borne by individual researchers in many institutions. This is a huge burden particularly in developing countries with weaker currencies. Some universities are able to cover part or all of the cost of open access articles, but some make no provision. Universities in most economies, particularly in the developing world, are under huge financial pressure.
+
+An urgent discussion is needed around the cost of research publications. A more equitable system, in which the full costs and benefits are properly rewarded, is crucial.
+
+## Rising costs
+
+There has been some debate about the rising cost of journal subscriptions and the University of California has recently “broken away” from academic publisher Elsevier, stopping its subscriptions entirely.
+
+There is however, little focus on the costs of open access to researchers in the developing world. Most people we have spoken to inside academia are under the impression that these costs are waived. But that’s only the case for some journals in 47 of the world’s “least developed” nations; researchers in the 58 other countries in the developing world must pay the full price.
+
+Currently, individual research programmes must bear the rising cost of open access publication. University researchers write grants for funding research and providing graduate students with scholarships. Few granting agencies take the cost of open access publication into account – and so publication costs eat into whatever precious grant funding researchers get.
+
+In the research programme I (Professor Wingfield) run, we’ve found that it is just too expensive to only publish in open access journals. Many of the articles in subscription journals are now made available online between six months and a year after publication. This time lag can be problematic in fast moving fields.
+
+The cost of a PlosOne article is 20% of the cost of a Masters student’s scholarship. So the choice is “do I give a Masters student a scholarship, or publish more in open access journals?” We are trying to do both and we are sure that’s the approach many research programmes are trying to take. But as more journals take the open access route this is going to be more difficult. In future, if we want to publish more articles in open access journals, we will have to reduce the number of Masters, Doctoral and post doctoral students in our programmes.
+
+
+
+# **Finding solutions**
+
+  This isn't a problem that's unique to our research groups or university. Colleagues in Europe and the US are also concerned about the cost of publishing in open access journals. But the problem is amplified in institutions located in developing economies.
+
+  One of the solutions to this problem lies with publishing houses. Of course publishers want to make money. But if they're serious about genuine open access and getting more authors from the developing world then some serious discussions are needed about reworking the current model.
+
+  One suggestion is to “flip” the current model, so there would only be open access and no subscription-only journals. This, however, may still be too expensive for many universities in the developing world who currently cannot afford journal subscriptions.
+
+  Some journals are already helping authors by offering incentives and rewards to reviewers. Editors approach experts in their fields to review manuscripts, this is the basis of peer review. These reviewers receive no remuneration for their input but are essential for the peer review process. In some cases, journals offer reviewers subscription access for a year. This only benefits the individual reviewer, not the organisation which pays their salaries.
+
+  This isn't an ideal approach for universities. Perhaps publishers could consider a voucher approach in which vouchers accrue to the institution that pays the reviewer's salary. These vouchers could contribute towards subscription costs or the article publication charges. More altruistic publishers could even donate vouchers to universities in the developing world.
+
+  The use of such vouchers would also have the potential of encouraging academics to undertake reviews. It's becoming increasingly difficult to find reviewers for journal articles. Knowing that there is some benefit to their institutions would inspire more people to accept the work of reviewing.
+
+  Another possible solution is pressuring open access journals to waive charges for researchers in developing countries. Academics could also be encouraged to write first for journals that are affiliated to societies. Profits from these kinds of journals go back into supporting science through research grants, travel grants and meeting support.
+
+  And researchers must start incorporating publishing costs when applying for grants. Some major funders already encourage this, as does South Africa's National Research Foundation in some cases. Other granting agencies should be urged to do the same.
+
+# Is the staggeringly profitable business of scientific publishing bad for science?
+
+  It is an industry like no other, with profit margins to rival Google – and it was created by one of Britain’s most notorious tycoons: Robert Maxwell
+
+
+  illustration for science publishing long read Illustration: Dom McKenzie
+
+
+  In 2011, Claudio Aspesi, a senior investment analyst at Bernstein Research in London, made a bet that the dominant firm in one of the most lucrative industries in the world was headed for a crash. **Reed-Elsevier**, a multinational publishing giant with annual revenues exceeding £6bn, was an investor’s darling. It was one of the few publishers that had successfully managed the transition to the internet, and a recent company report was predicting yet another year of growth. Aspesi, though, had reason to believe that prediction – along with those of every other major financial analyst – was wrong.
+
+  The core of Elsevier’s operation is in scientific journals, the weekly or monthly publications in which scientists share their results. Despite the narrow audience, scientific publishing is a remarkably big business. With total global revenues of more than £19bn, it weighs in somewhere between the recording and the film industries in size, but it is far more profitable. In 2010, Elsevier’s scientific publishing arm reported profits of £724m on just over £2bn in revenue. It was a 36% margin – higher than Apple, Google, or Amazon posted that year.
+
+  But Elsevier’s business model seemed a truly puzzling thing. In order to make money, a traditional publisher – say, a magazine – first has to cover a multitude of costs: it pays writers for the articles; it employs editors to commission, shape and check the articles; and it pays to distribute the finished product to subscribers and retailers. All of this is expensive, and successful magazines typically make profits of around 12-15%.
+
+  The way to make money from a scientific article looks very similar, except that scientific publishers manage to duck most of the actual costs. Scientists create work under their own direction – funded largely by governments – and give it to publishers for free; the publisher pays scientific editors who judge whether the work is worth publishing and check its grammar, but the bulk of the editorial burden – checking the scientific validity and evaluating the experiments, a process known as *peer review* – is done by working scientists on a volunteer basis. The publishers then sell the product back to government-funded institutional and university libraries, to be read by scientists – who, in a collective sense, created the product in the first place.
+
+  It is as if the New Yorker or the Economist demanded that journalists write and edit each other’s work for free, and asked the government to foot the bill. Outside observers tend to fall into a sort of stunned disbelief when describing this setup. A 2004 parliamentary science and technology committee report on the industry drily observed that “in a traditional market suppliers are paid for the goods they provide”. A 2005 Deutsche Bank report referred to it as a “bizarre” “triple-pay” system, in which “the state funds most research, pays the salaries of most of those checking the quality of research, and then buys most of the published product”.
+
+  Scientists are well aware that they seem to be getting a bad deal. The publishing business is “perverse and needless”, the Berkeley biologist Michael Eisen wrote in a 2003 article for the Guardian, declaring that it “should be a public scandal”. Adrian Sutton, a physicist at Imperial College, told me that scientists “are all slaves to publishers. What other industry receives its raw materials from its customers, gets those same customers to carry out the quality control of those materials, and then sells the same materials back to the customers at a vastly inflated price?” (A representative of RELX Group, the official name of Elsevier since 2015, told me that it and other publishers “serve the research community by doing things that they need that they either cannot, or do not do on their own, and charge a fair price for that service”.)
+
+  Many scientists also believe that the publishing industry exerts too much influence over what scientists choose to study, which is ultimately bad for science itself. Journals prize new and spectacular results – after all, they are in the business of selling subscriptions – and scientists, knowing exactly what kind of work gets published, align their submissions accordingly. This produces a steady stream of papers, the importance of which is immediately apparent. But it also means that scientists do not have an accurate map of their field of inquiry. Researchers may end up inadvertently exploring dead ends that their fellow scientists have already run up against, solely because the information about previous failures has never been given space in the pages of the relevant scientific publications. A 2013 study, for example, reported that half of all clinical trials in the US are never published in a journal.
+
+  According to critics, the journal system actually holds back scientific progress. In a 2008 essay, Dr Neal Young of the National Institutes of Health (NIH), which funds and conducts medical research for the US government, argued that, given the importance of scientific innovation to society, “there is a moral imperative to reconsider how scientific data are judged and disseminated”.
+
+  Aspesi, after talking to a network of more than 25 prominent scientists and activists, had come to believe the tide was about to turn against the industry that Elsevier led. More and more research libraries, which purchase journals for universities, were claiming that their budgets were exhausted by decades of price increases, and were threatening to cancel their multi-million-pound subscription packages unless Elsevier dropped its prices. State organisations such as the American NIH and the German Research Foundation (DFG) had recently committed to making their research available through free online journals, and Aspesi believed that governments might step in and ensure that all publicly funded research would be available for free, to anyone. Elsevier and its competitors would be caught in a perfect storm, with their customers revolting from below, and government regulation looming above.
+
+  In March 2011, Aspesi published a report recommending that his clients sell Elsevier stock. A few months later, in a conference call between Elsevier management and investment firms, he pressed the CEO of Elsevier, Erik Engstrom, about the deteriorating relationship with the libraries. He asked what was wrong with the business if “your customers are so desperate”. Engstrom dodged the question. Over the next two weeks, Elsevier stock tumbled by more than 20%, losing £1bn in value. The problems Aspesi saw were deep and structural, and he believed they would play out over the next half-decade – but things already seemed to be moving in the direction he had predicted.
+
+  Over the next year, however, most libraries backed down and committed to Elsevier’s contracts, and governments largely failed to push an alternative model for disseminating research. In 2012 and 2013, Elsevier posted profit margins of more than 40%. The following year, Aspesi reversed his recommendation to sell. “He listened to us too closely, and he got a bit burned,” David Prosser, the head of Research Libraries UK, and a prominent voice for reforming the publishing industry, told me recently. Elsevier was here to stay.
+
+
+
+![Illustration: Dom McKenzie](img/5045c6e2edc03ff9c31671072a380124_12_0.png)
+
+Aspesi was not the first person to incorrectly predict the end of the scientific publishing boom, and he is unlikely to be the last. It is hard to believe that what is essentially a for-profit oligopoly functioning within an otherwise heavily regulated, government-funded enterprise can avoid extinction in the long run. But publishing has been deeply enmeshed in the science profession for decades. Today, every scientist knows that their career depends on being published, and professional success is especially determined by getting work into the most prestigious journals. The long, slow, nearly directionless work pursued by some of the most influential scientists of the 20th century is no longer a viable career option. Under today’s system, the father of genetic sequencing, Fred Sanger, who published very little in the two decades between his 1958 and 1980 Nobel prizes, may well have found himself out of a job.
+
+Even scientists who are fighting for reform are often not aware of the roots of the system: how, in the boom years after the second world war, entrepreneurs built fortunes by taking publishing out of the hands of scientists and expanding the business on a previously unimaginable scale. And no one was more transformative and ingenious than Robert Maxwell, who turned scientific journals into a spectacular money-making machine that bankrolled his rise in British society. Maxwell would go on to become an MP, a press baron who challenged Rupert Murdoch, and one of the most notorious figures in British life. But his true importance was far larger than most of us realise. Improbable as it might sound, few people in the last century have done more to shape the way science is conducted today than Maxwell.
+
+In 1946, the 23-year-old Robert Maxwell was working in Berlin and already had a significant reputation. Although he had grown up in a poor Czech village, he had fought for the British army during the war as part of a contingent of European exiles, winning a Military Cross and British citizenship in the process. After the war, he served as an intelligence officer in Berlin, using his nine languages to interrogate prisoners. Maxwell was tall, brash, and not at all content with his already considerable success - an acquaintance at the time recalled him confessing his greatest desire: “to be a millionaire”.
+
+At the same time, the British government was preparing an unlikely project that would allow him to do just that. Top British scientists - from Alexander Fleming, who discovered penicillin, to the physicist Charles Galton Darwin, grandson of Charles Darwin - were concerned that while British science was world-class, its publishing arm was dismal. Science publishers were mainly known for being inefficient and constantly broke. Journals, which often appeared on cheap, thin paper, were produced almost as an afterthought by scientific societies. The British Chemical Society had a months-long backlog of articles for publication, and relied on cash handouts from the Royal Society to run its printing operations.
+
+The government’s solution was to pair the venerable British publishing house Butterworths (now owned by Elsevier) with the renowned German publisher Springer, to draw on the latter’s expertise. Butterworths would learn to turn a profit on journals, and British science would get its work out at a faster pace. Maxwell had already established his own business helping Springer ship scientific articles to Britain. The Butterworths directors, being ex-British intelligence themselves, hired the young Maxwell to help manage the company, and another ex-spook, Paul Rosbaud, a metallurgist who spent the war passing Nazi nuclear secrets to the British through the French and Dutch resistance, as scientific editor.
+
+They couldn’t have begun at a better time. Science was about to enter a period of unprecedented growth, having gone from being a scattered, amateur pursuit of wealthy gentleman to a respected profession. In the postwar years, it would become a byword for progress. “Science has been in the wings. It should be brought to the centre of the stage - for in it lies much of our hope for the future,” wrote the American engineer and Manhattan Project administrator Vannevar Bush, in a 1945 report to President Harry S Truman. After the war, government emerged for the first time as the major patron of scientific endeavour, not just in the military, but through newly created agencies such as the US National Science Foundation, and the rapidly expanding university system.
+
+When Butterworths decided to abandon the fledgling project in 1951, Maxwell offered £13,000 (about £420,000 today) for both Butterworth’s and Springer’s shares, giving him control of the company. Rosbaud stayed on as scientific director, and named the new venture Pergamon Press, after a coin from the ancient Greek city of Pergamon, featuring Athena, goddess of wisdom, which they adapted for the company’s logo – a simple line drawing appropriately representing both knowledge and money.
+
+In an environment newly flush with cash and optimism, it was Rosbaud who pioneered the method that would drive Pergamon’s success. As science expanded, he realised that it would need new journals to cover new areas of study. The scientific societies that had traditionally created journals were unwieldy institutions that tended to move slowly, hampered by internal debates between members about the boundaries of their field. Rosbaud had none of these constraints. All he needed to do was to convince a prominent academic that their particular field required a new journal to showcase it properly, and install that person at the helm of it. Pergamon would then begin selling subscriptions to university libraries, which suddenly had a lot of government money to spend.
+
+Maxwell was a quick study. In 1955, he and Rosbaud attended the Geneva Conference on Peaceful Uses of Atomic Energy. Maxwell rented an office near the conference and wandered into seminars and official functions offering to publish any papers the scientists had come to present, and asking them to sign exclusive contracts to edit Pergamon journals. Other publishers were shocked by his brash style. Daan Frank, of North Holland Publishing (now owned by Elsevier) would later complain that Maxwell was “dishonest” for scooping up scientists without regard for specific content.
+
+Rosbaud, too, was reportedly put off by Maxwell’s hunger for profit. Unlike the humble former scientist, Maxwell favoured expensive suits and slicked-back hair. Having rounded his Czech accent into a formidable posh, newsreader bass, he looked and sounded precisely like the tycoon he wished to be. In 1955, Rosbaud told the Nobel prize-winning physicist Nevill Mott that the journals were his beloved little “ewe lambs”, and Maxwell was the biblical King David, who would butcher and sell them for profit. In 1956, the pair had a falling out, and Rosbaud left the company.
+
+By then, Maxwell had taken Rosbaud’s business model and turned it into something all his own. Scientific conferences tended to be drab, low-ceilinged affairs, but when Maxwell returned to the Geneva conference that year, he rented a house in nearby Collonge-Bellerive, a picturesque town on the lakeshore, where he entertained guests at parties with booze, cigars and sailboat trips. Scientists had never seen anything like him. “He always said we don’t compete on sales, we compete on authors,” Albert Henderson, a former deputy director at Pergamon, told me. “We would attend conferences specifically looking to recruit editors for new journals.” There are tales of parties on the roof of the Athens Hilton, of gifts of Concorde flights, of scientists being put on a chartered boat tour of the Greek islands to plan their new journal.
+
+By 1959, Pergamon was publishing 40 journals; six years later it would publish 150. This put Maxwell well ahead of the competition. (In 1959, Pergamon’s rival, Elsevier, had just 10 English-language journals, and it would take the company another decade to reach 50.) By 1960, Maxwell had taken to being driven in a chauffeured Rolls-Royce, and moved his home and the Pergamon operation from London to the palatial Headington Hill Hall estate in Oxford, which was also home to the British book publishing house Blackwell’s.
+
+Scientific societies, such as the British Society of Rheology, seeing the writing on the wall, even began letting Pergamon take over their journals for a small regular fee. Leslie Iversen, former editor at the Journal of Neurochemistry, recalls being wooed with lavish dinners at Maxwell’s estate. “He was very impressive, this big entrepreneur,” said Iversen. “We would get dinner and fine wine, and at the end he would present us a cheque - a few thousand pounds for the society. It was more money than us poor scientists had ever seen.”
+
+Maxwell insisted on grand titles - “International Journal of” was a favourite prefix. Peter Ashby, a former vice president at Pergamon, described this to me as a “PR trick”, but it also reflected a deep understanding of how science, and society’s attitude to science, had changed. Collaborating and getting your work seen on the international stage was becoming a new form of prestige for researchers, and in many cases Maxwell had the market cornered before anyone else realised it existed. When the Soviet Union launched Sputnik, the first man-made satellite, in 1957, western scientists scrambled to catch up on Russian space research, and were surprised to learn that Maxwell had already negotiated an exclusive English-language deal to publish the Russian Academy of Sciences’ journals earlier in the decade.
+
+“He had interests in all of these places. I went to Japan, he had an American man running an office there by himself. I went to India, there was someone there,” said Ashby. And the international markets could be extremely lucrative. Ronal Suleski, who ran Pergamon’s Japanese office in the 1970s, told me that the Japanese scientific
+
+societies, desperate to get their work published in English, gave Maxwell the rights to their members’ results for free.
+
+In a letter celebrating Pergamon’s 40th anniversary, Eichi Kobayashi, director of Maruzen, Pergamon’s longtime Japanese distributor, recalled of Maxwell that “each time I have the pleasure of meeting him, I am reminded of F Scott Fitzgerald’s words that a millionaire is no ordinary man”.
+
+The scientific article has essentially become the only way science is systematically represented in the world. (As Robert Kiley, head of digital services at the library of the Wellcome Trust, the world’s second-biggest private funder of biomedical research, puts it: “We spend a billion pounds a year, and we get back articles.”) It is the primary resource of our most respected realm of expertise. “Publishing is the expression of our work. A good idea, a conversation or correspondence, even from the most brilliant person in the world ... doesn’t count for anything unless you have it published,” says Neal Young of the NIH. If you control access to the scientific literature, it is, to all intents and purposes, like controlling science.
+
+Maxwell’s success was built on an insight into the nature of scientific journals that would take others years to understand and replicate. While his competitors groused about him diluting the market, Maxwell knew that there was, in fact, no limit to the market. Creating *The Journal of Nuclear Energy* didn’t take business away from rival publisher North Holland’s journal *Nuclear Physics*. Scientific articles are about unique discoveries: one article cannot substitute for another. If a serious new journal appeared, scientists would simply request that their university library subscribe to that one as well. If Maxwell was creating three times as many journals as his competition, he would make three times more money.
+
+The only potential limit was a slow-down in government funding, but there was little sign of that happening. In the 1960s, Kennedy bankrolled the space programme, and at the outset of the 1970s Nixon declared a “war on cancer”, while at the same time the British government developed its own nuclear programme with American aid. No matter the political climate, science was buoyed by great swells of government money.
+
+![](img/5045c6e2edc03ff9c31671072a380124_17_0.png)
+
+In its early days, Pergamon had been at the centre of fierce debates about the ethics of allowing commercial interests into the supposedly disinterested and profit-shunning world of science. In a 1988 letter commemorating the 40th anniversary of Pergamon, John Coates of Cambridge University noted that initially many of his friends “considered [Maxwell] the greatest villain yet unhung”.
+
+But by the end of the 1960s, commercial publishing was considered the status quo, and publishers were seen as a necessary partner in the advancement of science. Pergamon helped turbocharge the field’s great expansion by speeding up the publication process and presenting it in a more stylish package. Scientists’ concerns about signing away their copyright were overwhelmed by the convenience of dealing with Pergamon, the shine it gave their work, and the force of Maxwell’s personality. Scientists, it seemed, were largely happy with the wolf they had let in the door.
+
+“He was a bully, but I quite liked him,” says Denis Noble, a physiologist at Oxford University and the editor of the journal *Progress in Biophysics & Molecular Biology*. Occasionally, Maxwell would call Noble to his house for a meeting. “Often there would be a party going on, a nice musical ensemble, there was no barrier between his work and personal life,” Noble says. Maxwell would then proceed to alternately browbeat and charm him into splitting the biannual journal into a monthly or bimonthly publication, which would lead to an attendant increase in subscription payments.
+
+In the end, though, Maxwell would nearly always defer to the scientists’ wishes, and scientists came to appreciate his patronly persona. “I have to confess that, quickly realising his predatory and entrepreneurial ambitions, I nevertheless took a great liking to him,” Arthur Barrett, then editor of the journal *Vacuum*, wrote in a 1988 piece about the publication’s early years. And the feeling was mutual. Maxwell doted on his relationships with famous scientists, who were treated with uncharacteristic deference. “He realised early on that the scientists were vitally important. He would do whatever they wanted. It drove the rest of the staff crazy,” Richard Coleman, who worked in journal production at Pergamon in the late 1960s, told me. When Pergamon was the target of a hostile takeover attempt, a 1973 *Guardian* article reported that journal editors threatened “to desert” rather than work for another chairman.
+
+Maxwell had transformed the business of publishing, but the day-to-day work of science remained unchanged. Scientists still largely took their work to whichever journal was the best fit for their research area – and Maxwell was happy to publish any and all research that his editors deemed sufficiently rigorous. In the mid-1970s, though, publishers began to meddle with the practice of science itself, starting down a path that would lock scientists’ careers into the publishing system, and impose the business’s own standards on the direction of research. One journal became the symbol of this transformation.
+
+"At the start of my career, nobody took much notice of where you published, and then everything changed in 1974 with *Cell*," Randy Schekman, the Berkeley molecular biologist and Nobel prize winner, told me. *Cell* (now owned by Elsevier) was a journal started by Massachusetts Institute of Technology (MIT) to showcase the newly ascendant field of molecular biology. It was edited by a young biologist named Ben Lewin, who approached his work with an intense, almost literary bent. Lewin prized long, rigorous papers that answered big questions – often representing years of research that would have yielded multiple papers in other venues – and, breaking with the idea that journals were passive instruments to communicate science, he rejected far more papers than he published.
+
+What he created was a venue for scientific blockbusters, and scientists began shaping their work on his terms. "Lewin was clever. He realised scientists are very vain, and wanted to be part of this selective members club; *Cell* was 'it', and you had to get your paper in there," Schekman said. "I was subject to this kind of pressure, too." He ended up publishing some of his Nobel-cited work in *Cell*.
+
+Suddenly, where you published became immensely important. Other editors took a similarly activist approach in the hopes of replicating *Cell*'s success. Publishers also adopted a metric called "impact factor," invented in the 1960s by Eugene Garfield, a librarian and linguist, as a rough calculation of how often papers in a given journal are cited in other papers. For publishers, it became a way to rank and advertise the scientific reach of their products. The new-look journals, with their emphasis on big results, shot to the top of these new rankings, and scientists who published in "high-impact" journals were rewarded with jobs and funding. Almost overnight, a new currency of prestige had been created in the scientific world. (Garfield later referred to his creation as "like nuclear energy ... a mixed blessing".)
+
+It is difficult to overstate how much power a journal editor now had to shape a scientist's career and the direction of science itself. "Young people tell me all the time, 'if I don't publish in CNS [a common acronym for *Cell/Nature/Science*, the most prestigious journals in biology], I won't get a job'," says Schekman. He compared the pursuit of high-impact publications to an incentive system as rotten as banking bonuses. "They have a very big influence on where science goes," he said.
+
+And so science became a strange co-production between scientists and journal editors, with the former increasingly pursuing discoveries that would impress the latter. These days, given a choice of projects, a scientist will almost always reject both the prosaic work of confirming or disproving past studies, and the decades-long pursuit of a risky "moonshot", in favour of a middle ground: a topic that is popular with editors and likely to yield regular publications. "Academics are
+
+incentivised to produce research that caters to these demands,” said the biologist and Nobel laureate Sydney Brenner in a 2014 interview, calling the system “corrupt.”
+
+Maxwell understood the way journals were now the kingmakers of science. But his main concern was still expansion, and he still had a keen vision of where science was heading, and which new fields of study he could colonise. Richard Charkin, the former CEO of the British publisher Macmillan, who was an editor at Pergamon in 1974, recalls Maxwell waving Watson and Crick’s one-page report on the structure of DNA at an editorial meeting and declaring that the future was in life science and its multitude of tiny questions, each of which could have its own publication. “I think we launched a hundred journals that year,” Charkin said. “I mean, Jesus wept.”
+
+Pergamon also branched into social sciences and psychology. A series of journals prefixed “Computers and” suggest that Maxwell spotted the growing importance of digital technology. “It was endless,” Peter Ashby told me. “Oxford Polytechnic [now Oxford Brookes University] started a department of hospitality with a chef. We had to go find out who the head of the department was, make him start a journal. And boom – International Journal of Hospitality Management.”
+
+By the late 1970s, Maxwell was also dealing with a more crowded market. “I was at Oxford University Press at that time,” Charkin told me. “We sat up and said, ‘Hell, these journals make a lot of money!’” Meanwhile, in the Netherlands, Elsevier had begun expanding its English-language journals, absorbing the domestic competition in a series of acquisitions and growing at a rate of 35 titles a year.
+
+As Maxwell had predicted, competition didn’t drive down prices. Between 1975 and 1985, the average price of a journal doubled. The New York Times reported that in 1984 it cost $2,500 to subscribe to the journal Brain Research; in 1988, it cost more than $5,000. That same year, Harvard Library overran its research journal budget by half a million dollars.
+
+Scientists occasionally questioned the fairness of this hugely profitable business to which they supplied their work for free, but it was university librarians who first realised the trap in the market Maxwell had created. The librarians used university funds to buy journals on behalf of scientists. Maxwell was well aware of this. “Scientists are not as price-conscious as other professionals, mainly because they are not spending their own money,” he told his publication Global Business in a 1988 interview. And since there was no way to swap one journal for another, cheaper one, the result was, Maxwell continued, “a perpetual financing machine”. Librarians were locked into a series of thousands of tiny monopolies. There were now more than a million scientific articles being published a year, and they had to buy all of them at whatever price the publishers wanted.
+
+From a business perspective, it was a total victory for Maxwell. Libraries were a captive market, and journals had improbably installed themselves as the gatekeepers of scientific prestige - meaning that scientists couldn't simply abandon them if a new method of sharing results came along. “Were we not so naive, we would long ago have recognised our true position: that we are sitting on top of fat piles of money which clever people on all sides are trying to sniffer on to their piles,” wrote the University of Michigan librarian Robert Houbeck in a trade journal in 1988. Three years earlier, despite scientific funding suffering its first multi-year dip in decades, Pergamon had reported a 47% profit margin.
+
+Maxwell wouldn’t be around to tend his victorious empire. The acquisitive nature that drove Pergamon’s success also led him to make a surfeit of flashy but questionable investments, including the football teams Oxford United and Derby County FC, television stations around the world, and, in 1984, the UK’s Mirror newspaper group, where he began to spend more and more of his time. In 1991, to finance his impending purchase of the New York Daily News, Maxwell sold Pergamon to its quiet Dutch competitor Elsevier for £440m (£919m today).
+
+Many former Pergamon employees separately told me that they knew it was all over for Maxwell when he made the Elsevier deal, because Pergamon was the company he truly loved. Later that year, he became mired in a series of scandals over his mounting debts, shady accounting practices, and an explosive accusation by the American journalist Seymour Hersh that he was an Israeli spy with links to arms traders. On 5 November 1991, Maxwell was found drowned off his yacht in the Canary Islands. The world was stunned, and by the next day the Mirror’s tabloid rival Sun was positing the question on everyone’s mind: “DID HE FALL ... DID HE JUMP?”, its headline blared. (A third explanation, that he was pushed, would also come up.)
+
+The story dominated the British press for months, with suspicion growing that Maxwell had committed suicide, after an investigation revealed that he had stolen more than £400m from the Mirror pension fund to service his debts. (In December 1991, a Spanish coroner’s report ruled the death accidental.) The speculation was endless: in 2003, the journalists Gordon Thomas and Martin Dillon published a book alleging that Maxwell was assassinated by Mossad to hide his spying activities. By that time, Maxwell was long gone, but the business he had started continued to thrive in new hands, reaching new levels of profit and global power over the coming decades.
+
+If Maxwell's genius was in expansion, Elsevier's was in consolidation. With the purchase of Pergamon's 400-strong catalogue, Elsevier now controlled more than 1,000 scientific journals, making it by far the largest scientific publisher in the world.
+
+At the time of the merger, Charkin, the former Macmillan CEO, recalls advising Pierre Vinken, the CEO of Elsevier, that Pergamon was a mature business, and that Elsevier had overpaid for it. But Vinken had no doubts, Charkin recalled: “He said, ‘You have no idea how profitable these journals are once you stop doing anything. When you're building a journal, you spend time getting good editorial boards, you treat them well, you give them dinners. Then you market the thing and your salespeople go out there to sell subscriptions, which is slow and tough, and you try to make the journal as good as possible. That’s what happened at Pergamon. And then we buy it and we stop doing all that stuff and then the cash just pours out and you wouldn't believe how wonderful it is.' He was right and I was wrong.”
+
+By 1994, three years after acquiring Pergamon, Elsevier had raised its prices by 50%. Universities complained that their budgets were stretched to breaking point - the US-based Publishers Weekly reported librarians referring to a “doomsday machine” in their industry - and, for the first time, they began cancelling subscriptions to less popular journals.
+
+![](img/5045c6e2edc03ff9c31671072a380124_22_0.png)
+
+At the time, Elsevier’s behaviour seemed suicidal. It was angering its customers just as the internet was arriving to offer them a free alternative. A 1995 Forbes article described scientists sharing results over early web servers, and asked if Elsevier was to be “The Internet’s First Victim”. But, as always, the publishers understood the market better than the academics.
+
+In 1998, Elsevier rolled out its plan for the internet age, which would come to be called “The Big Deal”. It offered electronic access to bundles of hundreds of journals at a time: a university would pay a set fee each year - according to a report based on freedom of information requests, Cornell University’s 2009 tab was just short of $2m - and any student or professor could download any journal they wanted through Elsevier’s website. Universities signed up en masse.
+
+Those predicting Elsevier’s downfall had assumed scientists experimenting with sharing their work for free online could slowly outcompete Elsevier’s titles by replacing them one at a time. In response, Elsevier created a switch that fused Maxwell’s thousands of tiny monopolies into one so large that, like a basic resource - say water, or power - it was impossible for universities to do without. Pay, and the scientific lights stayed on, but refuse, and up to a quarter of the scientific literature would go dark at any one institution. It concentrated immense power in the hands of the largest publishers, and Elsevier’s profits began another steep rise that would lead them into the billions by the 2010s. In 2015, a Financial Times article anointed Elsevier “the business the internet could not kill”.
+
+Publishers are now wound so tightly around the various organs of the scientific body that no single effort has been able to dislodge them. In a 2015 report, an information scientist from the University of Montreal, Vincent Larivière, showed that Elsevier owned 24% of the scientific journal market, while Maxwell’s old partners Springer, and his cross-town rivals Wiley-Blackwell, controlled about another 12% each. These three companies accounted for half the market. (An Elsevier representative familiar with the report told me that by their own estimate they publish only 16% of the scientific literature.)
+
+> “Despite my giving sermons all over the world on this topic, it seems journals hold sway even more prominently than before,” Randy Schekman told me. It is that influence, more than the profits that drove the system’s expansion, that most frustrates scientists today.
+
+Elsevier says its primary goal is to facilitate the work of scientists and other researchers. An Elsevier rep noted that the company received 1.5m article submissions last year, and published 420,000; 14 million scientists entrust Elsevier
+
+to publish their results, and 800,000 scientists donate their time to help them with editing and peer-review. “We help researchers be more productive and efficient,” Alicia Wise, senior vice president of global strategic networks, told me. “And that’s a win for research institutions, and for research funders like governments.”
+
+On the question of why so many scientists are so critical of journal publishers, Tom Reller, vice president of corporate relations at Elsevier, said: “It’s not for us to talk about other people’s motivations. We look at the numbers [of scientists] who trust their results to Elsevier] and that suggests we are doing a good job”. Asked about criticisms of Elsevier’s business model, Reller said in an email that these criticisms overlooked “all the things that publishers do to add value - above and beyond the contributions that public-sector funding brings”. That, he said, is what they were charging for.
+
+In a sense, it is not any one publisher’s fault that the scientific world seems to bend to the industry’s gravitational pull. When governments including those of China and Mexico offer financial bonuses for publishing in high-impact journals, they are not responding to a demand by any specific publisher, but following the rewards of an enormously complex system that has to accommodate the utopian ideals of science with the commercial goals of the publishers that dominate it. (“We scientists have not given a lot of thought to the water we’re swimming in,” Neal Young told me.)
+
+Since the early 2000s, scientists have championed an alternative to subscription publishing called “open access”. This solves the difficulty of balancing scientific and commercial imperatives by simply removing the commercial element. In practice, this usually takes the form of online journals, to which scientists pay an upfront fee to cover editing costs, which then ensure the work is available free to access for anyone in perpetuity. But despite the backing of some of the biggest funding agencies in the world, including the Gates Foundation and the Wellcome Trust, only about a quarter of scientific papers are made freely available at the time of their publication.
+
+The idea that scientific research should be freely available for anyone to use is a sharp departure, even a threat, to the current system - which relies on publishers’ ability to restrict access to the scientific literature in order to maintain its immense profitability. In recent years, the most radical opposition to the status quo has coalesced around a controversial website called Sci-Hub - a sort of Napster for science that allows anyone to download scientific papers for free. Its creator, Alexandra Elbakyan, a Kazakhstani, is in hiding, facing charges of hacking and copyright infringement in the US. Elsevier recently obtained a $15m injunction (the maximum allowable amount) against her.
+
+Elbakyan is an unabashed utopian. “Science should belong to scientists and not the publishers,” she told me in an email. In a letter to the court, she cited Article 27 of the UN’s Universal Declaration of Human Rights, asserting the right “to share in scientific advancement and its benefits”.
+
+Whatever the fate of Sci-Hub, it seems that frustration with the current system is growing. But history shows that betting against science publishers is a risky move. After all, back in 1988, Maxwell predicted that in the future there would only be a handful of immensely powerful publishing companies left, and that they would ply their trade in an electronic age with no printing costs, leading to almost “pure profit”. That sounds a lot like the world we live in now.
+
+Illustrations by Dom McKenzie
+
+Follow the Long Read on Twitter at [@gdnlonegread](https://twitter.com/gdnlonegread), or sign up to the long read weekly email [here](https://www.theguardian.com/email-newsletters).
+
+This article was amended on 28 June and 5 July 2017. Elsevier published 420,000 papers last year, after receiving 1.5m submissions; a previous version incorrectly stated that it publishes 1.5m papers a year. This article was further amended to correct the date that the Soviet Union launched Sputnik. That was in 1957, not 1959.
+
+
+### Sci-Hub, the site for pirated academic papers, is on trial in India
+
+Dozens of Indian academics say blocking the site would have catastrophic consequences.
+
+By MEGHAN TOBIN
+
+
+The doctoral researchers in Sandhya Koushika’s neuroscience lab have something that sets them apart from students at some of India’s other universities. It’s not just that they’re top students who earned spots at one of the premier public universities in India’s competitive education system, the Tata Institute of Fundamental Research, or that they’re conversant enough in the neurobiology of Caenorhabditis elegans (roundworms) to draw comics full of worm jokes. It’s that they can access scientific research published in some of the world’s largest academic journals.
+
+Academic journals are expensive. Each department might need access to several journals, each costing a few thousand dollars for annual access — and bills can easily reach into the hundreds of thousands per year across an entire university, prices even some of the world’s wealthiest universities have complained are untenable. “It’s so much money, the kind of money with which I could run my lab here — it seemed wrong in a fundamental way,” Koushika told Rest of World. “After all, the research is largely funded by public money. And we all [peer] review for free. Yet we pay so much?”
+
+But for students at the many research institutions around the world that can’t afford the subscriptions, there’s Sci-Hub. Created and operated by the Kazakhstani computer scientist Alexandra Elbakyan, Sci-Hub is a free repository for academic papers — more than 87 million of them at the time of publication. The overwhelming majority of these papers have already been published in copyrighted journals elsewhere. The site was explicitly created as a way to circumvent the journals’ paywalls, bringing millions of researchers access to published articles they couldn’t otherwise afford. Now, a court case in India threatens to block access. Rest of World spoke with almost a dozen academics who told us that the decision to permanently block access to Sci-Hub could have catastrophic consequences for learning and scientific development in the country.
+
+“Different institutions have very different access to funds, so for many people, myself included, Sci-Hub was offering access to a lot of scholarly material that my library would not have subscribed to,” said Ram Ramaswamy, a retired scientist who was president of the Indian Academy of Sciences, Bangalore, from 2016 to 2018. “It gets tiring after a while to be writing to friends abroad, saying, Can you send me a copy of this or that paper? ... The arrival of Sci-Hub, which democratized access to scientific literature, was very welcome."
+
+For the better part of the last decade, the world's largest academic publishers have been playing a global game of legal whack-a-mole with Sci-Hub, trying to get it shut down in various countries on the grounds that it infringes their copyright. The publishers have won legal cases in several countries. To stay ahead of them, Sci-Hub has bounced from domain to domain, using mirrors from Taiwan to São Tomé, in order to continue operating. But in late 2020, four publishers — Elsevier, Wiley India, Wiley Periodicals, and the American Chemical Society — opened a case in India. For once, the case isn't clear cut. Legal experts say that Sci-Hub could have a fighting chance under India's unique copyright laws. And even if they lose, the case has prompted dozens of prominent Indian scientists to speak up about an issue that has divided the academic community for years: who gets access to, and therefore benefits from, published research.
+
+The publishers' case in India alleges that Sci-Hub infringes on their copyright and threatens the security of personal data, and that Sci-Hub uses phishing attacks and stolen user credentials to gain access to copyrighted material. They have asked the court for a dynamic injunction — effectively requiring any internet service provider in India to block the platform in whatever incarnation it might appear in the future. The suit names Sci-Hub's founder Elbakyan, its frequent partner electronic books platform Library Genesis, eight Indian internet service providers, and India's Department of Telecommunications and Ministry of Electronics and Information Technology.
+
+In an emailed statement, the publishers told *Rest of World* that Sci-Hub threatens the academic research process because the site has no incentive to ensure the accuracy of scientific articles, while academic publishers "safeguard the scholarly record." The publishers work closely with the Indian research community, said the statement: "More than 1,500 academic and research institutions across India responsibly access scholarly articles through subscriptions to academic journals published by ACS, Elsevier, and Wiley." Sci-Hub did not respond to requests for comment by publication time.
+
+As the case has dragged on — across 20 hearings through 2021 — it's become clear that it's about more than just copyright law. Several groups of scientists, Ramaswamy among them, have applied to formally intervene in the case (a process where a group that is not party to a case can request to submit information akin to an amicus brief for the judge's consideration), arguing that open access to scientific research is a matter of public importance with implications for the entire scientific community.
+
+According to Sci-Hub's logs, 1.8 million papers were downloaded in India during the month of February 2022 alone. The same month, over 10 million were downloaded in the U.S., and nearly 30 million in China.
+
+> "The arrival of Sci-Hub, which democratized access to scientific literature, was very welcome."
+
+
+
+## The Indian Scientists' Argument
+
+The Indian scientists' argument boils down to fairness. Researchers at wealthy universities, disproportionately located in North America and Europe, indirectly benefit from restricted access to published papers. "Since they can easily pay these charges, this gives them a competitive advantage over academics from other countries who cannot pay," theoretical physicist Suvaraj Raju, who spends his days untangling the mystery of what happens inside black holes at the International Centre for Theoretical Sciences in Bengaluru, told Rest of World.
+
+Raju said there are better models out there for distributing academic research. There's SciPost, a publication portal for several open-access journals based in the Netherlands, which he edits. As a physicist, he rarely needs to pay for access to any paper he wants: they're all on arXiv, the 30-year-old original open access digital repository for pre-prints of scientific articles in specific fields like physics, mathematics, and computer science. Use of pre-print platforms like bioRxiv and medRxiv to access the latest infectious disease research has exploded during the coronavirus pandemic. Articles don't have to be peer reviewed or published by a journal to appear on a pre-print platform, although many are updated post-publication. They're available faster but haven't always received the same level of scrutiny.
+
+"One of arXiv's early intents, over 30 years ago, was to level the playing field for researchers ... and it was possible to do so without breaking copyright or other law," arXiv founder Paul Ginsparg told Rest of World. Ginsparg says Sci-Hub's model isn't sustainable. "If you don't like the game, rather than break the rules, it's preferable to change them."
+
+Some scientists hope that Sci-Hub's case in India could change the rules. Sci-Hub lost a similar case in the U.S. in 2015 (and was ordered to pay $15 million in damages just two years later), but India's laws include a provision for "fair dealings," also known as fair use, an exception under the Copyright Act, which permits the use of copyrighted work for research, according to Tanmay Singh, a counselor at the Internet Freedom Foundation, which is providing legal advice to a group of social science researchers who have applied to intervene in the case. The Internet Freedom Foundation says this provision could be read in such a way that the researchers' ability to access the material is a right.
+
+If Sci-Hub doesn't win, it's unlikely to stop publishing anyway. A dynamic injunction won't stop the site from constantly moving between mirrors, said Arul George Scaria, associate professor of law at National Law University, Delhi. And, deciding to block Sci-Hub permanently from India won't change the underlying dynamics that created a need for the platform in the first place: rising costs and disagreement over the value of open access, said Koushika at Tata Institute of Fundamental Research. "Until those issues are resolved, Sci-Hub meets a need," said Koushika. "No matter what you do, I don't know where [in the world] you can squelch it, because you will have a mirror site coming up somewhere else."
+
+Meaghan Tobin is a reporter at Rest of World.
+
+## The Frustrated Science Student Behind Sci-Hub
+
+# # The frustrated science student behind Sci-Hub
+
+Alexandra Elbakyan founded Sci-Hub to thwart journal paywalls
+
+
+![img/5045c6e2edc03ff9c31671072a380124_29_0.png](img/5045c6e2edc03ff9c31671072a380124_29_0.png)
+
+Alexandra Elbakyan, Sci-Hub founder. APNEET JOLLY/FLICKR
+
+Beyond being the founder of Sci-Hub, the world's largest pirate site for academic papers, and risking arrest as a result, Alexandra Elbakyan is a typical science graduate student: idealistic, hard-working, and relatively poor. In 1988, when Elbakyan was born in Kazakhstan, the Soviet Union was just beginning to crumble. Books about dinosaurs and evolution fascinated her early on. "I also remember reading Soviet science books that provided scientific explanations for miraculous events thought previously to be produced by gods or magic." She was hooked.
+
+At university in the Kazakh capital, she discovered a knack for computer hacking. It appealed to her because "unlike higher programming languages that are created by people and are volatile," making and breaking computer security systems requires a deeper knowledge of mathematics and the primitive 'assembly language' that computers use to move information.
+
+### Related content:
+
+- **Who's downloading pirated papers? Everyone**
+    - *An exclusive look at data from the controversial web site Sci-Hub reveals that the whole world, both poor and rich, is reading pirated research papers*
+- **My love-hate of Sci-Hub**
+    - *Editorial by Marcia McNutt, Editor-in-Chief, Science suite of journals*
+- **It's a Sci-Hub world data set**
+    - *Data set and details on Sci-Hub server*
+
+Like so many of Kazakhstan's brightest, Elbakyan left the country to pursue her dreams. First she worked in Moscow in computer security for a year, and then she used the earnings to launch herself to the University of Freiburg in Germany in 2010, where she joined a brain-computer interface project. She was lured by the possibility that such an interface could one day translate the thought content from one mind and upload it to another. But the work fell short of her dreams. "The lab activity was spiritless," she says. "There was no feeling of pursuing a higher goal."
+
+Elbakyan did find a community of like-minded researchers in transhumanism, a lofty field that encompasses not just neuroscience and computer technology but also philosophy and even speculative fiction about the future of humanity. She discovered a transhumanism conference in the United States and set her heart on attending, but she struggled to get a U.S. visa. She was rejected the first time and only barely made it to the conference. With the remainder of her summer visa, she did a research internship at Georgia Institute of Technology in Atlanta. When she got back to Kazakhstan, frustration with the barriers that scientists face would soon lead her to create Sci-Hub— an awe-inspiring act of altruism or a massive criminal enterprise, depending on whom you ask.
+
+Publisher paywalls are the bane of scientists and students in Kazakhstan, she says, and the existing solution was cumbersome: Post a request on Twitter to @IcanhazPDF with your email address. Eventually, a generous researcher at some university with access to the journal will send you the paper.
+
+![img/5045c6e2edc03ff9c31671072a380124_30_0.png](img/5045c6e2edc03ff9c31671072a380124_30_0.png)
+
+What was needed, she decided, was a system that allowed that paper to be shared—with absolutely everyone. She had the computer skills—and contacts with other pirate websites—to make that happen, and so Sci-Hub was born. Elbakyan sees the site as a natural extension of her dream of helping humans share open ideas. "Journal paywalls are an example of something that works in the reverse direction," she says, "making communication less open and efficient."
+
+Running a pirate site and being sued for what is likely to be millions of dollars in damages hasn't stopped Elbakyan from pursuing an academic career. Her neuroscience research is on hold, but she has enrolled in a history of science master's program at a "small private university" in an undisclosed location. Appropriately enough, her thesis focuses on scientific communication. "I perceive Sci-Hub as a practical side of my research."
+
+doi: 10.1126/science.aaf5675
+
+**RELEVANT TAGS:**
+
+PEOPLE & EVENTS | SCIENTIFIC COMMUNITY
+
+### ABOUT THE AUTHOR
+
+![img/5045c6e2edc03ff9c31671072a380124_30_1.png](img/5045c6e2edc03ff9c31671072a380124_30_1.png)
+
+John is a former contributing correspondent for Science.

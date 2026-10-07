@@ -1,0 +1,7 @@
+f Maxwell's genius was in expansion, Elsevier's was in consolidation. With the purchase of Pergamon's 400-strong catalogue, Elsevier now controlled more than 1,000 scientific journals, making it by far the largest scientific publisher in the world.
+
+At the time of the merger, Charkin, the former Macmillan CEO, recalls advising Pierre Vinken, the CEO of Elsevier, that Pergamon was a mature business, and that Elsevier had overpaid for it. But Vinken had no doubts, Charkin recalled: “He said, ‘You have no idea how profitable these journals are once you stop doing anything. When you're building a journal, you spend time getting good editorial boards, you treat them well, you give them dinners. Then you market the thing and your salespeople go out there to sell subscriptions, which is slow and tough, and you try to make the journal as good as possible. That’s what happened at Pergamon. And then we buy it and we stop doing all that stuff and then the cash just pours out and you wouldn't believe how wonderful it is.' He was right and I was wrong.”
+
+By 1994, three years after acquiring Pergamon, Elsevier had raised its prices by 50%. Universities complained that their budgets were stretched to breaking point - the US-based Publishers Weekly reported librarians referring to a “doomsday machine” in their industry - and, for the first time, they began cancelling subscriptions to less popular journals.
+
+![](bbox=[0.07, 0.54, 0.94, 0.96])
