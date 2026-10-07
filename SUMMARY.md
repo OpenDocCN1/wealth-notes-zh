@@ -357,6 +357,7 @@
 +   [易灯权谋合集上册](docs/易灯权谋合集上册/README.md)
 +   [易灯权谋合集下册](docs/易灯权谋合集下册/README.md)
 +   [易灯权谋合集中册](docs/易灯权谋合集中册/README.md)
++   [晚清沧海事（罗马主义）](docs/晚清沧海事罗马主义/README.md)
 +   [智慧型股票投资人](docs/智慧型股票投资人/README.md)
 +   [暗黑交涉术](docs/暗黑交涉术/README.md)
 +   [暗黑心机操控心理学](docs/暗黑心机操控心理学/README.md)
