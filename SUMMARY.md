@@ -315,5 +315,6 @@
 +   [愚公掘金精华电子书第三期](docs/愚公掘金精华电子书第三期/README.md)
 +   [愚公掘金精华电子书第二期](docs/愚公掘金精华电子书第二期/README.md)
 +   [致富指南](docs/慢慢致富/README.md)
++   [The user wants me to translate the book title "成交心法" into Chinese.](docs/成交心法/README.md)
 +   [成交的最高境界](docs/成交的最高境界下/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
