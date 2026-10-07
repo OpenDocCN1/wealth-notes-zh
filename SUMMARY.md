@@ -373,6 +373,7 @@
 +   [权谋论坛：权谋伪装](docs/权谋论坛权谋伪装/README.md)
 +   [权谋论坛：权谋夺势](docs/权谋论坛权谋夺势/README.md)
 +   [权谋论坛：权谋帝术](docs/权谋论坛权谋帝术/README.md)
++   [权谋论坛：权谋心术](docs/权谋论坛权谋心术/README.md)
 +   [The provided text "权谋论坛：权谋心理" is already in Chinese.](docs/权谋论坛权谋心理/README.md)
 +   [权谋论坛：权谋与谋略](docs/权谋论坛权谋思略/README.md)
 +   [权谋论坛：权谋深度](docs/权谋论坛权谋深度/README.md)
