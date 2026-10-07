@@ -382,4 +382,6 @@
 +   [权谋论坛：权谋职场](docs/权谋论坛权谋职场/README.md)
 +   [No content provided.](docs/权谋论坛权谋语录/README.md)
 +   [权谋论坛：权谋转机](docs/权谋论坛权谋转机/README.md)
++   [李想·产品实战16讲](docs/李想产品实战16讲/README.md)
++   [杰亚伯拉罕营销内幕笔记](docs/杰亚伯拉罕营销内幕笔记/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
