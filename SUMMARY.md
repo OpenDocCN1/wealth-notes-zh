@@ -297,5 +297,6 @@
 +   [强者手册](docs/强者手册/README.md)
 +   [形态操盘法](docs/形态操盘法/README.md)
 +   [彼得林区学以致富](docs/彼得林区学以致富/README.md)
++   [Peter Lynch's Picking Strategy](docs/彼得林区选股战略/README.md)
 +   [徐弃郁美国简史30讲](docs/徐弃郁美国简史30讲/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
