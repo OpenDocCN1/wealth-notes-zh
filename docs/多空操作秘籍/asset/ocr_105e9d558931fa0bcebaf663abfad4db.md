@@ -1,0 +1,11 @@
+![](bbox=[0.22, 0.18, 0.8, 0.5])
+
+COURTESY OF MANSFIELD STOCK CHARTS
+
+# 圖2-10
+
+![](bbox=[0.17, 0.57, 0.85, 0.87])
+
+COURTESY OF MANSFIELD STOCK CHARTS
+
+# 圖2-11
