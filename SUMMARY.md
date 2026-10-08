@@ -563,4 +563,5 @@
 +   [贾宁财务思维课](docs/贾宁财务思维课/README.md)
 +   [这是一个中文标题，无法按照英文书籍标题的翻译规则进行翻译，且该标题本身已是中文。](docs/贾行家说武侠30讲/README.md)
 +   [贾行家说老舍](docs/贾行家说老舍/README.md)
++   [Estimating Officials' Unofficial Income in Asset Purchases](docs/资产购买中的秘密估算官员的非官方收入/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
