@@ -1,0 +1,226 @@
+
+## 索引
+
+- arbitrage pricing theory (APT) 套利定价理论
+- ARCH model. *See also* GARCH models ARCH 模型，参见GARCH模型
+- Argentina 阿根廷
+- arithmetic returns 算术回报/算术收益
+- Arkansas, default 阿肯色州，违约
+- Asian crisis (1997 ~ 1998) 亚洲经济危机 (1997 ~ 1998)
+- aspirational portfolio, Merton-Samuelson model 进取型组合，Merton-Samuelson模型
+- asset allocation. *See also* factor investing 资产配置，参见因子投资
+- asset-liability matching 资产负债匹配
+- asset location decision, tax-efficient investing 资产定位决策，节税投资
+- asset managers, payment of. *See compensation*, asset managers 资产管理人，参见薪酬，资产管理人
+- asset owners 资产所有者
+- asset under management 资产管理规模/在管资产规模
+- asymmetric information 不对称信息
+- asymmetric risk aversion. *See prospect theory or loss aversion* 不对称风险厌恶/不对称风险规避，参见前景理论或厌恶损失
+- Athene Holding 雅典娜控股
+- AT&T 美国电话电报公司
+- Austria 奥地利
+- average life expectancy. *See also* longevity risk 平均寿命，参见长寿风险
+
+- BAB factor. *See betting-against-beta (BAB) factor* BAB因子，参见反向贝塔因子
+- baby boomers 婴儿潮
+- back-end load 后端费用
+- backwardation, commodities. *See also* roll return, commodities 贴水，大宗商品。参见展期收益/回报，大宗商品
+- bad times 不景气时期
+- Bain Capital 贝恩资本
+- Bank of America 美国银行
+- banks, private equity and 银行、私募股权
+- Bansal-Yaron (2004) long-run risk model Bansal-Yaron (2004) 的长期风险模型
+- Barclays Global Investors (BGI) 巴克莱全球投资公司
+- bargaining game 议价博弈
+- Batterymarch Financial Management Batterymarch财务管理公司
+- Bayesian shrinkage methods 贝叶斯收缩方法
+- behavior biases 行为偏差
+- behavior-based contracts 基于行为的契约
+- benchmarks. *See also* factor benchmarks 基准，参见因子基准
+- Bengen, William. *See also* 4% rule Bengen, William，参见4%法则
+- Bequests, retirement and 遗产、退休
+- Berl and Green (2004) model Berl和Green (2004) 模型
+- Berkshire Hathaway. *See Buffett, Warren* 伯克希尔·哈撒韦公司，参见沃伦·巴菲特
+- Bernanke, Ben 本·伯南克
+- Beta anomaly. *See also* risk anomaly 贝塔异象，参见风险异象
+- betting-against-beta (BAB) factor 反向贝塔因子
+- biases. *See also* home bias 偏差，参见本土偏好
+- "big swinging dick" utility "Big Swinging Dick"效用
+
+- Black, Fischer 费舍尔 · 布莱克
+- Black-Litterman (1991) model Black-Litterman (1991) 模型
+- Black-Scholes (1973) option pricing model Black-Scholes (1973) 期权定价模型
+- black swans (Taleb) 黑天鹅 (Taleb)
+- Black (1980) and Tepper (1981) strategy Black (1980) 和 Tepper (1981) 策略
+- boards, delegated investing. See also agency issues and problems 董事会，委托投资。参见代理问题
+- Bogle, John 约翰 · 伯格
+- bonds. See also municipal bonds; real bonds 债券，参见市政债券；实际债券
+- book value 账面价值
+- book-to-market ratio 账面市值比，或净值市价比
+- Boston University 波士顿大学
+- bounded rational investors 有限理性投资者
+- break-even inflation compensation 盈亏平衡通胀补偿
+- Bretton Woods 布雷顿森林体系
+- Capital Asset Pricing Model (CAPM) 资本资产定价模型 (CAPM)
+- Bridgewater Associates 桥水基金
+- Brookings Institution, Hamilton Project 布鲁金斯学会，汉密尔顿计划
+- Brownian motion 布朗运动
+- Buffett, Warren 沃伦 · 巴菲特
+- buy and hold 买入并持有
+- buyout funds. See also private equity 并购基金，参见私募股权
+- CAL. See Capital Allocation Line (CAL) CAL，参见资本配置线
+- California Public Employees' Retirement System (CalPERS) 加利福尼亚州公共雇员退休体系
+- Campbell-Cochrane view of predictability. See also predicting returns, cash flow vs. discount rate predictability. Campbell-Cochrane 关于可预测性的观点。参见预测回报、现金流 vs. 贴现率的可预测性
+- Cambridge University 剑桥大学
+- Canada Pension Plan 加拿大养老金计划
+- Canada Pension Plan Investment Board (CPPIB) 加拿大养老金计划投资委员会
+- Capital Allocation Line (CAL) 资本配置线
+- Capital Asset Pricing Model (CAPM) 资本资产定价模型 (CAPM)
+- Capital Market Line (CML) 资本市场线
+- CAPM. See Capital Asset Pricing Model (CAPM) CAPM，参见资本资产定价模型
+- career concerns 职业生涯考虑
+- carried interest (carry), private equity contracts 业绩提成，私募股权合同
+- carry (foreign exchange) 外汇贴息
+- Carter, Jimmy 吉米 · 卡特
+- cash flow effect 现金流效应
+- cash flow matching, liability hedging 现金流匹配，对冲负债
+- cash return, commodities 现金收益/回报，大宗商品
+- catastrophes, equity premium 灾难，股票溢价
+- catching up with the Joneses utility 攀比效用
+- catch-up provisions, private equity contract 追补条款，私募股权合约
+- certainty equivalent 确定性等价
+- Chile, Copper Stabilization Fund 智利，铜稳定基金
+
+- China, bond clientele 中国，债券客户
+- China Investment Corporation (CIC) 中国投资有限责任公司（中投公司）
+- Citigroup 花旗集团
+- Clinton Bill 比尔·克林顿
+- close-end funds 封闭式基金
+- close-end funds discount puzzle 封闭式基金折价之谜
+- CML 参见资本市场线（CML）
+- cointegration 协整
+- COLAs 参见生活成本调整
+- collateral, safe assets 抵押物，安全资产
+- Columbia University 哥伦比亚大学
+- commenda 一种为商船航运提供融资的合同
+- commissions 佣金。参见薪酬，资产管理人
+- commitment, private equity 承诺额，私募股权
+- commodities 大宗商品
+- Commodity Futures Trading Commission (CFTC) 商品期货交易委员会
+- Commodity Trading Advisers (CTAs) 大宗商品交易顾问
+- compensation, asset managers 薪酬，资产管理人
+- concavity of utility functions 效用函数的凹度
+- conflicts of interest, minimizing through 40-Act 利益冲突，通过40-法案最小化
+- ConocoPhillips 康菲石油公司
+- conservatism bias 保守主义偏差
+- constant relative risk aversion (CRRA) utility 常数相对风险厌恶效用
+- constraints, use of mean-variance investing 限制，使用均值方差投资
+- Consumer Price Index (CPI) 消费者价格指数
+- consumption 消费
+
+- contango, commodities. See also roll return, commodities 升水，大宗商品。参见展期收益/回报，大宗商品
+- contemporaneous beta and returns 同期的贝塔值与收益率/回报率
+- contemporaneous volatility and returns 同期的波动率与收益率/回报率
+- contracts 契约
+- contribution holiday 缴款假期
+- convenience yield, commodities 便利收益率，大宗商品
+- corporate bonds (credit spread). See also bonds 公司债券（信用利差）。参见债券
+- correlation varying over time 随时间而变化的相关系数
+- cost-of-living adjustments (COLAs) 生活成本调整
+- cost push inflation 成本推动型通货膨胀
+- counter-cyclical 逆周期
+- CPI. See Consumer Price Index CPI，参见消费者价格指数
+- CPPIB. See Canada Pension Plan Investment Board (CPPIB) 加拿大养老金计划投资委员会
+- credit risk. See also corporate bonds (credit spread); sovereign (risk-free) bonds 信用风险，参见公司债券（信用利差）；国家债券（无风险）
+- credit spread puzzle 信用利差之谜
+- cross-sectional strategy 横截面策略
+- Currency composition of official foreign exchange reserves (COFER) 官方外汇储备的币种构成
+- curvature, utility function. See also risk aversion 曲率，效用函数。参见风险规避/厌恶
+
+- curvature factor, bonds 曲率系数，债券
+- customized factor benchmark 定制化因子基准
+- Dartmouth College 达特茅斯学院
+- data biases 数据偏差
+- data mining 数据挖掘
+- December returns, hedge funds 12月收益，对冲基金
+- decision weights, in loss aversion utility 决策权重，损失厌恶效用
+- decreasing marginal diversification benefits 边际递减的多元分散化优势
+- decreasing returns to scale 规模报酬递减
+- default model, structural 违约模型，结构化
+- defined benefit plans 固定收益计划
+- defined contributions plans 固定缴款计划
+- deflation 通货紧缩
+- degree of risk aversion. *See risk aversion coefficient* 风险厌恶/风险规避程度，参见风险厌恶/风险规避系数
+- delegated investing. *See also boards, delegated investing* 委托投资。参见董事会，委托投资
+- Deloitte & Touche 德勤会计事务所
+- demand pull inflation 需求推动型通货膨胀
+- demographic risk 人口风险
+- depository institutions 存款机构
+- derivatives, hedge funds and 衍生品，对冲基金
+- desmoothing 去平滑化
+- Detroit, bankruptcy 底特律，破产
+- Diamond, Peter 彼得·戴蒙德
+- differential ability, asset managers 能力存在差别，资产管理人
+- Dimension Fund Advisers (DFA) DFA资产管理公司
+- direct vs. indirect real estate, *See also* REIT puzzle 直接和间接房地产投资，参见房地产投资信托基金之谜
+- disaster risk, equity premium puzzle 灾难风险，股票溢价之谜
+- disappointment aversion 失望厌恶
+- disclosure. *See also* contracts 披露，参见合同
+- discount rate effect 折现率/贴现率效应
+- discount rate models vs. pricing kernels 折现率/贴现率模型 vs. 定价核
+- discretionary style, hedge funds 相机决策风格，对冲基金
+- distressed funds, private equity 困境基金，私募股权
+- diversification 多元分散化
+- diversification return 多元分散化收益
+- diversity weights, special case of mean-variance investing 多样化权重，均值一方差投资的特殊形式
+- Dividend Discount Model (Gordon) 股利贴现模型/股息贴现模型
+- dividend tax penalty 股利的税收惩罚
+- Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 2010年的Dodd-Frank华尔街改革和消费者保护法案
+- dominated portfolios 占优组合
+- downside risk. *See also* short volatility factor 下行风险。参见做空波动率因子
+- dual mandate (Federal Reserve) 美联储的双重任务
+- duration matching, liability hedging 久期匹配，对冲负债
+- Dutch disease 荷兰病
+- dynamic factors. *See also* factor investing 动态因子。参见因子投资
+- dynamic leverage strategy, factor investing as 动态杠杆策略，因子投资
+- dynamic portfolio choice 动态组合选择
+- dynamic programming 动态规划
+- dynamic stochastic general equilibrium (DSGE) models 动态随机一般均衡模型
+- dynamic trading strategies. See factor investing 动态交易策略，参见因子投资
+- economic growth, macro factor 经济增长，宏观因子
+- economic models 经济模型
+- efficient frontier 有效前沿
+- Efficient market hypothesis (EMH) 有效市场假说
+- Employees' retirement system of Rhode Island (ERSRI) 罗德岛的雇员退休体系
+- Employment Retirement Security Act of 1974. See ERISA 1974年的雇员退休收入保障法案，参见ERISA
+- Endowment fund 捐赠基金
+- endowment model. See also Swensen David 捐赠模型，参见大卫·斯文森
+- endowments, See foundations and endowments 捐赠基金，参见基金会和捐赠基金
+- Engle, Robert. See also ARCH models; GARCH models 恩格尔·罗伯特。参见ARCH 模型；GARCH 模型
+- Enron Corp 安然公司
+- enterprise value 企业价值
+- environmental issues. See also socially responsible investing 环境问题。参见社会责任投资
+- equal risk contributions, special case of mean-variance investing 等风险贡献，均值方差投资的一种特殊形式
+- equal-weighted strategy 等权重策略
+- equilibrium, capital asset market pricing model (CAPM) 均衡，资本市场定价模型
+- equities 股票
+- equity premium puzzle 股票溢价之谜
+- equivalent taxable wealth 等值的应税财富
+- ERISA 雇员退休收入保障法
+- estate taxes 遗产税
+- ETFs. See Exchange-traded funds (ETFs) 交易所交易基金
+- ethical violation. See also socially responsible investing 违背道德，参见社会责任投资
+- European Central Bank (ECB) 欧洲央行
+- European Exchange Rate Mechanism (ERM) 欧洲汇率机制
+- Ewing Marion Kauffman Foundation report 考夫曼基金会报告
+- excess sensitivity of consumption, life-cycle model 消费过敏度，生命周期模型
+- excess volatility puzzle 过度波动率之谜
+- exchange-traded funds (ETFs) 交易所交易基金
+- exchange-traded notes (ETNs) 交易所交易票据
+- exorbitant privilege (Debrun and Stangl) 过度特权
+- exotic beta, See also factor investing 奇异贝塔/异类贝塔，参见因子投资
+- Expectations Hypothesis 预期假设理论
+- expected utility, See also constant relative risk aversion (CRRA) utility 期望效用，参见常数相对风险厌恶效用
+- expense ratio 费用比率
+- externality 外部性
+- explicit contract 显性契约

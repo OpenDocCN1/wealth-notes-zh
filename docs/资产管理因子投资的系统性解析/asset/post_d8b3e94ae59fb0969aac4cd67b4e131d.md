@@ -1,0 +1,179 @@
+
+# 索引
+
+- risk aversion coefficient 风险厌恶/风险规避系数
+- risk-free bonds. See sovereign (risk-free) bonds 无风险债券，参见主权债券
+- risk-free rate puzzle 无风险利率之谜
+- risk parity, special case of mean-variance investing 风险平价，均值-方差投资的特例
+- risk premiums 风险溢价
+- risk premiums, counter-cyclical. See also predicting returns 风险溢价，逆周期，参见预测收益率
+- risk and return. See performance, risk and return 风险与收益，参见业绩，风险与收益
+- risk-return factor analysis 风险与收益因子分析
+- risk-return trade-off 风险收益特征/风险收益比
+- robust estimators 稳健估计量
+- Rochester, University of 罗切斯特大学
+- roll return, commodities 展期收益/回报，商品
+- Rosen-Roback model, real estate 罗森-罗巴克模型，房地产
+- Ross, Stephen 斯蒂芬·罗斯
+- Russia 俄罗斯
+- sacrifice ratio 控制的代价
+- safe assets 安全资产
+- safety first utility 安全第一效用函数
+- Samsonite 新秀丽
+- Samuelson, Paul 保罗·萨缪尔森
+- Saudi Arabian Monetary Authority (SAMA) 沙特金融管理局
+- Save More Tomorrow program “未来储蓄更多”项目
+- saving for retirement 为退休储蓄
+- Scholes, Myron 迈伦·斯科尔斯
+- Scudder, Stevens & Clark, Scudder Stevens & Clark公司
+- SDF. See stochastic discount factor (SDF) SDF 参见随机贴现因子
+- search frictions, illiquid asset markets 搜寻摩擦，非流动性资产市场
+- SEC. See Securities and Exchange Commission (SEC) 美国证券交易委员会 (SEC)
+- secondary funds, private equity 二级市场基金，私募股权
+- Securities and Exchange Commission (SEC) 美国证券交易委员会
+- Securities Exchange Act of 1934 1934年证券交易法案
+- selection bias 选择偏差
+- self-attribution bias 自我归因偏差
+- selling volatility. See short volatility 卖出波动率，参见做空波动率
+- sensitivity to inputs, mean-variance investing 对于输入值的敏感度，均值-方差投资
+- separately managed accounts, hedge funds 独立管理账户，对冲基金
+- September 11, 2001 terrorist attacks 9·11，2001年的恐怖袭击
+- shareholder activism 股东积极主义
+- Sharia compliant funds 符合伊斯兰教教义基金
+- Sharpe ratio, definition. See also mean-variance investing 夏普比率，定义，参见均值-方差投资
+- Sharpe, William 威廉·夏普
+- Shiller, Robert 罗伯特·希勒
+- Shiller inverse price-earnings ratio Shiller 市盈率倒数
+- short-sales constraint 做空限制
+- short-term investing, long-term investing as 短期投资，长期投资
+- short volatility factor 做空波动率因子
+- side letters, private equity contracts 补充条款，私募股权合约
+- Singapore 新加坡
+- size and value-growth benchmarks. See also factor benchmarks 规模和价值—成长基准，参见因子基准
+- size factor, factor risk premiums. See also SMB factor 规模因子，因子风险溢价，参见SMB因子
+- slope factor, bonds 斜率因子，债券
+- smart beta. See also factor investing 聪明贝塔/另类贝塔/新型贝塔，参见因子投资
+- SMB factor SMB 因子
+- smoothing bias, illiquid assets 平滑偏差，非流动性资产
+- social factors, in stock market non-participation 社会因子，不参与股市
+- Social Security 社会保障
+- socially responsible investing (SRI) 社会责任投资
+- soft dollar costs 软美元成本
+- Solow residuals 索洛余量
+- Soros, George 乔治·索罗斯
+- South Carolina Retirement Systems 南卡罗来纳州退休养老系统
+- South Carolina v. Baker 南卡罗来纳州诉贝克案
+- sovereign bond returns, predictive regressions of 主权债回报率，预测回归
+- sovereign (risk-free) bonds 主权（无风险）债券
+- sovereign wealth funds (SWFs) 主权财富基金(SWFs)
+- spatial equilibrium, real estate 空间均衡，房地产
+- spending rule 支出原则
+- SPDR family of ETFs SPDR旗下的ETFs
+- spot return, commodities 即期收益/回报，大宗商品
+- spurious factor 干扰因子
+- stagflation 滞涨
+- Stambaugh (1999) system Stambaugh（1999）体系
+- standard deviation, definition 标准差，定义
+- State Administration of Foreign Exchange (SAFE) 国家外汇管理局（SAFE）
+- states, defaulting 州，违约
+- static asset class benchmarks 静态资产类别基准
+- staying the course, investing for the long run 一直持有，长期投资
+- stochastic discount factor (SDF) 随机折现因子/随机贴现因子（SDF）
+- stock. See equities 股票
+- stock market crash of 1929 1929年股灾
+- stock market crash of 1987 1987年股灾
+- stock market: non-participation. See non-participation in the stock market 股市：不参与股市
+- Stoughton-Admati-Pfleiderer, irrelevance result, Stoughton-Admati-Pfleiderer 无关性结果
+- strategic asset allocation 战略资产配置
+- structural default models, corporate bonds 结构性违约模型，公司债券
+- style analysis 风格分析
+- subadvisory firm 分包顾问公司
+- subjective measure 主观评价
+- subprime crisis of 2007 2007年的次贷危机
+- success, differences between private equity investors' performance. See limited partner performance puzzle 成功，私募股权投资者的业绩差异。参见有限合伙企业业绩之谜
+- sufficient statistic 充分统计量
+- surplus, pension funds 盈余，养老基金
+- Survey of Consumer Finances (SCF) 消费者金融调查 (SCF)
+- survivorship bias 幸存者偏差
+- suspensions, hedge funds 暂停，对冲基金
+- Sweden 瑞典
+- Swensen, David 大卫·斯文森
+- SWFs. See sovereign wealth funds 主权财富基金
+- symmetric performance-based fees 对称的基于业绩的费用
+- synthetic ETFs 合成型交易所交易基金
+- systematic risk 系统性风险
+- systematic styles, hedge funds 系统性风格，对冲基金
+- tactical asset allocation 战术性资产配置
+- tail hedging. See protecting against stock underperformance; short volatility 尾部对冲，参见避免股票的低收益，做空波动率
+- target-date funds 目标日期基金
+- Tax Acts of 1987, 1990 1987年，1990年税收法案
+- tax capitalization 税收资本化
+- tax-efficient allocation 节税资产配置
+- taxes, as a factor 税收，作为一个因子
+- Tax Reform Act of 1969 1969年税收改革法案
+- tax-timing options 税收的时机选择
+- Taylor (1993) rule 泰勒法则
+- T-bills. See Treasury bills 短期美国国债
+- term spread. See bonds, term spread (long-term bonds) 期限利差，参见债券、期限利差（长期债券）
+- term structure models. See also macro-factor term structure model 期限结构模型，参见宏观因子期限结构模型
+- term structure of interest rates 利率的期限结构
+- tiers of support, pension funds 多层次支持，养老基金
+- time consistency 时间一致性
+- time-varying predictability of returns 随时间而变化的收益可预测性
+- time-varying risk aversion 随时间而变化的风险厌恶/风险规避程度
+- time-varying volatility. See also GARCH models 随时间而变化的波动率，参见GARCH模型
+- Timor-Leste 东帝汶
+- Timor-Leste Petroleum Fund 东帝汶石油基金
+- TIPS. See Treasury-Inflation-Protected Securities (TIPS) 财政部通货膨胀保护型债券
+- tobacco stocks 烟草股票
+- top-earning hedge fund managers 收入最高的对冲基金经理
+- total factor productivity (TFP) shocks 全要素生产率冲击
+- total value to paid-in capital multiples (TPVIs). See multiples, private equity 投入资本总值倍数，参见倍数，私募股权
+- tracking error. See also idiosyncratic volatility 跟踪误差，参见非系统性波动率
+- transaction costs 交易成本
+- transfer function, unsmoothing returns 转移函数，未平滑的收益率
+- transmission mechanism 传输机制
+- transparency 透明度
+- Treasury Accord (1951) 国债协议（1951）
+- Treasury bills 美国短期国债
+- Treasury bonds/yields. See also bonds 长期国债/收益率，参见债券
+- Treasury Inflation Protected Securities (TIPS). See real bonds 财政部通胀保护型债券，参见实际债券
+- Treyner, Jack 杰克·特里诺
+- Triffin dilemma 特里芬难题
+- trusts. See also tax-efficient allocation 信托，参见节税资源配置
+- Tversky, Amos 阿莫斯·特沃斯基
+- 12(b)-1 fee, mutual funds 12(b)-1费用，共同基金
+- 2 and 20, management and performance fees 2/20，管理费及绩效费用
+- Tyco International 美国泰科国际有限公司
+- ultra high net worth individuals 超高净值个人
+- Ulysses contract 尤利西斯契约
+- UMD factor. See WMD factor UMD因子，参见WMD因子
+- unbalanced portfolios 不平衡的组合
+- uncertainty aversion 不确定性厌恶
+- underfunding 资金不足
+- underreaction theory 反应不足理论
+- Uniform Prudent Management of Institutional Funds Act (UPMIFA) 机构资金谨慎管理法
+- United Airlines 美国联合航空公司
+- United States 美国
+- United States Oil Fund 美国石油基金
+- United Technologies 联合技术公司
+- unit investment trusts (UITs) 单位投资信托
+- universities, foundations and endowments. See foundations and endowments 大学，基金会和捐赠基金，参见基金会和捐赠基金
+- university endowments. See foundations and endowments 捐赠基金，参见基金会和捐赠基金
+- unrestricted mean-variance, poor performance of 无约束的均值—方差，糟糕的业绩
+- unsmoothing returns. See desmoothing 非平滑收益，参考去平滑化
+- U.S. Department of Labor 美国劳工部
+- Utility 效用
+- Valuation 估值
+- value-growth factor. See also HML factor 价值—成长因素，参见HML因子
+- value investing. See also value-growth factor 价值投资，参见价值—成长因子
+- Vanderbilt, Cornelius ("Commodore") 科尼利尔斯·范德比尔特（“船长”）
+- Vanguard Group 先锋集团
+- variance, definition 方差，定义
+- variance decomposition 方差分解
+- variance drain, rebalancing 方差损失，再平衡
+- venture capital (VC) funds. See also private equity 风险投资基金，参见私募股权
+- VIX index. See also short volatility factor 波动率指数，参见做空波动率因子
+- volatility. See standard deviation 波动率，参见标准差
+- volatility, as a factor. See low volatility factor or short volatility factor. See also volatility risk 波动率，作为因子。参见低波动率因子或做空波动率因子，参见波动率风险
+- volatility anomaly. See low volatility factor; risk anomaly 波动率异常，参见低波动率因子；风险异常

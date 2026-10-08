@@ -1,0 +1,221 @@
+
+## M
+
+- **market's risk aversion** 市场的风险厌恶/市场的风险规避
+- **market timing, hedge funds** 市场择时，对冲基金；参见预测回报
+- **market-weighted portfolio** 市场权重组合
+- **Markowitz, Harry** 哈里·马科维茨
+- **Martingale Asset Management** Martingale资产管理公司
+- **mean variance efficient (MVE) portfolio** 均值—方差有效组合
+- **mean-variance frontiers** 均值—方差前沿
+- **mean-variance investing** 均值—方差投资；参见均值方差最优化
+- **mean-variance optimization** 均值—方差最优化
+- **medical care** 健康护理；参见健康风险
+- **Mehra-Prescott (1985) model** Mehra-Prescott (1985) 模型
+- **menu costs** 菜单成本
+- **merger arbitrage** 并购套利
+- **Merton, Robert** 罗伯特·默顿
+- **Merton-Samuelson model** Merton-Samuelson 模型
+- **Metlife** 大都会人寿保险
+- **mezzanine funds** 夹层基金
+- **middle class, concerns of** 中产阶级，顾虑
+- **minimum variance portfolio** 最小方差组合
+- **misinformed investors, private equity** 被误导的投资者，私募股权
+- **mispricing** 错误定价
+- **MOB trade** MOB交易
+- **momentum factor** 动量因子
+- **monetary policy** 货币政策
+- **money illusion** 货币幻觉
+- **moral hazard** 道德风险
+- **Morgan Bank** 摩根银行
+- **Morgan Stanley** 摩根斯坦利
+- **multiple equilibria** 多重均衡
+- **multiples, private equity** 倍数，私募股权
+- **municipal bonds** 市政债券
+- **Municipal Securities Rulemaking Board (MSRB)** 地方政府证券法规制定委员会
+- **mutual fund families or complexes** 共同基金家族
+- **mutual funds** 共同基金；参见40法则基金
+- **MVE** 参见均值方差有效 (MVE) 组合
+- **Myopic portfolio** 短视组合
+
+## N
+
+- **National Association of College and University Business Officers (NACUBO)** 全美高校经营管理者协会
+- **National Bureau of Economic Research (NBER) business cycle dating** 美国国家经济研究所对商业周期的测定
+- **National Council of Real Estate Investment Fiduciaries (NCREIF)** 美国房地产投资信托协会
+- **National Pension Reserve Fund** 国家养老储备基金
+- **Nauru** 瑙鲁
+- **NAV** 参见净资产价值 (NAV)
+- **NBIM** 参见挪威央行投资管理公司
+- **NCREIF** 参见美国房地产投资信托委员会
+- **negative gamma strategy** 负伽马策略；再平衡
+- **negative real yields** 负的实际收益率
+- **nepotism** 裙带关系
+- **net asset valuation (NAV)** 净资产价值 (NAV)
+- **Netherlands** 荷兰
+- **new Keynesian models** 新凯恩斯模型
+- **New York City, near default** 纽约市，接近违约
+- **New York State Common Retirement Fund (NYSCRF)** 纽约州共同退休基金 (NYSCRF)
+- **New Zealand** 新西兰
+- **New Zealand Superannuation Fund (NZSF)** 新西兰养老基金
+- **Nigeria, Dutch disease** 尼日利亚，荷兰病
+- **no-arbitrage pricing** 无套利定价；参见期限结构模型
+- **nonconventional monetary policy** 非传统货币政策
+- **nondirectional hedge funds** 非方向性对冲基金
+- **nonlinear contracts** 非线性契约
+- **nonlinear factors** 非线性因子；参见做空波动率因子
+- **nonlinear payoffs, alpha** 非线性收益
+- **non-market weighted portfolios** 非市场权重组合
+- **non-monetary considerations, preferences** 非货币的考量，偏好
+- **non-participation in the stock market** 不参与股票市场
+- **Norges Bank Investment Management (NBIM)** 挪威央行投资管理公司 (NBIM)
+- **normative versus positive economics** 规范经济学 vs. 实证经济学
+- **North Dakota Legacy Fund** 美国北达科他州遗产基金
+- **Norway** 挪威；参见政府全球养老基金；挪威央行投资管理公司；提交给挪威财政部的教授的报告
+- **Norway sovereign wealth fund** 挪威主权财富基金；参见政府全球养老基金
+- **notice period, hedge funds** （赎回）通知期，对冲基金
+- **nutrients and factor analogy** 营养成分和因子的类比
+- **NYSCRF** 参见纽约州共同退休基金 (NYSCRF)
+
+## O
+
+- **objective measure** 客观的度量
+- **oil** 石油
+- **Oil Fund, Norway** 石油基金，挪威；参见政府全球养老基金
+- **old person's life-cycle asset allocation** 老年人的生命周期资产配置
+- **Ontario Teacher's Pension Plan** 安大略省教师养老基金
+- **on-the-run/off-the-run spread, bonds** 新券/旧券的利差，债券
+- **open-end funds** 开放式基金
+- **opportunistic strategies, Merton-Samuelson model** 机会型策略，Merton-Samuelson模型
+- **optimal contracts in general agency problems** 一般代理问题中的最优契约；参见契约
+- **optimal control problem, dynamic programming** 最优控制问题，动态规划
+- **optimal growth portfolio** 最优增长组合
+- **Oregon Public Employees Retirement System** 俄勒冈州公共雇员退休基金
+- **original issue discount (OID)** 发行证券原始折扣（OID）
+- **outcome-based contracts** 基于结果的契约
+- **out-of-the-money put, payoff** 价外看跌期权，收益
+- **overconfidence** 过度自信
+- **overlapping generations (OLG) model** 跨期世代模型（OLG）
+- **oversight, mandated by 40-Act** 由40法案强制执行的监督
+- **overspending, families** 超支，家庭
+
+## P
+
+- **Panel Study of Income Dynamics (PSID)** 收入动态追踪研究
+- **partial equilibrium strategy** 部分均衡策略；再平衡
+- **participation constraint** 参与约束
+- **participation costs** 参与成本
+- **passive management** 被动管理
+- **Paulson, John** 约翰·保尔森
+- **paying asset managers** 向资产管理人支付报酬；参见费用
+- **PBO** 参见预计给付义务 (PBO)
+- **Pension Advisory Group** 养老金顾问组
+- **Pension Benefit Guaranty Corporation (PBGC)** 养老金担保公司
+- **pension funds or plans** 养老基金或计划
+- **Pension Protection Act (PPA) of 2006** 2006年养老金保护法案（PPA）；参见ERISA
+- **performance fees** 绩效费用；参见激励相容问题；激励费用
+- **performance, risk and return** 业绩，风险和收益；参见预测回报
+- **persistence, risk and return** 持续性、风险和收益；参见业绩、风险和收益
+- **Petroleum Fund, Norway** 石油基金，挪威；参见政府全球养老基金
+- **Petroleum Fund, Timor-Leste** 石油基金，东帝汶
+- **Pets.com** Pets公司
+- **Phillips curve** 菲利普斯曲线
+- **picking up nickels and dimes in front of a steamroller** 在压路机前捡硬币；参见做空波动率因子
+- **piggy-backing on institutional funds, mutual funds** 投资于机构基金，共同基金
+- **pillars of support, pension funds** 支柱，养老基金
+- **Poisson process** 泊松过程
+- **political risk** 政治风险
+- **Pollack v. Farmers Loan and Trust** 波拉克诉农民贷款和信托公司案
+- **poor persons** 穷人
+- **popular investment advice** 流行的投资建议
+- **portfolio choice with illiquid assets** 非流动性资产的组合选择；参见Ang-Papanikolaou-Westerfield (2013) 模型
+- **portfolio companies, private equity** 被投资公司/组合公司，私募股权
+
+## Q
+
+- **positive economics** 实证经济学；参见规范经济学和实证经济学
+- **positive feedback strategy** 积极反馈策略；参见动量因子
+- **positive net supply** 正的净供给
+- **power utility** 幂次效用函数；参见常数相对风险厌恶（CRRA）效用
+- **predicting returns** 预测回报
+- **preferences** 偏好；参见效用
+- **preferred habitat theory** 优先置产理论
+- **pre-tax and after-tax returns** 税前和税后收益
+- **pricing kernel** 定价核
+- **Princeton University** 普林斯顿大学
+- **Principal-agent problem** 委托代理问题；参见委托投资
+- **Prisoner's Dilemma game** 囚犯困境博弈
+- **Private equity** 私募股权
+- **Private equity funds, secondary market** 私募股权基金，二级市场
+- **Private equity growth capital council** 私募股权成长资本委员会
+- **Probability density function (pdf)** 概率密度函数
+- **Pro-cyclical investing** 顺周期投资
+- **Production-based asset pricing** 以生产为基础的资产定价
+- **Projected Benefit Obligation (PBO)** 预计给付义务
+- **Prospect theory** 前景理论；参见损失厌恶或前景理论
+- **Protecting against stock underperformance** 防止股票表现不佳
+- **Protective portfolio, Merton-Samuelson model** 保护型投资组合，Merton-Samuelson模型
+- **Public market equivalents, private equity** 公开市场等价物，私募股权
+- **Public offerings, registered investment companies** 公开发行，注册投资公司
+- **Public pension plan underfunding** 公共养老金计划资金不足；参见养老金计划
+- **Public versus private equity** 公开市场股票与私募股权
+- **Put-call parity** 买卖期权平价关系
+- **Put options** 看跌期权
+
+## R
+
+- **Quadratic contracts** 二次方程式契约
+- **Quadratic programming problem** 二次规划问题
+- **Quant funds** 量化基金
+- **Quantitative easing** 量化宽松
+- **Ratchet consumption or ratcheting spending** 棘轮消费或棘轮支出
+- **Rational expectations** 理性预期
+- **Rational versus behavioral approaches, utility** 理性方法与行为学方法，效用
+- **Rational theories of the value premium** 价格溢价的理性理论
+- **Raw sharpe ratio** 原始夏普比率
+- **Reaction function, monetary policy** 反应函数，货币政策
+- **REIT puzzle** 房地产投资信托之迷
+- **Real assets** 实物资产
+- **REIT puzzle** 房地产投资信托之迷
+- **Real bonds** 实际债券
+- **relative utility** 相对效用
+- **real business cycle models** 实际经济周期模型
+- **relative value** 相对价值
+- **Real estate** 房地产
+- **replacement rates, retirement** 替代率，退休
+- **Real estate funds, private equity** 房地产基金，私募股权
+- **reputation** 声誉/名誉
+- **Real Estate Investment Trust Act 1960** 1960年房地产投资信托法案
+- **reserve status, safe assets** 储备资产，安全资产
+- **Real estate investment trusts (REITs)** 房地产投资信托基金
+- **resource curse** 资源诅咒；参见荷兰病
+- **Real interest rate** 实际利率；参见实际债券
+- **restart option, hedge funds** 重新开始的选择权，对冲基金
+- **Real measure** 实际测算方法
+- **retirement** 退休；参见生命周期，退休金投资之迷
+- **real options** 实物期权
+- **return decomposition, factor investing** 收益分解，因子投资
+- **real shocks** 实际冲击；参见实际经济周期模型
+- **returns** 收益/回报/回报率/收益率
+- **real terms, liability hedging** 扣除通货膨胀因素的，负债对冲；参见通货膨胀
+- **revealed preference** 显示性偏好
+- **real yields** 实际收益率；参见负实际收益率，实际债券
+- **revisions of past returns, hedge funds** 修正历史收益，对冲基金
+- **realistic utility functions** 现实主义效用函数
+- **reward-to-risk ratio** 风险报酬比率
+- **rebalancing** 再平衡
+- **Rhode Island Retirement Security Act of 2011** 2011年罗德岛退休保障法案
+- **rebalancing premium** 再平衡溢价
+- **Rhode Island retirement system** 罗德岛退休系统；参见罗德岛雇员退休系统
+- **Reference Portfolio, Canada Pension Plan Investment Board (CPPIB)** 参考组合，加拿大养老金计划投资委员会
+- **Ricardian equivalence** 李嘉图等价原理
+- **regime changes** 机制改变/根本性改变
+- **riding the yield curve** 骑乘收益率曲线
+- **registered investment advisors** 注册投资顾问
+- **Rio Tinto** 力拓公司
+- **registered investment companies** 注册投资公司
+- **risk, preferences for** 风险，偏好
+- **REITs** 参见房地产投资信托公司
+- **risk anomaly** 风险异象
+- **REITs and direct real estate** 房地产投资信托与房地产直接投资；参见REIT puzzle
+- **risk aversion** 风险厌恶；参见作为凹性效用函数的常数相对风险厌恶效用函数
