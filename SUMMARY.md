@@ -526,4 +526,5 @@
 +   [股价 X 线](docs/股价x线/README.md)
 +   [股价X线投影](docs/股价x线投影/README.md)
 +   [The user's input is "股价形态总览下".](docs/股价形态总览下/README.md)
++   [股价走势图精论](docs/股价走势图精论/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
