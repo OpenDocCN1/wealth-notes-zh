@@ -557,4 +557,5 @@
 +   [The psychology of fraud](docs/诈骗心理学/README.md)
 +   [诡秘的权谋](docs/诡秘的权谋/README.md)
 +   [说服的最高境界](docs/说服的最高境界一诺老师/README.md)
++   [The user wants me to translate a book title into Chinese.](docs/说话致富/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
