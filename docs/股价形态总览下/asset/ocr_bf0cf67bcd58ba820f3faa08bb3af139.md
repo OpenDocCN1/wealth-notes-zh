@@ -1,0 +1,31 @@
++   19. 複雜頭肩底排列 417
+Head-and-Shoulders Bottoms, Complex
+
++   20. 頭肩頂排列 437
+Head-and-Shoulders Tops
+
++   21. 複雜頭肩頂排列 459
+Head-and-Shoulders Tops, Complex
+
++   22. 雙角底排列 481
+Horn Bottoms
+
++   23. 雙角頂排列 499
+Horn Tops
+
+![](bbox=[0.36, 0.5, 0.52, 0.55])
+
++   24. 內側日排列 515
+Inside Days
+
++   25. 島狀反轉排列 536
+Island Reversals
+
++   26. 三波段衡量跌勢 555
+Measured Move Down
+
++   27. 三波段衡量漲勢 575
+Measured Move Up
+
++   28. 單日反轉排列 593
+One-Day Reversals
