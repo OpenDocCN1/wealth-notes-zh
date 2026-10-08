@@ -528,4 +528,5 @@
 +   [股价形态总览（上）](docs/股价形态总览上/README.md)
 +   [The user's input is "股价形态总览下".](docs/股价形态总览下/README.md)
 +   [股价走势图精论](docs/股价走势图精论/README.md)
++   [股价趋势技术分析](docs/股价趋势技术分析上/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
