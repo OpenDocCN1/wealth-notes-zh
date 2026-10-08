@@ -427,6 +427,7 @@
 +   [水库知识框架体系](docs/水库知识框架体系/README.md)
 +   [水库菜菜家学教育篇](docs/水库菜菜家学教育篇/README.md)
 +   [洗脑的最高境界](docs/洗脑的最高境界/README.md)
++   [The Wisdom of Stock Trading](docs/炒股的智慧/README.md)
 +   [点化内向人方程式](docs/点化内向人方程式/README.md)
 +   [熊太行职场关系课](docs/熊太行职场关系课/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
