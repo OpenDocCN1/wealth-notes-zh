@@ -455,4 +455,5 @@
 +   [生财有术：亚马逊合集20230831](docs/生财有术亚马逊合集20230831/README.md)
 +   [生财有术：产品出海合集](docs/生财有术产品出海合集20230907/README.md)
 +   [The user wants to translate a title into Chinese.](docs/生财有术产品变现合集20230714/README.md)
++   [The user wants me to translate a book title into Chinese.](docs/生财有术如何开一家公司20230831/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
