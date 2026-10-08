@@ -418,4 +418,5 @@
 +   [水库欧神文集_2_楼市](docs/水库欧神文集-2-楼市/README.md)
 +   [水库欧神文集_3_杠杆](docs/水库欧神文集-3-杠杆/README.md)
 +   [Reservoir European God Essays Volume 5: Miscellaneous Essays II](docs/水库欧神文集-5-杂文二/README.md)
++   [水库欧神文集_6_其他人篇一](docs/水库欧神文集-6-其他人篇一/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
