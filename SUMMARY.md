@@ -484,6 +484,7 @@
 +   [石勇：社会人心运作手册2](docs/石勇社会人心运作手册2/README.md)
 +   [石勇：被遮蔽的真相](docs/石勇被遮蔽的真相/README.md)
 +   [社会学专题50讲](docs/社会学专题50讲/README.md)
++   [社畜的财务自由计划](docs/社畜的财务自由计划/README.md)
 +   [祖鲁法则](docs/祖鲁法则/README.md)
 +   [The title "神笔文案" appears to already be in Chinese. However, based on the instruction to translate the title and the provided examples (which translate English phrases into Chinese), it's possible there was a misunderstanding in the prompt or the input was meant to be an English title that *corresponds* to this Chinese phrase, or perhaps I should just output the translated version of an English title that results in this Chinese phrase.](docs/神笔文案/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
