@@ -575,4 +575,5 @@
 +   [跟钱好好相处](docs/跟钱好好相处/README.md)
 +   [路演的最高境界](docs/路演的最高境界/README.md)
 +   [达叔经济学第一册](docs/达叔经济学第一册/README.md)
++   [《达叔经济学》第二册](docs/达叔经济学第二册/README.md)
 +   [**翻译：** 这些年程序员遇到的法律BUG](docs/这些年程序员遇到的法律bug/README.md)
