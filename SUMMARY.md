@@ -421,6 +421,7 @@
 +   [Reservoir European God Essays Volume 5: Miscellaneous Essays II](docs/水库欧神文集-5-杂文二/README.md)
 +   [水库欧神文集_6_其他人篇一](docs/水库欧神文集-6-其他人篇一/README.md)
 +   [水库欧神文集_7_其他人篇二](docs/水库欧神文集-7-其他人篇二/README.md)
++   [水库欧神文集_8_其他人篇三](docs/水库欧神文集-8-其他人篇三/README.md)
 +   [水库欧神文集_9_其他人篇四](docs/水库欧神文集-9-其他人篇四/README.md)
 +   [水库知识星球毒教育116条精选问答](docs/水库知识星球毒教育116条精选问答/README.md)
 +   [水库知识框架体系](docs/水库知识框架体系/README.md)
