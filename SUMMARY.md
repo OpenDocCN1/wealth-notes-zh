@@ -471,6 +471,7 @@
 +   [量价操作法三小时速成](docs/用三小时学会量价操作法/README.md)
 +   [用三小时完成一天的事](docs/用三小时完成一天的事/README.md)
 +   [用赌场思维交易就对了](docs/用赌场思维交易就对了/README.md)
++   [用钱赚钱](docs/用钱赚钱/README.md)
 +   [The Ultimate Form of Profit Models](docs/盈利模式的最高境界/README.md)
 +   [直接营销秘诀](docs/直接营销秘诀/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
