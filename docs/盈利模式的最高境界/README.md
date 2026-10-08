@@ -1,0 +1,7 @@
+# The Ultimate Form of Profit Models
+
+> 原文：[盈利模式的最高境界]()
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
