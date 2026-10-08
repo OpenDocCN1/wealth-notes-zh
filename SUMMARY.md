@@ -488,4 +488,5 @@
 +   [祖鲁法则](docs/祖鲁法则/README.md)
 +   [The title "神笔文案" appears to already be in Chinese. However, based on the instruction to translate the title and the provided examples (which translate English phrases into Chinese), it's possible there was a misunderstanding in the prompt or the input was meant to be an English title that *corresponds* to this Chinese phrase, or perhaps I should just output the translated version of an English title that results in this Chinese phrase.](docs/神笔文案/README.md)
 +   [私域IP创富宝典](docs/私域ip创富宝典孟慧歌/README.md)
++   [移动平均线交易：七大误区](docs/移动平均线密码7大错误观念/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
