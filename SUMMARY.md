@@ -417,6 +417,7 @@
 +   [水库欧神文集_12_服务篇](docs/水库欧神文集-12-服务篇/README.md)
 +   [水库欧神文集_2_楼市](docs/水库欧神文集-2-楼市/README.md)
 +   [水库欧神文集_3_杠杆](docs/水库欧神文集-3-杠杆/README.md)
++   [水库欧神文集_4_杂文一](docs/水库欧神文集-4-杂文一/README.md)
 +   [Reservoir European God Essays Volume 5: Miscellaneous Essays II](docs/水库欧神文集-5-杂文二/README.md)
 +   [水库欧神文集_6_其他人篇一](docs/水库欧神文集-6-其他人篇一/README.md)
 +   [水库欧神文集_7_其他人篇二](docs/水库欧神文集-7-其他人篇二/README.md)
