@@ -572,4 +572,5 @@
 +   [超级零首付](docs/超级零首付/README.md)
 +   [超越祖鲁法则](docs/超越祖鲁法则/README.md)
 +   [跟华杉学品牌营销](docs/跟华杉学品牌营销/README.md)
++   [跟钱好好相处](docs/跟钱好好相处/README.md)
 +   [路演的最高境界](docs/路演的最高境界/README.md)
