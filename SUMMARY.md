@@ -510,6 +510,7 @@
 +   [终极文案撰写系统](docs/终极文案撰写系统/README.md)
 +   [绝密人性天书](docs/绝密人性天书/README.md)
 +   [缓解入睡困难的方法](docs/缓解入睡困难的方法中信/README.md)
++   [缺德学](docs/缺德学/README.md)
 +   [罗永浩的创业课](docs/罗永浩的创业课201604-08/README.md)
 +   [美股投资学](docs/美股投资学/README.md)
 +   [老A讲利用饭局来办成自己事的操作指南](docs/老a讲利用饭局来办成自己事的操作指南/README.md)
