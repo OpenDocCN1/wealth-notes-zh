@@ -559,5 +559,6 @@
 +   [说服的最高境界](docs/说服的最高境界一诺老师/README.md)
 +   [The user wants me to translate a book title into Chinese.](docs/说话致富/README.md)
 +   [谋商学院：创业兵法](docs/谋商学院创业兵法/README.md)
++   [财报狗成长股选择指南](docs/财报狗这样选对成长股/README.md)
 +   [贾宁财务思维课](docs/贾宁财务思维课/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
