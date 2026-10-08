@@ -1,0 +1,13 @@
+Hi u have like for purses 10:42
+
+Honey !We are the Luxury brand goods factory, and we have 20000+ different luxury brands goods, ( bags, watches, clothes,shoes, sunglasses, belt and wallet)
+1. Usually my customers send me pictures that they want, then I show the price
+
++   1. Usually my customers send me pictures that they want, then I show the price
+2. What are the luxury brand shop sell, what we have. (1:1 quality)
+
+We do worldwide Shipping, all of the price we show you are including shipping , box and dust bag! 10:42
+
+Ok 10:42
+
+b，介绍支付
