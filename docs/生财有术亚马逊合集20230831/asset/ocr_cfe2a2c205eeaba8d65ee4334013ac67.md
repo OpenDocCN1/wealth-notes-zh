@@ -1,0 +1,23 @@
+# HIGHER RATED
+
+Sponsored | Based on star rating and number of
+
+![](bbox=[0.37, 0.07, 0.63, 0.33])
+
++9 colors/patterns
+
+TEZO Mens Rain Jacket Waterproof with Hooded Hiking Coat Lightweight Windbreaker
+
+⭐⭐⭐⭐⭐ ~ 2,783
+
+$39 99
+
+Save 5% with coupon (some sizes/colors)
+
+销量非常好，在100-200多的众多sku中，39.99的它鹤立鸡群，这就是我们说的将比价劣势转化为比价优势，它虽然不是goretex的，但是搜索goretex它会展示，它功能相同，它足够便宜。
+
+但是如果把它放到与10几20几的冲锋衣一起展示，它就无法展现它差异化的卖点也没有价格优势，所以这个sku干脆放弃标品词，只做长尾词，这样才能获得流量优势，转化优势。这就是差异化产品的优势。
+
+刚才是材质升级、平替套利的差异化。
+
+下面我们看一个材质升级+平替套利+热点嫁接的差异化：

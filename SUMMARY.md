@@ -452,5 +452,6 @@
 +   [生财有术：AI绘画变现案例合集20230803](docs/生财有术ai绘画变现案例合集20230803/README.md)
 +   [生财有术：ChatGPT公众号合集20230706](docs/生财有术chatgpt公众号合集20230706/README.md)
 +   [该标题已经是中文，因此无需翻译。直接输出原标题。](docs/生财有术中老年赛道合集20230714/README.md)
++   [生财有术：亚马逊合集20230831](docs/生财有术亚马逊合集20230831/README.md)
 +   [The user wants to translate a title into Chinese.](docs/生财有术产品变现合集20230714/README.md)
 +   [[赢在8小时之外]文章合集(20230221)](docs/赢在8小时之外文章合集20230221/README.md)
