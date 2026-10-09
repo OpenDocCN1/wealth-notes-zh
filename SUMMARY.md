@@ -593,6 +593,7 @@
 +   [金钱的秘密](docs/金钱的秘密/README.md)
 +   [钱教我的真理](docs/钱教我的真理/README.md)
 +   [长线当冲赚两亿](docs/长线当冲赚两亿/README.md)
++   [陈昌文：1000问答1](docs/陈昌文1000问答1/README.md)
 +   [陈昌文方法：解读论语1](docs/陈昌文方法解读论语1/README.md)
 +   [陈昌文讲师宝典：一句爆粉](docs/陈昌文讲师宝典一句爆粉/README.md)
 +   [讲师宝典](docs/陈昌文讲师宝典品牌营销/README.md)
