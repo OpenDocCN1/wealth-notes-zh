@@ -583,5 +583,6 @@
 +   [郑路 社会网络 20 讲](docs/郑路社会网络20讲/README.md)
 +   [郝广才创意思维课](docs/郝广才创意思维课/README.md)
 +   [量化投资与 Python](docs/量化投资与python语言/README.md)
++   [量化投资以Python为工具](docs/量化投资以python为工具/README.md)
 +   [量化金融投资及其Python应用](docs/量化金融投资及其python应用/README.md)
 +   [金融人工智能：Python 量化交易](docs/金融人工智能用python实现ai量化交易/README.md)
