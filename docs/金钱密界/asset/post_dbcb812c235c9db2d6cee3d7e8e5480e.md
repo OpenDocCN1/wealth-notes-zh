@@ -1,0 +1,72 @@
+
+## 参考文献
+
+- 25 U.S. Vulnerabilities to Money Laundering, Drugs, and Terrorist Financing.
+- 26 U.S. Department of the Treasury, “Rahn Maklouf Designed for Beating from Syrian Corruption,” February 21, 2008, https://www.treasury.gov/press-center/press-releases/11690 (archive.org/web/2013/09/28/http://www.treasury.gov/press-center/press-releases/index.php#wp-content/uploads/2013/09/pc022113.pdf).
+- 27 Head of Syria's Federal Intelligence Agency, the Mukhabarat, Ikhwan el-Sam: Who Helped Bashar al-Assad Keep in the Capital in the Face of an Arab Spring,” Guardian, April 20, 2011, http://www.guardian.co.uk/world/2011/apr/20/assad-fed-egypt-intelligence-agency.
+- 28 European Union, “Council Implementing Regulation Adopted by the Council on 23 April 2013 Concerning Restrictive Measures Against Syria in View of the Situation in Syria,” Official Journal of the European Union, L 117, 2013, http://ec.europa.eu/eur-lex/legal-content/EN/TXT/?uri=CELEX:32013R0333.
+- 29 We have lost some email traffic, “Timeline de Creative June 11, 2011, http://www.udg.edu/gov/en/banker/gov/en/gov/en/creative-bank/creative-bank/19830613.
+- 30 J. Le Teno and Dominic Perri, “HSBC Pays Record $1.9bn Fine to Settle US Money-Laundering Accusations,” Guardian, December 11, 2012, https://www.theguardian.com/business/2012/dec/11/hsbc-bank-money-laundering.
+- 31 Auditor interview with Laura Stubor, Washington, DC, October 2016.
+
+## 第二章 伊赫瓦尼尼神藏罪
+
+- 1 Caiden Bern, “Fish-Born Journalist Reads Up on ICIJ Investigation into Offshore Account Holders,” Irish Times, April 6, 2013, http://www.irishtimes.com/news/fish-born-journalist-reads-up-on-icij-investigation-into-offshore-account-holders-1130391.
+- 2 Auditor interview with Gerald Kyle, July 2016.
+- 3 Gerard Kyle, “Life of a Man with a Map,” MySecret, http://www.snbc.com.au/news/national/rise-of-a-man-with-a-map/. Updated January 4, 2017; 1,018. R4051991.
+- 4 William Reilly, 2007, 85/0570:168, 49667402, http://ww.legislation.nsw.gov.au/diary/diar/legislation/5042,1.
+- 5 Justin L. Partlow, “The History of a Global Investigation: Collaborations, Data Breaches, Harassment, and the Global Investigation Centre on Media, Politics, and Public Trust,” 2015, http://investigativejournalism.org/wp-content/uploads/2017/07/Andimony-ACLS-Global-Investigation-Without-Kennedy-Williams-Brookner.pdf.
+- 6 Aibon (ICIJ), International Consortium of Investigative Journalists, https://www.icij.org/about.
+- 7 Auditor interview with Charlie Lewis, May 2017.
+- 8 “Tobacco Smuggling,” International Convention of Investigative Journalists, 2000-2001, https://www.icij.org/node/460#ax-considering-formal-investigation-cigare420-smuggling.
+- 9 “Tobacco Smuggling,” International Convention of Investigative Journalists, 2000-2001, http://www.icij.org/node/460#ax-considering-formal-investigation-cigare-420-smuggling.
+- 10 Duran Campbell, “183 ‘Tobacco Smuggling,’” Duran Campbell Blog, 2000-2001, http://www.durancampbell.org/contrabiting-tobacco-smuggling.
+- 11 Martin Blake, “Something Fishy,” Columbia Journalism Review, July-August 2012, http://www.cjr.org/feature/something-fishy.php.
+- 12 Markin, Global Investigative Journalism Conference, October 11, 2011, https://www.icij.org/e/e05/06/065/ http://p2x2011.0.org/30/page_id=19.
+- 13 Staples, Global Investigative Journalism Conference, October 11, 2011, https://www.icij.org/e/e05/06/065/ http://p2x2011.0.org/30/page_id=19.
+- 14 A. D. Berr, “Water Rich Iridian in Vast Tax Evasion Case,” New York Times, September 20, 1983, http://www.nytimes.com/1983/09/20/business/samric-iridic-in-vast-tax-evasion-case.html.
+- 15 Fredrik Zalne, Alex Dyhransen, Zach Dubinsky, and Harvey Carbone, "Canadian Senator's Hasbudt Shuffled Money, into Offshore Tax Haven," International Consortium of Investigative Journalists, April 4, 2013, http://www.icj.org/offshore/hasbud-office-dublin-the-hayes.
+- 16 Michael Hudson, Sloan Caplin, and Martina Walker Guajera, "China's Co-Between Provided Prohibited Shelter for Pay-4-Way Frauds, Documents Show," International Consortium of Investigative Journalists, April 1, 2013, https://www.icj.org/offshore/between-provided-shelter-offshore-tax-havens-in-China.
+- 17 Jonathan Oberhey, "Freedom Decriminal, and Time Outright, "After Multi-Billion Dollar Between-Provided Shelters, Politically Exiled Gas Offshore," International Consortium of Investigative Journalists, April 5, 2013, http://www.icj.org/offshore/after-multi-billion-inferrentes-payoffs-shields-goes-offshore.
+- 18 Auditor interview with Mac Carter, June 2016.
+- 19 Auditor interview with Glainus Seguin, June 2016.
+- 20 Auditor interview with Michael Hudson, June 2016.
+- 21 Michael Grieve, "Offshore Project, Writing Guidelines."
+- 22 Email to author from Hamish Hudson and Martina Walker Guajera, "Piercing the Screen of Offshore Tax Havens," Washington Post, April 6, 2013, https://www.washingtonpost.com/investigations/piercing-the-screens-offshore-tax-havens/2013/04/06/5181060c-f489-f112-80624-676593b940_story.html.
+- 23 Email to author from Bill Ruzicka, July 2017.
+- 24 Australia and Bill Ruzicka, Engaged in Corporate Effort to Combat Offshore Tax Evasion," Internal Revenue Service, May 9, 2013, https://www.irs.gov/user/newsroom/the-australia-and-bill-ruzicka-engaged-in-corporate-effort-to-combat-offshore-tax-evasion.
+- 25 姚仁海 中国富豪被禁密注新加坡
+- 26 "International Consortium of Investigative Journalists, Global Evasion, Main China, Michael Hudson, and Christoph Greeson, "Leaked Records Reveal Offshore Holdings of China's Elite," http://datahub.ailexion.com/investigating-the-world/our-reports/leaked-records-reveal-offshore-holdings-of-china-elites.
+- 27 "China Foreign Exchange Investment," Trading Economics, http://www.tradingeconomics.com/china-foreign-direct-investment.
+- 28 "China's Baidu, Alibaba and Tencent Are Rivals for Family of Chinese Leader," New York Times, October 25, 2012, http://www.nytimes.com/2012/10/26/business/global/family-of-chi-leader-baidu-alibaba-tencent.html.
+- 29 "China Blocks Web Access to Times After Article," New York Times, October 25, 2012, http://www.nytimes.com/2012/10/26/world/asia/china-blocks-web-access-to-time.html.
+- 30 "What a 'Black Hole,' "China Blocks Web Access to Times After Article," New York Times, December 31, 2012, http://www.nytimes.com/2012/10/20/world/asia/china-bids-hold-to-have-the-times.html.
+- 31 https://www.icj.org/journalists/china.
+- 32 "China's Challenging Business—China's Integrity Award," Transparency International, November 8, 2013, https://www.transparency.org/ethics-integrity/chinese-officials-china.html.
+- 33 "Shandong's Anti-Bribery, Anti-Competition, Anti-Monopoly and Anti-Corruption Investigation into Top Official, " New York Times, May 12, 2015, http://www.nytimes.com/2015/05/12/business/china-anti-corruption-shandong.html.
+- 34 Author interview with Jorgen Madsen, January 2017.
+- 35 Corporate Overseas Investment Is Mainly Concerned About Legal Risks, " Sina Finance, April 26, 2015, http://finance.sina.com.cn/money/20150426/1492820466771.shtml.
+- 36 Email from Russel Owens to Austin Zhang, et al. May 14, 2008.
+- 37 Eric Horon and Wilts Overseas, "Parnaria Papers Show How Rich United States Clients Hid Millions Abroad," New York Times, June 5, 2016. https://www.nytimes.com/2016/06/06/us/papers.html.
+- 38 Walter Grasso and R. Lance, "Revealed: Russian and Officials and Relatives of Chinese Elites." Who's Who in China. Laa, January 22, 2014. https://www.jajj.org/blog/2014/01/who-who-inchina-leaks-exclusives.
+- 39 Excellence Group Property Development Limited. International Consortium of Investigative Journalists. https://offshore.excellelg/150037.
+- 40 Excellence Group Firm Two Sharepoint Offshore Place for 42-Billion. " Bloomberg, July 27, 2013. https://www.bloomberg.com/news/2013-07-27/excellence-groupchina-two-sharepoint-offshore-places-42-billion.html.
+- 41 China Post, "International Development Limited. "Reposition of Chairman and Non-Executive Director and Appointment of Chairman. January 2, 2008. http://www.inasia.com/en/press/en/chinapost/announcement/4423330.html.
+- 42 Martin McCre and Paul Scharfstein, "Daughter of 'Shocker' of Titanium Trimmer. Brokered Secret Deal for Insurance Giant. Telegraph, October 10, 2013. http://www.telegraph.co.uk/finance/news/9698458/insurance-titanium-dam-brokered-secret-deal-for-insurance-giant.
+- 43 Shusha Sutherland, "TLA. Ex-IGD. Bloomberg. February 10, 2015. http://www.bloomberg.com/politics/articles/2015-02-10/daughter-of-titanium-trimmer-brokered-secret-deal-for-insurance-giant.
+- 44 India Shinde, "TL. Ex-IGD. former Premier-Li-Ping's Daughter Hid Over $3M in HSBC Swiss Account. ", International Business Times, February 10, 2015. http://www.business.com/titanium-trimmer-former-premier-li-ping-s-daughter-hide-over-3mhs-swiss-account-l811000.
+- 45 Russel Barnes, "Ex-Minister and 68-Year-Old Chinese Business Woman, 70, " Bloomberg, August 4, 2012. http://www.bloomberg.com/news/articles/2012-08-04/china-68-year-old-woman-hides-from-us-bosses-in-london-legal-titanium-trimmer.
+- 46 China. 2. 1, 2012. http://www.bloomberg.com/news/articles/2012-07-21/china-68-year-old-woman-hides-from-us-bosses-in-london-legal-titanium-trimmer.
+- 47 China. 2. 1, 2012. http://www.bloomberg.com/news/articles/2012-07-21/china-68-year-old-woman-hides-from-us-bosses-in-london-legal-titanium-trimmer.
+- 48 Peter Brook, World's Easiest Growing Magnopolis Hidden in Fog." Wlad, August 25, 2010. https://www.theguardian.com/business/2010/08/brookling.
+- 49 Peter, "Mortey, and an Epa Power Struggle in China [New Rights Project, May 2015]. P. 22.
+- 50 China. "Tone of China" Power Struggle in China [New Rights Project, May 2015]. P. 22.
+- 51 China, https://www.hoover.org/report/2015/03/14/guizhou-china-cell-phones-offices-suspected-china. and Tam Phillips, "Guizhou, Paused, Halfwayed as Crystal Math. Dealing Drug King Pin." Telegraph. December 20, 2012. http://www.telegraph.co.uk/finance/news/7759839/guizhou-paused-halfwayed-as-crystal-math-dealing-drug-king-pin.
+- 52 Alex Giamas, "The East Is Still Red" Foreign Policy, August 22, 2013. http://foreignpolicy.com/2013/08/22/the-east-is-still-red-parnaria-papers-all-mary-mary-mary-offshore-details.html. and Jeremy Page and Nicole Bersete, "Fujian Villa Linked to Fallen China Leader. ", Wall Street Journal, August 6, 2013. http://www.wsj.com/article/SB10001424178821732406437865007153075626.
+- 53 Adeni, M., "Bo Xilai: Power, Death and Politics."
+- 54 China. 315. https://offshorelive.jiji.org/road/0627.
+- 55 Zhang Horng, "Hard-Hitting Anti-Corruption-Calling Editor's Letter for Changing Reform in Port Severe. ", South China Morning Post, November 27, 2013. http://www.scmp.com/news/china/article/136717/hard-hitting-anti-corruption-calling-editor-s-letter-for-changing-reform-review-protests.
+- 56 China. "Hard-Hitting Anti-Corruption-Calling Editor's Letter for Changing Reform in Port Severe. ", South China Morning Post, November 27, 2013. http://www.scmp.com/news/china/article/136717/hard-hitting-anti-corruption-calling-editor-s-letter-for-changing-reform-review-protests.
+- 鲍克琳 荣荣的贝瑞 厄塞尔的佩尔
+- December 4, 2014. https://www.huffingtonpost.org/2014/12/04/russia-china-secrets-exchange-grass-worldwide_n_7280663.html.
+- Russia, Reckless of Offshore Records Draws Worldwide Response. ", International Consortium of Investigative Journalists.
