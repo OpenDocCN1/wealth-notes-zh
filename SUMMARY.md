@@ -586,3 +586,4 @@
 +   [量化投资以Python为工具](docs/量化投资以python为工具/README.md)
 +   [量化金融投资及其Python应用](docs/量化金融投资及其python应用/README.md)
 +   [金融人工智能：Python 量化交易](docs/金融人工智能用python实现ai量化交易/README.md)
++   [金融投机史](docs/金融投机史/README.md)
