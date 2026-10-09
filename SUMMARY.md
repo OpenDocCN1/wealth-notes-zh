@@ -592,3 +592,4 @@
 +   [金钱的真理](docs/金钱的真理/README.md)
 +   [金钱的秘密](docs/金钱的秘密/README.md)
 +   [钱教我的真理](docs/钱教我的真理/README.md)
++   [长线当冲赚两亿](docs/长线当冲赚两亿/README.md)
