@@ -1,2 +1,2 @@
-+   [The psychology of fraud](README.md)
-+   [The psychology of fraud](诈骗心理学.md)
++   [诈骗心理学](README.md)
++   [诈骗心理学](诈骗心理学.md)

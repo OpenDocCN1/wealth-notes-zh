@@ -1,4 +1,4 @@
-# Estimating Officials' Unofficial Income in Asset Purchases
+# 资产购买中的秘密：估算官员的非官方收入
 
 > 原文：[资产购买中的秘密：估算官员的非官方收入]()
 > 

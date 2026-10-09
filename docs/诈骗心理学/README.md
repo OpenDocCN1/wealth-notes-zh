@@ -1,4 +1,4 @@
-# The psychology of fraud
+# 诈骗心理学
 
 > 原文：[诈骗心理学]()
 > 

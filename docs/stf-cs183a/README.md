@@ -1,4 +1,4 @@
-# [Zero to One 从0到1 | Tony翻译版](https://maker4ever.com/2014/10/zero2one/ "Zero to One  从0到1 | Tony翻译版")
+# Zero to One 从0到1 | Tony翻译版
 
 来源：[https://maker4ever.com/2014/10/zero2one/](https://maker4ever.com/2014/10/zero2one/)
 

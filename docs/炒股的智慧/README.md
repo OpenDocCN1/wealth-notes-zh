@@ -1,4 +1,4 @@
-# The Wisdom of Stock Trading
+# 炒股的智慧
 
 > 原文：[炒股的智慧]()
 > 
