@@ -589,3 +589,4 @@
 +   [金融投机史](docs/金融投机史/README.md)
 +   [The Money Lab](docs/金钱密界/README.md)
 +   [《金钱心理学》](docs/金钱心理学/README.md)
++   [金钱的真理](docs/金钱的真理/README.md)
