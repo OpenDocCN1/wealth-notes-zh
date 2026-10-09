@@ -666,5 +666,6 @@
 +   [零基础学缠论](docs/零基础学缠论/README.md)
 +   [这个标题本身已经是中文了，或者是一个混合标题。如果假设它是英语标题 "TensorFlow and Quantitative Trading from Zero" 或类似结构的翻译请求，但根据指令“参考示例翻译指定的图书标题到中文”，且给出的标题是“零起点TensorFlow与量化交易”，这看起来更像是一个已经处理过的中文标题，或者是需要确认其格式的英文标题的中文对应。](docs/零起点tensorflow与量化交易/README.md)
 +   [靳大成论语通读（上）](docs/靳大成论语通读上/README.md)
++   [靳大成《论语》通读（下册）](docs/靳大成论语通读下/README.md)
 +   [高效能人士的七个习惯](docs/高效能人士的七个习惯/README.md)
 +   [黄碧云的小店创业课](docs/黄碧云的小店创业课/README.md)
