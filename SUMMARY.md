@@ -590,3 +590,5 @@
 +   [The Money Lab](docs/金钱密界/README.md)
 +   [《金钱心理学》](docs/金钱心理学/README.md)
 +   [金钱的真理](docs/金钱的真理/README.md)
++   [金钱的秘密](docs/金钱的秘密/README.md)
++   [钱教我的真理](docs/钱教我的真理/README.md)
