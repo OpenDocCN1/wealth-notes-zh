@@ -1,0 +1,7 @@
+# 本部分主要内容
+
++   I. 公司组织形式
++   II. 发行股票: IPO or SEO
++   III. 资本或股本
++   IV. 现金股利(Cash dividend)与股票股利(stock dividend)
++   V. 库藏股(Treasury Stock)

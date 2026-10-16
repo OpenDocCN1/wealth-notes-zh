@@ -1,0 +1,3 @@
+# Consumer’s Surplus, Compensating Variation and Equivalent Variation
+
++   - Now consider the change in CV when p₁ rises from p₁’ to p₁”.\n- The consumer’s utility for given p₁ is v(x₁*(p₁)) + m − p₁x₁*(p₁) and CV is the extra income which, at the new prices, makes the consumer’s utility the same as at the old prices. That is, ...

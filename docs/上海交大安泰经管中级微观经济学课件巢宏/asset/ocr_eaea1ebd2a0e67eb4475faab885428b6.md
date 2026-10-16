@@ -1,0 +1,7 @@
+# Collusion
+
+**(y₁*, y₂*) is the Cournot-Nash equilibrium.**
+
+**Are there other output level pairs (y₁, y₂) that give higher profits to both firms?**
+
+![](bbox=[0.088, 0.137, 0.66, 0.812])

@@ -1,0 +1,18 @@
+# Testing Population Mean when Variance is Unknown
+
++   - Assume we collect *n.i.i.d.* samples $X_1, X_2, \ldots, X_n$, and $X_i \sim N(\mu, \sigma^2)$.
+
++   - Step 1: state the null and alternative hypotheses  
++     $H_0: \mu = \mu_0,\ H_a: \mu \ne \mu_0$.
+
++   - Step 2: select the level of significance $\alpha$.
+
++   - Step 3: when the variance $\sigma^2$ is unknown, the test statistic is specified by
+
+![](bbox=[0.445, 0.469, 0.593, 0.535])
+
+where $\bar{X}$ is the sample mean and $S^2$ is the sample variance.
+
++   - The test procedure based on the $t$ statistic is often called $t$-test.
+
++   - Under $H_0$, the distribution of $t$ is known, i.e., $t \sim t_{n-1}$, where $n-1$ is the degree of freedom.

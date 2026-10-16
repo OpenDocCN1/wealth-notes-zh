@@ -1,0 +1,3 @@
+# 管理学原理（D）类
+
+# PRINCIPLES OF MANAGEMENT

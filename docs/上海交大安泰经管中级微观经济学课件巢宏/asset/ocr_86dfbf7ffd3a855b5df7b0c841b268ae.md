@@ -1,0 +1,3 @@
+# Stackelberg Games
+
++   ♦ Q: What is the best response that follower firm 2 can make to the choice y₁ already made by the leader, firm 1?

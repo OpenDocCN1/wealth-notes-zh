@@ -1,0 +1,111 @@
+
+
+## 报价换算例：交叉汇率（cross rate）交叉相除
+
+| 币种 | 汇买价 | 汇卖价 | 昨收 |
+|---|---|---|---|
+| 美元/日元 | 118.16 | 118.56 | 118.87 |
+| 欧元/美元 | 1.1279 | 1.1312 | 1.1202 |
+| 欧元/日元 | 133.3 | 134.1 | 133.17 |
+
+如果中国银行即期汇率报价为 USD/JPY 118.16/56，USD/EUR 0.8840/66，求：该银行的交叉汇率 EUR/JPY 双向报价？
+
+解：可以用“交叉相除”的方法得出 EUR/JPY 汇率双向报价。
+
+EUR/JPY 即期汇率买价为 118.16÷0.8866；卖价为 118.56÷0.8840。
+
+按惯例写出报价即为 133.27/12。
+
+## 对外汇交易客户，选择银行哪些服务至关重要
+
+The following attributes of banks are important:
+
+- competitiveness of quote（价差小）
+- speed of execution 交易执行速度
+- Trading time（交行周六5:00，中行2:00）
+- advice about current market conditions 提供外汇信息
+- forecasting advice 预测市场
+
+## 银行参与国际外汇市场主流交易工具
+
+### Reuters交易终端 [Kondor]
+
+下面一段 Reuters Terminal 交易机屏幕上进行的交易对话：
+
+- 询价方甲：Spot DLR JPY pls?
+- 报价方乙：MP （稍等片刻）60/70（买价60点/卖价70点）
+- 询价方甲：Buy USD 1 （买进100万美元）
+- 报价方乙：Ok, done, I sell USD 1 Mio ag JPY At 97.70 value 19/11/94.（好的，成交了。我卖给你100万美元买进日元，汇率是97.70，起息日是1994年11月19日。）JPY pls to ABC BK Tokyo. A/C No.12345.（日元请付至东京ABC银行，账号12345。）
+- 询价方甲：USD To KKY BK A/C 1234567 CHIPS UID 07352，Tks vm for deal BIFN。（我们的美元请付至纽约KKY银行，账号1234567，CHIPS UID 07352，多谢你的交易，再见）
+- 竞争对手：Bloomberg FxGo
+- 实时终端系统现已成为商学院竞争的必备工具之一。
+
+## Online Application：提供外汇价格网站
+
+- Check out these foreign exchange sites:
+  - http://www2.barchart.com/forex.asp/
+  - http://www.oanda.com/
+    - http://fxtrade.oanda.com/platform/ [学习外汇交易]
+  - 中文 www.sh.bank-of-china.com 中行上海分行
+
+## 外汇交易指令：市价与限价
+
+**Lower Bound**
+
+Specifies the lower range should the execution price differ from the quoted price. In this example, if the price falls below 1.18333 when the order is executed, it will be canceled.
+
+**Upper Bound**
+
+Specifies the upper range should the execution price differ from the quoted price. In this example, if the price goes above 1.18405 when the order is executed, it will be canceled.
+
+## 杠杆交易：5万欧元需多少美元保证金？
+
+| Trades | Orders | Boxes | Positions | Exposure | Activity |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| Long | TICKET | MARKET | UNITS | S/L | T/P | PRICE | CURRENT | PROFIT(PIPS) |
+|  | 172509135 | EUR/USD | 50,000 | 1.18201 | 1.18519 | 1.18369 | 1.18351 | 1.8 |
+
+Margin Used = Margin requirement for ALL open positions  
+= 50,000 units x 1.18369 conversion to USD factor / 20 leverage factor  
+= 2959.22
+
+## 人民币双向预期下的外汇篮子产品ETF介绍
+
+- **ETF**：传统基金通过银行或者柜台市场买卖，交易所基金ETF具有便利特点，同时每份基金往往代表一篮子股票，且被动投资。
+- **外汇ETF**：Rydex Investment 2005推出，投资者购买该基金的不同产品，分别代表欧元、日元等产品。（2012更名为Guggenheim Investments）
+  - 中国投资者需要外汇的被动投资，对冲未来用汇需求
+  - 交易所外汇投资，有助于投资组合在股市、汇市间的切换。
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_110_0.png)
+
+## Eurocurrency Market
+
+### 欧洲货币市场（1）：定义与产生背景
+
+- The Eurocurrency market is made up of several large banks called *Eurobanks* that accept deposits and provide loans in various currencies. （专门经营境外货币的银行也称欧洲银行，并不一定在欧洲）
+- For example, the Eurocurrency market has historically recycled the oil revenues (petrodollars) from oil-exporting (OPEC) countries to other countries. （七十年代OPEC国家出口石油，石油美元大量流入，后又流入欧洲市场并被借贷到其它国家，政治、宗教、军事冲突促进了欧洲美元市场的发展）
+- 欧洲美元存款利率高，贷款利率低，原因：不受央行监管（监管套利）
+
+## 欧洲货币市场与亚洲美元
+
+- The Eurocurrency market in Asia is sometimes referred to separately as the *Asian dollar market*.（在亚洲的欧洲货币：亚洲美元市场）
+- 亚洲美元中心：新加坡，上海借鉴
+
+| No. of Financial Institutions |  |
+|---|---:|
+| Insurance Companies/brokers | 218 |
+| Banks | 162 |
+| Fund Management Firms | 118 |
+| Securities Dealers | 94 |
+| Financial Advisors | 69 |
+| Futures Brokers | 47 |
+| Corporate Finance | 37 |
+
+## Eurocurrency Market
+
+### 欧洲货币市场（2）：利率如何产生？
+
+- The BBA LIBOR is the most widely used benchmark or reference rate for short term interest rates.
+- It is compiled by the BBA and released to the market at about 11.00 each day.
+- LIBOR stands for the London Interbank Offered Rate and is the rate of interest at which banks borrow funds from other banks.
+

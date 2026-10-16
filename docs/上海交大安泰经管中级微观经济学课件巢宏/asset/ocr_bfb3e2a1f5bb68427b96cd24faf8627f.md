@@ -1,0 +1,9 @@
+# INTERMEDIATE
+
+# MICROECONOMICS
+
+HAL R. VARIAN
+
+# 17
+
+# Auctions

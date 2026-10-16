@@ -1,0 +1,130 @@
+
+
+- 如何得到模型参数估计（即样本回归函数），尽可能“好”地识别总体回归函数，以反映数据的变动规律？
+- “好”→拟合误差越小越好
+
+$$\min_{\hat{\beta}_0,\hat{\beta}_1}(e_i)=\min_{\hat{\beta}_0,\hat{\beta}_1}\sum_{i=1}^{n}\left[y_i-\left(\hat{\beta}_0+\hat{\beta}_1x_i\right)\right]$$
+
+$$\min_{\hat{\beta}_0,\hat{\beta}_1}|e_i|=\min_{\hat{\beta}_0,\hat{\beta}_1}\sum_{i=1}^{n}\left|y_i-\left(\hat{\beta}_0+\hat{\beta}_1x_i\right)\right|$$
+
+## 一、最小二乘原理
+
+估计参数 $\hat{y}_i = \hat{\beta}_0 + \hat{\beta}_1 x_i$ 应使残差平方和最小，即
+
+$$\min \sum_{i=1}^{n} e_i^2 = \min \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
+
+$$= \min_{\hat{\beta}_0,\hat{\beta}_1} \sum_{i=1}^{n} \left[ y_i - (\hat{\beta}_0 + \hat{\beta}_1 x_i) \right]^2$$
+
+### 为什么取二次型？
+
+- 从经济含义上看：
+  - 体现偏差大小的最小化
+  - 非线性惩罚（对偏差大小递增的惩罚）
+- 从数学处理上看：
+  - 优化过程较为简单直观（线性估计量）
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_190_0.png)
+
+### 满足必要条件（正规方程组）
+
+$$\frac{\partial Q}{\partial \hat{\beta}_0}=-2\sum\left(y_i-(\hat{\beta}_0+\hat{\beta}_1x_i)\right)=0$$
+
+$$\frac{\partial Q}{\partial \hat{\beta}_1}=-2\sum\left(y_i-(\hat{\beta}_0+\hat{\beta}_1x_i)\right)x_i=0$$
+
+### 整理后
+
+$$n\hat{\beta}_0+\hat{\beta}_1\sum x_i=\sum y_i$$
+
+$$\hat{\beta}_0\sum x_i+\hat{\beta}_1\sum x_i^2=\sum x_i y_i$$
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_191_0.png)
+
+### 得出回归模型参数估计值
+
+$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1 \bar{x} = \frac{\sum x_i^2 \sum y_i - \sum x_i \sum x_i y_i}{n \sum x_i^2 - (\sum x_i)^2}$
+
+（代入第二个正规方程）
+
+$\hat{\beta}_1 = \frac{n \sum x_i y_i - \sum x_i \sum y_i}{n \sum x_i^2 - (\sum x_i)^2} = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2}$
+
+$= \frac{\sum \dot{x}_i \dot{y}_i}{\sum \dot{x}_i^2} = \frac{\sum \dot{x}_i y_i}{\sum \dot{x}_i^2} = \frac{\sum x_i \dot{y}_i}{\sum \dot{x}_i^2}$
+
+### 另一种估计思路：矩法估计（method of moments）
+
+$$E(u) = 0 \Rightarrow E(y - \beta_0 - \beta_1 x) = 0 \Rightarrow \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{\beta}_0 - \hat{\beta}_1 x_i) = 0$$
+
+$$E(ux) = 0 \Rightarrow E[(y - \beta_0 - \beta_1 x)x] = 0 \Rightarrow \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{\beta}_0 - \hat{\beta}_1 x_i)x_i = 0$$
+
+## 二、样本回归线的性质
+
+- 参数估计值依赖于随机样本，具有随机性
+- 通过 x 和 y 的样本均值，即 \(\bar{y}=\hat{\beta}_0+\hat{\beta}_1\bar{x}\)
+- 估计的 y 的均值等于实测的 y 的均值，即 \(\bar{y}=\hat{\bar{y}}\)
+- 残差 \(e_i\) 的均值为零，即 \(\sum e_i=0\)
+- 残差 \(e_i\) 和 \(x_i\) 不相关，即 \(\sum e_i x_i=0\)
+- 残差 \(e_i\) 和 y 的预测值不相关，即 \(\sum(e_i-\bar{e})(\hat{y}_i-\bar{\hat{y}})=0\)
+
+## CEO的薪酬和企业净资产回报率
+
+因变量：SALARY
+方法：最小二乘
+日期：03/15/10  时间：16:25
+样本：1 209
+包含观测数：209
+
+| 变量 | 系数 | 标准误 | t统计量 | Prob. |
+|---|---|---|---|---|
+| C | 963.1913 | 213.2403 | 4.516930 | 0.0000 |
+| ROE | 18.50119 | 11.12325 | 1.663290 | 0.0978 |
+
+| R-squared | 0.013189 | 因变量均值 | 1281.120 |
+| 调整后 R-squared | 0.008421 | 因变量标准差 | 1372.345 |
+| 回归标准误 | 1366.555 | Akaike 信息准则 | 17.28750 |
+| 残差平方和 | 3.87E+08 | Schwarz 准则 | 17.31948 |
+| 对数似然 | -1804.543 | Hannan-Quinn 准则 | 17.30043 |
+| F统计量 | 2.766532 | Durbin-Watson 统计量 | 2.104990 |
+| Prob(F-statistic) | 0.097768 | | |
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_197_0.png)
+
+### SALARY vs. ROE
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_198_0.png)
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_199_0.png)
+
+salary
+
+963.191
+
+roe
+
+$\widehat{salary} = 963.191 + 18.501\,roe$
+
+$E(salary|roe) = \beta_0 + \beta_1roe$
+
+### 注释一
+
+- 变量度量单位的改变，会直接改变参数估计值的大小。因此单纯根据参数估计值的大小来判断总体参数的性质是没有意义的。
+
+![](img/27e6f65397bb7fd3eced98a716a58f50_200_0.png)
+
+因变量：SALARY
+方法：最小二乘
+日期：09/13/11  时间：17:27
+样本：1 209 IF SALARY<10000
+包含观测数：207
+
+| 变量 | 系数 | 标准误 | t统计量 | Prob. |
+|---|---|---|---|---|
+| C | 949.5851 | 111.2878 | 8.532698 | 0.0000 |
+| ROE | 12.71692 | 5.811438 | 2.188256 | 0.0298 |
+
+| R-squared | 0.022825 | 因变量均值 | 1167.628 |
+| 调整后 R-squared | 0.018059 | 因变量标准差 | 719.5987 |
+| 回归标准误 | 713.0716 | Akaike 信息准则 | 15.98666 |
+| 残差平方和 | 1.04E+08 | Schwarz 准则 | 16.01886 |
+| 对数似然 | -1652.619 | Hannan-Quinn 准则 | 15.99968 |
+| F统计量 | 4.788465 | Durbin-Watson 统计量 | 1.903751 |
+| Prob(F-statistic) | 0.029781 | | |
+

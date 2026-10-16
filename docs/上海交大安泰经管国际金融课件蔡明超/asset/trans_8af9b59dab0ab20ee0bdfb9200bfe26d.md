@@ -1,0 +1,123 @@
+
+
+## Correcting A Balance Of Trade Deficit
+国际收支赤字的汇率自动调节机制
+
+- 一个浮动汇率制度可能会自动纠正贸易失衡，因为贸易失衡会影响相关货币的供求。
+  - 赤字->本币贬值->进口下降->赤字改善
+
+## Factors Affecting FDI
+资本与金融账户下影响FDI的因素
+
+- Changes in Restrictions（管制放松）
+  - 取消政府壁垒可能会产生新的机会。
+- Privatization私有化
+  - 政府运营的出售也刺激了FDI。
+- Potential Economic Growth经济增长
+  - 具有更高潜在经济增长的国家更有可能吸引FDI。
+- Tax Rates税率
+  - 对企业收益征收相对较低税率的国家更有可能吸引FDI。
+- Exchange Rates汇率预期升值
+  - 当某国货币预期走强时，企业通常更愿意在该国投资资金。
+- 其它：政治，语言，宗教，互联网与技术进步
+  - Amazon, Alibaba
+
+## 资本与金融账户下影响Portfolio投资因素
+
+- 影响FDI因素同样影响Portfolio投资
+- 美联储对世界各国股市影响重大原因
+  - 全球资金通过华尔街进行全球portfolio投资，例如GLD是全球最大黄金ETF
+  - 美元地位使得美联储扮演央行中的央行角色
+  - 香港HKEX的最大投资者: USA
+- 中国Portfolio投资影响因素
+  - 审批
+  - QFII, QDII
+  - 投机与热钱，错误与遗漏项目为正，判断热钱流入
+- 香港市场：上市公司与投资者两头在外
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_81_0.png)
+
+http://www.hkex.com.hk/eng/stat/research/documents/cmts2012.pdf
+
+## Agencies that Facilitate International Flows
+
+### International Monetary Fund (IMF)
+
+- 183 member countries. Established in 1946
+  - to promote international monetary cooperation and exchange stability（货币合作与汇率稳定）；
+  - to provide temporary financial assistance to help ease imbalances of payments.（为消除收支失衡提供暂时的金融帮助）
+  - 2011年首位中国副总裁
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_82_0.png)
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_82_1.png)
+
+- The IMF uses a quota system, and its unit of account is the SDR (special drawing right).（依成员国交纳的份额而分配的一种资金使用权利，SDR是由5种货币加权得到的货币单位）
+
+| Currency | 2001 Revision | 1996 Revision |
+|---|---|---|
+| U.S. dollar | 45 | 39 |
+| Euro | 29 |  |
+| Deutsche mark |  | 21 |
+| French franc |  | 11 |
+| Japanese yen | 15 | 18 |
+| Pound sterling | 11 | 11 |
+
+### World Trade Organization (WTO)
+
+- Created in 1995, the WTO is the successor to the General Agreement on Tariffs and Trade (GATT).
+- Its functions include:
+  - administering WTO trade agreements（管理）;
+  - serving as a forum for trade negotiations（安排）;
+  - handling trade disputes;（争端）
+  - training developing countries;（培训）
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_85_0.png)
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_85_1.png)
+
+谷歌街景：WTO日内瓦湖畔
+
+## Exercise
+
+- Log in [gfmag.com](https://gfmag.com) [tools-country economy report]. Find a country you wish to travel. Study the characteristics of BOP and give a brief description.
+- 教材第3章计算题（填空部分）。
+- 建立国际投资组合小组，资金第一期10万RMB进行分配，简单分析购买动机（第8周第2期100万）。这部分资金将分录在中国BOP的哪个账户？澳大利亚、马来、沙特是中国的最大进口来源国，买入这些国家指数基金是否能对冲中国宏观风险？
+
+## Lecture 3
+
+### International Fixed Income Markets
+--FX, Currency & Euro-Currency, and Bond
+
+- Eun, 5, 11, 12章
+
+## Objectives
+
+- Foreign exchange market (Forex quotes)
+  - 外汇市场参与投机与对冲的经济学分析; 汇率换算; Margin trading
+- Eurocurrency market (Libor), Eurocredit market
+- Eurobond & Foreign bond market
+
+## Motives for Using International Money Markets
+
+- 国际金融市场划分：固定收益、股权、衍生产品、另类投资
+- 国际固定收益分类
+  - 外汇市场，货币市场，信贷市场，债券市场
+- 投资国际固定收益市场动机
+  - foreign currencies to be appreciated
+  - to reap the benefits of international diversification.
+  - Hedge currency risk
+    - Open Question: 我们是否只持有人民币资产？这样做是否理性？
+
+## 外汇市场预期收益 E(r)与风险Var
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_91_0.png)
+
+- 历史数据法：
+  - 从 http://fx.sauder.ubc.ca/data.html 下载每日及每月数据 $e_t$
+  - 计算涨跌幅度 $r_t = e_t / e_{t-1}$
+- 基于历史数据的预期收益与风险，由 EXCEL函数average与var得到
+  - 每日： average: -2.5×10^-5, var: 3.9×10^-5
+  - 每月： 2.2×10^-3， var: 5.9×10^-4
+  - 当每天涨跌无关时，每月风险是每日风险的n倍，n为交易日
+

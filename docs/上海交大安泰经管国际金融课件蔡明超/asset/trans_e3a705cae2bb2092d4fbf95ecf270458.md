@@ -1,0 +1,237 @@
+
+
+# Exercise
+
++   1. 分析教材表1-2，中国公司排名情况。作为世界第2大经济实体、第一大贸易国，中国排名靠后的原因是什么？中国的前景如何，对年轻人有机会吗？我们需要准备些什么？
++   
++   2. 下载一组你感兴趣的新兴市场国家和发达国家最近5年的汇率（日收盘），进行描述分析EXCEL-数据-数据分析，来源：http://fx.sauder.ubc.ca/data.html
++      或者 http://finance.yahoo.com/currency-investing
++   
++   3. 从finance.yahoo.com登陆，ID: fi401,password:111111
++      找到菜单Myportfolio→ADR，查看bidu的市盈率PE，参考01.xls文件，3-5人模拟构建国际投资组合。（或者http://i.finance.sina.com.cn/zixuan,usstock，账户fi401@126.com，密码111119）
++      模拟参考格式 001.xls, 001.pptx
+
+# CNNMoney
+
+CNN、Fortune 和 Money 的一项服务
+
+# FORTUNE
+
+# Money
+
++   首页 · 视频 · 商业新闻 · 市场 · 投资组合 · 投资 · 经济 · 科技 · 个人理财 · 小企业 · 领导力
+
++   概览 · **图表** · 持仓 · 建议
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_49_0.png)
+
+# 资产分配、股息收益率
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_50_0.png)
+
+# 全球配置、贝塔系数
+
+# 地理分配
+
+| 国家 | 百分比 |
+|---|---|
+| United States | 47.36% |
+| China, Hong Kong, Korea, Singapore | 36.36% |
+| Russia | 5.99% |
+| Canada | 5.50% |
+| Australia | 2.06% |
+| South America | 1.23% |
+| Europe | 0.51% |
+| Africa | 0.38% |
+| India, Sri Lanka, Nepal, Pakistan, Bangladesh | 0.35% |
+| Middle East | 0.26% |
+| Japan | 0.00% |
+
+# 风险
+
+Beta
+0.8
+
+Your portfolio is 15% less volatile than the S&P
+您的投资组合比标准普尔指数波动性低 15%
+
+# 交易风格
+
+Management Metrics
+管理指标
+Trades per year 73
+每年交易次数 73
+0 658
+Portfolio Turnover 63.6%
+投资组合周转率 63.6%
+0% 4861%
+Valuation Metrics
+估值指标
+Price to Earnings (P/E) 16
+市盈率 16
+-257 320
+Price to Book (P/B) 2.0
+市净率 2.0
+0.2 25.7
+Return on Assets (ROA) 12.7%
+资产回报率 12.7%
+-42.9% 538%
+Return on Equity (ROE) 51.8%
+净资产收益率 51.8%
+-801% 1807%
+EV/EBITDA 13.1
+企业价值/息税折旧摊销前利润 13.1
+-100.8 102.9
+
+# Lecture 2
+
+# 國際收支
+
+国际收支
+
+Eun, 第3章
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_53_0.png)
+
+# Chapter Objectives
+
+课程目标
+
++   - To explain the key components of the balance of payments（3大国际收支项目）;
++     - 中美BOP分析
++   - To explain how the international flow of funds is influenced by economic factors and other factors.（影响经常账户、FDI的因素）
++     - 马歇尔-勒纳条件与 *J-curve effect*
++   - Agencies facilitating international flows（三大国际机构）
+
+# 国际收支与宏观经济等式
+
++   - GDP ≡ C+I+G+X-M: Output，支出法核算
++     - C = consumption spending
++     - I = capital investment spending
++     - G = government spending
++     - X = exports of goods and services
++     - M = imports of goods and services
++   - Y ≡ C+S+T: Income收入法核算
++     - S=Saving
++     - T=Tax
++   - Market equilibrium: GDP≡C(Y)+I+G+X-M=Y
++   - Deficit: X-M<0；T-G<0
+
+# Balance of Payments
+
+国际收支
+
+![](img/26c5ecc8e8d39d3ae08a606cec76fa4e_56_0.png)
+
++   - The *balance of payments* 国际收支平衡表 is a measurement of all transactions between domestic and foreign residents over a specified period of time. (一定时期本国与外国居民间的所有交易)
++   - Each transaction is recorded as both a credit and a debit, i.e. *double-entry bookkeeping*. (每笔交易借贷复式记帐)
++     - 出口1美元或者收到1美元投资的同时，官方储备增加1美元
+
+# Balance of Payments: Three Accounts
+
+国际收支：三大账户
+
++   - The transactions are presented in three groups – (经常项目，资本与金融项目，平衡项目)
++     - a *current account*,
++     - a *capital* and *financial account*,
++     - balance account
++     - 导致资金流入的一般记贷方，用正号表示：出口，融资
+
+# 第1类账户：*Current Account*
+
++   - The *current account* 经常账户：
++     - purchases of goods or services 购买商品或劳务，
++     - the provision of income on financial assets 金融资产的利息股息，or
++     - unilateral current transfers (e.g. government grants and pensions, private remittances 单方面转移（捐赠）)
+
++   - 复式记账
++     - 中国出口10万美元服装，则经常项目贷记10万美元（+），同时国家外汇储备借记10万(-).（和为0，或者说贷方余额=借方余额）
+
+# 如何评判经常项目
+
++   - 同比增长
++     - 2012年中国出口增7.9%；进口增4.3%。贸易顺差(X-M)2300亿美元，扩大48.1%。
++   - 与GDP相对比率
++     - 2012年中国GDP8.2万亿美元，出口2万亿，进口1.8万亿
++     - (X+M)/GDP:进出口依存度
+
+http://wto.org/english/res_e/booksp_e/world_trade_report13_e.pdf
+
+出口 (B$)
+1 China 2049 ;
+2 United States 1546 ;
+3 Germany 1407 ;
+4 Japan 799 ;
+5 Netherlands 656 ;
+6 France 569 ;
+进口
+1 US 2336
+2 China 1818
+3 Germany 1167
+4 Japan 886
+5 U.K. 680
+6 France 674
+
+# 中国十大主要出口目的地、进口原产地（2012，2008年上）
+
+单位：亿美元，%
+出口最终目的地国（地）	当月		1至当月累计	
+	金额	同比	金额	同比
+总值	1,793.8	2.9	18,499.1	7.3
+其中：
+香港	333.2	35.4	2,858.7	19.1
+美国	301.3	-2.6	3,194.4	8.2
+日本	136.3	-3.8	1,388.7	3.3
+韩国	69.3	-7.9	805.4	5.3
+德国	51.7	-20.1	629.9	-10.0
+荷兰	50.1	-7.0	530.2	-2.3
+印度	41.1	-12.4	434.2	-6.5
+澳大利亚	38.1	14.6	345.9	12.0
+台湾省	36.7	28.0	325.8	0.7
+越南	36.6	37.2	304.5	18.2
+进口原产国（地）	当月		1至当月累计	
+	金额	同比	金额	同比
+总值	1,597.5	0.0	16,503.7	4.1
+其中：
+韩国	160.5	10.0	1,524.6	2.8
+中华人民共和国	148.5	24.0	1,277.6	15.4
+日本	138.0	-15.0	1,639.7	-7.6
+台湾省	127.2	20.8	1,194.8	4.7
+美国	124.2	8.3	1,191.8	8.1
+澳大利亚	74.7	-8.7	768.1	1.9
+德国	74.5	-11.7	838.7	-1.4
+沙特阿拉伯	51.6	9.4	503.5	13.0
+马来西亚	46.6	-9.5	524.2	-7.5
+泰国	36.8	?4	405.7	39.1
+
+# 2008.07 进出口主要国别（地区）总值
+
+2008-08-22
+
+单位：亿美元，%
+出口最终目的地国（地）	当月		1至当月累计	
+	金额	同比	金额	同比
+总值	1366.8	26.9	8029.1	22.6
+其中：美国	236.0	15.6	1403.9	9.9
+香港	177.3	17.1	1083.8	9.2
+日本	103.1	21.2	634.8	15.9
+韩国	73.1	59.3	430.8	39.4
+德国	35.9	29.9	324.1	27.2
+荷兰	43.0	25.4	259.0	23.2
+英国	35.4	28.5	197.8	18.7
+印度	28.9	31.1	185.3	49.0
+新加坡	31.6	12.1	180.1	9.4
+俄罗斯联邦	31.5	13.1	174.0	28.5
+进口原产国（地）	当月		1至当月累计	
+	金额	同比	金额	同比
+总值	1114.0	33.7	6792.0	31.1
+其中：日本	150.5	32.1	894.5	21.6
+韩国	114.3	26.0	681.8	21.0
+台湾省	103.8	18.6	653.2	23.1
+中华人民共和国	82.8	16.5	514.0	14.0
+美国	72.1	20.0	487.2	23.8
+德国	52.8	24.4	326.0	33.3
+澳大利亚	39.9	83.9	212.4	49.4
+马来西亚	31.5	36.9	190.6	26.2
+沙特阿拉伯	31.2	104.2	179.0	101.5
+
