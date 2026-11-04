@@ -1662,7 +1662,7 @@
     9月4日，67,555元已经写进正式方案，
 
     '
-  merge: -1
+  merge: 0
 - raw:
   - '[PAGE 34]
 
@@ -2362,4 +2362,4 @@
     微信：lazyhelper1
 
     '
-  merge: -1
+  merge: 1
