@@ -1,0 +1,26 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 21
+  before: 3
+  after: 2
+- line: 33
+  before: 3
+  after: 2
+- line: 67
+  before: 3
+  after: 2
+- line: 91
+  before: 3
+  after: 2
+- line: 115
+  before: 3
+  after: 0
+text_changes:
+- line: 91
+  before: 五、个人策略怎么定
+  after: 四、个人策略怎么定
+- line: 115
+  before: 次回信息过滤价值、想省下每天 3 小时无效阅读时间的读者，扫码加我微信
+  after: 此次信息过滤价值、想省下每天 3 小时无效阅读时间的读者，扫码加我微信
