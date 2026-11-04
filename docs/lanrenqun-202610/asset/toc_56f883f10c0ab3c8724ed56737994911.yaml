@@ -1,0 +1,98 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 13
+  before: 2
+  after: 1
+- line: 71
+  before: 2
+  after: 1
+- line: 281
+  before: 2
+  after: 4
+- line: 294
+  before: 2
+  after: 3
+- line: 296
+  before: 3
+  after: 4
+- line: 300
+  before: 2
+  after: 4
+- line: 310
+  before: 2
+  after: 3
+- line: 312
+  before: 3
+  after: 4
+- line: 334
+  before: 3
+  after: 4
+- line: 353
+  before: 2
+  after: 3
+- line: 355
+  before: 3
+  after: 4
+- line: 371
+  before: 3
+  after: 4
+- line: 382
+  before: 2
+  after: 3
+- line: 384
+  before: 3
+  after: 4
+- line: 395
+  before: 3
+  after: 4
+- line: 498
+  before: 2
+  after: 3
+text_changes:
+- line: 141
+  before: 因为 YouTube 在扶持直播，把竖屏直播放到了 shorts 的流量池里，而竖屏直播太缺内容。大家现在发现没有，上面这些直播间，全都是竖屏直播。
+  after: ''
+- line: 244
+  before: 3.AI 类、图片类：
+  after: 3. AI 类、图片类：
+- line: 300
+  before: 名称或内容赛道分组。
+  after: 1.2 名称或内容赛道分组
+- line: 310
+  before: 2 配置 YouTube 直播
+  after: 2. 配置 YouTube 直播
+- line: 353
+  before: 3 在直播中控创建任务
+  after: 3. 在直播中控创建任务
+- line: 382
+  before: 4 三种播放模式
+  after: 4. 三种播放模式
+- line: 408
+  before: 1 启动后一直“等待直播”
+  after: 1. 启动后一直“等待直播”
+- line: 426
+  before: 2 YouTube 没有画面或没有数据处理方式：
+  after: 2. YouTube 没有画面或没有数据
+- line: 428
+  before: VPS SSH 连接异常。
+  after: 3. VPS SSH 连接异常
+- line: 437
+  before: 5 任务显示错误但实际还在推流
+  after: 5. 任务显示错误但实际还在推流
+- line: 482
+  before: 1.直播的宏观规律：
+  after: 1. 直播的宏观规律：
+- line: 498
+  before: 2.对待直播的心态
+  after: 2. 对待直播的心态
+- line: 508
+  before: 3.新手如何开始
+  after: 3. 新手如何开始
+- line: 512
+  before: 4.0 播、百播怎么办
+  after: 4. 0播、百播怎么办
+- line: 559
+  before: 套利实战局。
+  after: 套利实战局
