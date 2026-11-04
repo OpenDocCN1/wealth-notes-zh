@@ -1,5 +1,47 @@
-level_changes: []
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 37
+  before: 3
+  after: 2
+- line: 182
+  before: 3
+  after: 2
+- line: 508
+  before: 3
+  after: 4
+- line: 510
+  before: 3
+  after: 5
+- line: 526
+  before: 3
+  after: 5
+- line: 540
+  before: 3
+  after: 4
+- line: 542
+  before: 3
+  after: 5
 text_changes:
-- line: 15
-  before: 【宏观前瞻】
-  after: 宏观前瞻
+- line: 182
+  before: 2. 利得和损失的影响（单位：万元）
+  after: 二、利得和损失的影响（单位：万元）
+- line: 270
+  before: 三、影响公司 2025 年和 2026 上半年业绩的因素及排序
+  after: 三、影响公司 2025 年和 2026 年上半年业绩的因素及排序
+- line: 369
+  before: (1) 开枝散叶有利于踩中风口
+  after: （1）开枝散叶有利于踩中风口
+- line: 381
+  before: (2) 行业周期的客观规律
+  after: （2）行业周期的客观规律
+- line: 594
+  before: 1. 市盈率（单位，倍）
+  after: 1. 市盈率（单位：倍）
+- line: 619
+  before: 2. 市净率（单位，倍）
+  after: 2. 市净率（单位：倍）
+- line: 638
+  before: 3. 市销率（单位，倍）
+  after: 3. 市销率（单位：倍）
