@@ -1,0 +1,8 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+text_changes:
+- line: 43
+  before: 大水教派崛起
+  after: 大师教派崛起
