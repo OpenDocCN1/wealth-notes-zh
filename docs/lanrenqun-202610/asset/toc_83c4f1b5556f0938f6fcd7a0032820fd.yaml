@@ -1,0 +1,32 @@
+level_changes:
+- line: 19
+  before: 2
+  after: 1
+- line: 27
+  before: 2
+  after: 1
+- line: 57
+  before: 2
+  after: 1
+- line: 214
+  before: 2
+  after: 1
+- line: 232
+  before: 2
+  after: 1
+- line: 236
+  before: 3
+  after: 2
+- line: 240
+  before: 3
+  after: 2
+- line: 244
+  before: 3
+  after: 2
+- line: 248
+  before: 3
+  after: 2
+- line: 252
+  before: 2
+  after: 1
+text_changes: []
