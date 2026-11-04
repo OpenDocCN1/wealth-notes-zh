@@ -1,8 +1,14 @@
 level_changes:
-- line: 164
-  before: 3
+- line: 3
+  before: 2
   after: 1
-- line: 176
+- line: 15
   before: 3
-  after: 1
-text_changes: []
+  after: 2
+text_changes:
+- line: 3
+  before: 用波段分析展望四季度乃至其后的 A 股走势
+  after: 用波段分析展望四季度乃至其后的 A股走势
+- line: 15
+  before: 小懒判断
+  after: 小结判断
