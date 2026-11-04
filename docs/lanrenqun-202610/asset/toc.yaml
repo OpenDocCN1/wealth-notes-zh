@@ -1,5 +1,11 @@
 level_changes:
-- line: 13
+- line: 55
+  before: 3
+  after: 4
+- line: 73
   before: 2
-  after: 3
-text_changes: []
+  after: 1
+text_changes:
+- line: 55
+  before: 图三：港股的领先指标。
+  after: 图3：港股的领先指标
