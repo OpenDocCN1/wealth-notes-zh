@@ -66,6 +66,7 @@
 +   [懒人群分享 202606](docs/lanrenqun-202606/README.md)
 +   [懒人群分享 202608](docs/lanrenqun-202608/README.md)
 +   [懒人群分享 202609](docs/lanrenqun-202609/README.md)
++   [懒人群分享 202610](docs/lanrenqun-202610/README.md)
 +   [老方](docs/laofang/README.md)
 +   [老隋](docs/laosui/README.md)
 +   [MACD实战操盘用法研究](docs/macd实战操盘用法研究/README.md)
