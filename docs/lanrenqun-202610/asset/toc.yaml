@@ -2,19 +2,121 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 27
+- line: 41
   before: 3
-  after: 2
-- line: 59
+  after: 4
+- line: 45
   before: 3
-  after: 2
-- line: 77
+  after: 4
+- line: 49
   before: 3
-  after: 2
-- line: 111
+  after: 4
+- line: 142
   before: 3
-  after: 2
-- line: 139
+  after: 4
+- line: 148
   before: 3
-  after: 2
-text_changes: []
+  after: 4
+- line: 154
+  before: 3
+  after: 4
+- line: 160
+  before: 3
+  after: 4
+- line: 166
+  before: 3
+  after: 4
+- line: 174
+  before: 3
+  after: 4
+- line: 178
+  before: 3
+  after: 4
+- line: 182
+  before: 3
+  after: 4
+- line: 186
+  before: 3
+  after: 4
+- line: 190
+  before: 3
+  after: 4
+- line: 194
+  before: 3
+  after: 4
+- line: 198
+  before: 3
+  after: 4
+- line: 202
+  before: 3
+  after: 4
+- line: 206
+  before: 3
+  after: 4
+- line: 210
+  before: 3
+  after: 4
+- line: 214
+  before: 3
+  after: 4
+- line: 218
+  before: 3
+  after: 4
+- line: 222
+  before: 3
+  after: 4
+- line: 230
+  before: 3
+  after: 4
+- line: 246
+  before: 3
+  after: 4
+- line: 252
+  before: 3
+  after: 4
+- line: 258
+  before: 3
+  after: 4
+- line: 272
+  before: 3
+  after: 4
+- line: 276
+  before: 3
+  after: 4
+- line: 280
+  before: 3
+  after: 4
+- line: 284
+  before: 3
+  after: 4
+- line: 292
+  before: 3
+  after: 4
+- line: 298
+  before: 3
+  after: 4
+- line: 302
+  before: 3
+  after: 4
+- line: 363
+  before: 2
+  after: 3
+- line: 365
+  before: 3
+  after: 4
+- line: 369
+  before: 3
+  after: 4
+- line: 376
+  before: 3
+  after: 4
+- line: 386
+  before: 3
+  after: 4
+text_changes:
+- line: 298
+  before: 41 | 任选一套 PPT 模板 历史采集到「24小时内 400+人加购」 | 7天展示销量净增 164。
+  after: 41 | 任选一套 PPT 模板 历史采到「24小时内 400+人加购」 | 7天展示销量净增 164。
+- line: 302
+  before: 42 | 职场汇报 PPT 模板·255 页无动画 历史采集到「24小时内 100+人加购」 | 7天展示销量净增 87。
+  after: 42 | 职场汇报 PPT 模板·255 页无动画 历史采到「24小时内 100+人加购」 | 7天展示销量净增 87。
