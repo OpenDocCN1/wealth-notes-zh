@@ -1,0 +1,14 @@
+level_changes: []
+text_changes:
+- line: 3
+  before: 微信贴图号：微信给新号放出的这一轮流量
+  after: 微信公众号：微信给新号放出的这一轮流量
+- line: 45
+  before: b. 明令不准机器替人发
+  after: 1. 明令不准机器替人发
+- line: 53
+  before: c. 给这些内容接上出口
+  after: 2. 给这些内容接上出口
+- line: 71
+  before: 3. 这个入口的流量，开过关过好几次
+  after: 3. 这个入口的流量，开开关关过好几次
