@@ -1,23 +1,26 @@
 level_changes:
-- line: 110
-  before: 3
-  after: 4
-- line: 167
-  before: 3
-  after: 4
-- line: 305
-  before: 3
-  after: 4
-- line: 327
-  before: 3
-  after: 4
-- line: 440
+- line: 3
+  before: 2
+  after: 1
+- line: 278
   before: 2
   after: 3
-- line: 450
-  before: 3
-  after: 2
-text_changes:
-- line: 432
-  before: 第四块，发布和复盘。
-  after: 七、第五步：发布和复盘。
+- line: 290
+  before: 2
+  after: 3
+- line: 302
+  before: 2
+  after: 3
+- line: 306
+  before: 2
+  after: 3
+- line: 330
+  before: 2
+  after: 3
+- line: 351
+  before: 2
+  after: 3
+- line: 365
+  before: 2
+  after: 3
+text_changes: []
