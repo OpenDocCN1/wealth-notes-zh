@@ -2,25 +2,13 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 19
+- line: 365
   before: 2
-  after: 1
-- line: 47
-  before: 3
-  after: 2
-- line: 83
-  before: 3
-  after: 2
-- line: 119
-  before: 3
-  after: 2
-- line: 157
-  before: 3
-  after: 2
-- line: 179
-  before: 3
-  after: 2
+  after: 3
 text_changes:
-- line: 157
-  before: 四、普娃在哪些方面值得”鸡娃”值得培养，哪些方面必须家长用力提高，才能让普娃弯道超车，比所谓”牛娃”更加优秀？
-  after: 四、普娃在哪些方面值得”鸡娃”，哪些方面必须家长用力提高，才能让普娃弯道超车，比所谓”牛娃”更加优秀？
+- line: 3
+  before: 讲一期绝大多数人都看不懂的
+  after: 讲一期绝大多数人都看不懂的东西
+- line: 21
+  before: 那天我写，多年后，再回首，碳基多少事，都付笑谈中。
+  after: 那年我写，多年后，再回首，尘世多少事，都付笑谈中。
