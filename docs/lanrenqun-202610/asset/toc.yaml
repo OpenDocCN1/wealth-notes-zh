@@ -1,5 +1,23 @@
 level_changes:
-- line: 3
+- line: 15
   before: 2
-  after: 1
-text_changes: []
+  after: 3
+- line: 61
+  before: 2
+  after: 3
+- line: 141
+  before: 2
+  after: 3
+- line: 229
+  before: 2
+  after: 3
+text_changes:
+- line: 15
+  before: 空就感到很空虚？
+  after: 心空就感到很空虚？
+- line: 141
+  before: 佛道是咋被玩“埋汰”的？就是搞出很多俗词，其实这也没毛病，是为了方便理解，但是老百姓认知不全，就被各种词给带歪了，动不动就依文解意。
+  after: 佛道是怎么被玩“埋汰”的？
+- line: 229
+  before: 就好比啥呢？
+  after: 就好比什么呢？
