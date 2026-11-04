@@ -1,0 +1,11 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+text_changes:
+- line: 174
+  before: TG 社群，我觉得做 X 最后好同步把 TG 群一并做好
+  after: TG 社群，我觉得做 X 最后最好同步把 TG 群一并做好
+- line: 210
+  before: September 2026
+  after: September 2025
