@@ -1,0 +1,32 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 15
+  before: 3
+  after: 2
+- line: 25
+  before: 3
+  after: 2
+- line: 45
+  before: 3
+  after: 2
+- line: 101
+  before: 3
+  after: 2
+- line: 163
+  before: 3
+  after: 2
+text_changes:
+- line: 25
+  before: 1 -
+  after: '1.'
+- line: 45
+  before: 2 -
+  after: '2.'
+- line: 101
+  before: 3 -
+  after: '3.'
+- line: 163
+  before: 5 -
+  after: '5.'
