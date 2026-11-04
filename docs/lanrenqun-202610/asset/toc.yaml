@@ -1,32 +1,65 @@
 level_changes:
-- line: 13
-  before: 3
+- line: 3
+  before: 2
   after: 1
-- line: 31
+- line: 23
   before: 3
-  after: 1
-- line: 53
+  after: 2
+- line: 35
   before: 3
-  after: 1
-- line: 75
+  after: 2
+- line: 37
+  before: 4
+  after: 3
+- line: 61
+  before: 4
+  after: 3
+- line: 79
   before: 3
-  after: 1
-- line: 89
+  after: 2
+- line: 81
+  before: 4
+  after: 3
+- line: 99
+  before: 4
+  after: 3
+- line: 131
   before: 3
-  after: 1
-- line: 113
-  before: 3
-  after: 1
-- line: 145
-  before: 3
-  after: 1
+  after: 2
+- line: 133
+  before: 4
+  after: 3
+- line: 149
+  before: 4
+  after: 3
 - line: 177
+  before: 4
+  after: 3
+- line: 183
   before: 3
-  after: 1
-- line: 207
+  after: 2
+- line: 185
+  before: 4
+  after: 3
+- line: 199
+  before: 4
+  after: 3
+- line: 211
+  before: 4
+  after: 3
+- line: 223
   before: 3
-  after: 1
-text_changes:
-- line: 177
-  before: 八、关于追风口。现在不做 AI 产品，但我要保持和 AI 的链接
-  after: 八、关于追风口。现在不做 AI 产品，但我要保持和 AI 的连接
+  after: 2
+- line: 235
+  before: 4
+  after: 3
+- line: 239
+  before: 4
+  after: 3
+- line: 243
+  before: 4
+  after: 3
+- line: 247
+  before: 4
+  after: 3
+text_changes: []
