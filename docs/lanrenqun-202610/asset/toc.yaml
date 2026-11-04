@@ -2,4 +2,37 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-text_changes: []
+- line: 111
+  before: 2
+  after: 3
+- line: 113
+  before: 3
+  after: 4
+- line: 121
+  before: 3
+  after: 4
+- line: 145
+  before: 3
+  after: 4
+- line: 153
+  before: 3
+  after: 4
+- line: 165
+  before: 3
+  after: 4
+- line: 169
+  before: 3
+  after: 4
+text_changes:
+- line: 3
+  before: x 自媒体：半年 5 万粉，变现 6 位数的经验分享
+  after: 自媒体：半年5万粉，变现6位数的经验分享
+- line: 121
+  before: 可以参考下薄肌教父的全平台流量收益流量分享，可见马斯克还是最大的
+  after: 可以参考下薄肌教父的全平台流量收益分享，可见马斯克还是最大的
+- line: 169
+  before: 产品与 Aff
+  after: 产品与Affiliate
+- line: 177
+  before: 讲几个 X 才能玩的流量案例
+  after: 讲几个X才能玩的流量案例
