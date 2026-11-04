@@ -95,6 +95,7 @@
 +   [挖矿指南](docs/wakuang/README.md)
 +   [通往财富自由之路精细笔记](docs/wealfree/README.md)
 +   [沃顿商学院全套笔记](docs/wharton/README.md)
++   [沃顿商学院最受欢迎的课程笔记](docs/wharton-most-popular/README.md)
 +   [YC 创业课 2012 中文笔记](docs/yc-sus2012/README.md)
 +   [YC 创业课 2013 中文笔记](docs/yc-sus2013/README.md)
 +   [YC 创业课 EU 2014 中文笔记](docs/yc-sus2014-eu/README.md)
