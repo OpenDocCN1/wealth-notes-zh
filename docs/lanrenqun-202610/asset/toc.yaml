@@ -2,25 +2,64 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 167
+- line: 64
+  before: 2
+  after: 3
+- line: 68
   before: 3
   after: 4
-text_changes:
-- line: 3
-  before: 2 天谈了 3 个累计 GMV 近 20 亿 的客户，分享我们是怎么拿下第一单的实战经验
-  after: 2天谈了3个累计 GMV 近20亿的客户，分享我们是怎么拿下第一单的实战经验
-- line: 35
-  before: '**团队：原来不用自己什么都会，也能把事情做起来**'
-  after: 团队：原来不用自己什么都会，也能把事情做起来
-- line: 37
-  before: '**从亦仁开放日相识，到广州一起聊项目**'
-  after: 从亦仁开放日相识，到广州一起聊项目
-- line: 149
-  before: 客户出钱跟我们开发同一款产品。
-  after: 客户出钱跟我们开发同一款产品
-- line: 155
-  before: 客户相当于我们的产品经理。
-  after: 客户相当于我们的产品经理
-- line: 210
-  before: '**这次实战，让我知道下一步该练什么**'
-  after: 这次实战，让我知道下一步该练什么
+- line: 74
+  before: 3
+  after: 4
+- line: 80
+  before: 3
+  after: 4
+- line: 84
+  before: 3
+  after: 4
+- line: 86
+  before: 3
+  after: 4
+- line: 90
+  before: 3
+  after: 4
+- line: 94
+  before: 3
+  after: 4
+- line: 96
+  before: 2
+  after: 3
+- line: 142
+  before: 3
+  after: 4
+- line: 144
+  before: 2
+  after: 3
+- line: 191
+  before: 3
+  after: 4
+- line: 199
+  before: 2
+  after: 3
+- line: 203
+  before: 3
+  after: 4
+- line: 207
+  before: 3
+  after: 4
+- line: 225
+  before: 3
+  after: 4
+- line: 229
+  before: 3
+  after: 4
+- line: 233
+  before: 2
+  after: 3
+- line: 248
+  before: 2
+  after: 3
+- line: 252
+  before: 3
+  after: 4
+text_changes: []
