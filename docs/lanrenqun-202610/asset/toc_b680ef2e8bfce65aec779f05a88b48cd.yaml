@@ -1,0 +1,20 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 55
+  before: 3
+  after: 2
+- line: 63
+  before: 3
+  after: 2
+- line: 81
+  before: 3
+  after: 2
+- line: 115
+  before: 3
+  after: 2
+text_changes:
+- line: 115
+  before: 再看第二种：走出修复格局
+  after: 再说第二种：走出修复格局
