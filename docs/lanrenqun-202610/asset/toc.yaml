@@ -2,4 +2,25 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-text_changes: []
+- line: 23
+  before: 3
+  after: 2
+- line: 31
+  before: 3
+  after: 2
+- line: 53
+  before: 3
+  after: 2
+- line: 65
+  before: 3
+  after: 2
+- line: 83
+  before: 3
+  after: 2
+text_changes:
+- line: 31
+  before: 二、汇率和出口的关系没那么大，
+  after: 二、汇率和出口的关系没那么大。
+- line: 65
+  before: 四、开始骂街，
+  after: 四、开始骂街。
