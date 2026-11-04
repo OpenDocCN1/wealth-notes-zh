@@ -2,46 +2,76 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 37
-  before: 3
-  after: 2
-- line: 182
-  before: 3
-  after: 2
-- line: 508
+- line: 31
+  before: 2
+  after: 3
+- line: 48
+  before: 2
+  after: 3
+- line: 68
+  before: 2
+  after: 3
+- line: 74
+  before: 2
+  after: 4
+- line: 80
+  before: 2
+  after: 4
+- line: 84
+  before: 2
+  after: 4
+- line: 94
+  before: 2
+  after: 4
+- line: 112
+  before: 2
+  after: 1
+- line: 124
+  before: 2
+  after: 3
+- line: 128
+  before: 2
+  after: 4
+- line: 156
+  before: 2
+  after: 4
+- line: 206
   before: 3
   after: 4
-- line: 510
-  before: 3
+- line: 208
+  before: 4
   after: 5
-- line: 526
-  before: 3
+- line: 215
+  before: 4
   after: 5
-- line: 540
-  before: 3
-  after: 4
-- line: 542
-  before: 3
+- line: 219
+  before: 4
+  after: 5
+- line: 225
+  before: 4
+  after: 5
+- line: 231
+  before: 4
   after: 5
 text_changes:
-- line: 182
-  before: 2. 利得和损失的影响（单位：万元）
-  after: 二、利得和损失的影响（单位：万元）
-- line: 270
-  before: 三、影响公司 2025 年和 2026 上半年业绩的因素及排序
-  after: 三、影响公司 2025 年和 2026 年上半年业绩的因素及排序
-- line: 369
-  before: (1) 开枝散叶有利于踩中风口
-  after: （1）开枝散叶有利于踩中风口
-- line: 381
-  before: (2) 行业周期的客观规律
-  after: （2）行业周期的客观规律
-- line: 594
-  before: 1. 市盈率（单位，倍）
-  after: 1. 市盈率（单位：倍）
-- line: 619
-  before: 2. 市净率（单位，倍）
-  after: 2. 市净率（单位：倍）
-- line: 638
-  before: 3. 市销率（单位，倍）
-  after: 3. 市销率（单位：倍）
+- line: 17
+  before: 先截点图展示肌肉（薄肌）
+  after: 先截点图展示肌肉（薄弱）
+- line: 31
+  before: 二，自嗨做产品，折腾了半个月的知识库，一单也没有：把“做产品”放在了“验证需求”前面
+  after: 一，自嗨做产品，折腾了半个月的知识库，一单也没有：把“做产品”放在了“验证需求”前面
+- line: 48
+  before: 三，盲目涨价，不如先“拆增长变量”
+  after: 二，盲目涨价，不如先“拆增长变量”
+- line: 64
+  before: 三，做对的地方：流水不争先，争的是滔滔不绝
+  after: 一，做对的地方：流水不争先，争的是滔滔不绝
+- line: 168
+  before: 接着就是拿已经收集到的信息去使用这个 skill 去输出相应“调研报告”
+  after: 接着就是拿已经收集到的信息去使用这个 技能 去输出相应“调研报告”
+- line: 188
+  before: 2. 一句话结论
+  after: 1. 一句话结论
+- line: 204
+  before: 4. 最近用户画像
+  after: 2. 最近用户画像
