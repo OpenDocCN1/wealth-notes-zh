@@ -1,0 +1,14 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 301
+  before: 2
+  after: 3
+text_changes:
+- line: 84
+  before: 提示词2：短篇剧情层次调整
+  after: 提示词 2：短篇剧情层次调整
+- line: 301
+  before: 与其说“剧情好重复”，不如说：
+  after: 与其说“剧情很重复”，不如说：
