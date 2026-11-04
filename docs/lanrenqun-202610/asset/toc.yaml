@@ -2,22 +2,7 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 35
-  before: 3
-  after: 2
-- line: 65
-  before: 3
-  after: 2
-- line: 105
-  before: 3
-  after: 2
-- line: 125
-  before: 3
-  after: 2
-- line: 155
-  before: 3
-  after: 2
-- line: 271
-  before: 3
-  after: 2
-text_changes: []
+text_changes:
+- line: 3
+  before: 【超级标 19】X 中文 AI 自媒体
+  after: 【超级标签 19】X 中文 AI 自媒体
