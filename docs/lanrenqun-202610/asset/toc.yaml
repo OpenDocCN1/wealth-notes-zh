@@ -2,13 +2,37 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 52
+- line: 29
+  before: 3
+  after: 2
+- line: 33
+  before: 3
+  after: 2
+- line: 37
+  before: 3
+  after: 2
+- line: 41
+  before: 3
+  after: 2
+- line: 45
+  before: 3
+  after: 2
+- line: 49
+  before: 3
+  after: 2
+- line: 53
+  before: 3
+  after: 2
+- line: 57
+  before: 3
+  after: 2
+- line: 61
+  before: 3
+  after: 2
+- line: 67
   before: 3
   after: 2
 text_changes:
-- line: 52
-  before: 波妮：让她的 AI 去对接我的 AI
-  after: 三、波妮：让她的 AI 去对接我的 AI
-- line: 64
-  before: 美国的 Mac mini
-  after: 四、美国的 Mac mini
+- line: 33
+  before: 2、科技不稳定，资本认盈利能力
+  after: 2、科技不稳定，资本看盈利能力
