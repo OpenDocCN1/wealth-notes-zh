@@ -1,0 +1,26 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 19
+  before: 2
+  after: 1
+- line: 47
+  before: 3
+  after: 2
+- line: 83
+  before: 3
+  after: 2
+- line: 119
+  before: 3
+  after: 2
+- line: 157
+  before: 3
+  after: 2
+- line: 179
+  before: 3
+  after: 2
+text_changes:
+- line: 157
+  before: 四、普娃在哪些方面值得”鸡娃”值得培养，哪些方面必须家长用力提高，才能让普娃弯道超车，比所谓”牛娃”更加优秀？
+  after: 四、普娃在哪些方面值得”鸡娃”，哪些方面必须家长用力提高，才能让普娃弯道超车，比所谓”牛娃”更加优秀？
