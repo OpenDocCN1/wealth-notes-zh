@@ -2,37 +2,22 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 29
+- line: 39
   before: 3
   after: 2
-- line: 33
+- line: 59
   before: 3
   after: 2
-- line: 37
+- line: 81
   before: 3
   after: 2
-- line: 41
+- line: 109
   before: 3
   after: 2
-- line: 45
+- line: 129
   before: 3
   after: 2
-- line: 49
+- line: 154
   before: 3
   after: 2
-- line: 53
-  before: 3
-  after: 2
-- line: 57
-  before: 3
-  after: 2
-- line: 61
-  before: 3
-  after: 2
-- line: 67
-  before: 3
-  after: 2
-text_changes:
-- line: 33
-  before: 2、科技不稳定，资本认盈利能力
-  after: 2、科技不稳定，资本看盈利能力
+text_changes: []
