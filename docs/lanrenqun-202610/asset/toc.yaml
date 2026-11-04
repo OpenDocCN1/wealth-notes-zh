@@ -1,23 +1,2 @@
-level_changes:
-- line: 3
-  before: 2
-  after: 1
-- line: 39
-  before: 3
-  after: 2
-- line: 59
-  before: 3
-  after: 2
-- line: 81
-  before: 3
-  after: 2
-- line: 109
-  before: 3
-  after: 2
-- line: 129
-  before: 3
-  after: 2
-- line: 154
-  before: 3
-  after: 2
+level_changes: []
 text_changes: []
