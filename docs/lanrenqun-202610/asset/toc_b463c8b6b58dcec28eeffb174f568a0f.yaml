@@ -1,0 +1,8 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+text_changes:
+- line: 65
+  before: 第一，看医疗，要先确认，自己的医疗关系，能不能平移到这个地方。
+  after: 第一，看医疗，要先确认，自己的医保关系，能不能平移到这个地方。
