@@ -1,0 +1,11 @@
+level_changes:
+- line: 13
+  before: 3
+  after: 2
+text_changes:
+- line: 13
+  before: 聊聊武契奇败选嘉宾供稿
+  after: 聊聊武契奇败选（嘉宾供稿）
+- line: 54
+  before: 先看存量的盘子。
+  after: 先看存量的盘子

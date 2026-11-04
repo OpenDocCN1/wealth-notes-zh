@@ -1,0 +1,11 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 15
+  before: 3
+  after: 2
+text_changes:
+- line: 15
+  before: AI创造价值圈主
+  after: AI创造价值，圈主
