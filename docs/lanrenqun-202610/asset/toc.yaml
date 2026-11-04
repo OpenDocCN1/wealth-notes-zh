@@ -2,22 +2,7 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 23
+- line: 71
   before: 3
   after: 2
-- line: 51
-  before: 3
-  after: 2
-- line: 63
-  before: 3
-  after: 2
-- line: 69
-  before: 3
-  after: 2
-- line: 291
-  before: 2
-  after: 1
-text_changes:
-- line: 23
-  before: '1'
-  after: 第一就是基础商品：照片视频。
+text_changes: []
