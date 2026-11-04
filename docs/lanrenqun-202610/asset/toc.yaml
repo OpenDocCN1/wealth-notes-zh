@@ -1,2 +1,8 @@
-level_changes: []
-text_changes: []
+level_changes:
+- line: 69
+  before: 2
+  after: 1
+text_changes:
+- line: 69
+  before: 二、从解释到塑造规则
+  after: 从解释到塑造规则
