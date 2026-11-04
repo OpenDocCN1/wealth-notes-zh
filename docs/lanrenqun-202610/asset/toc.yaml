@@ -1,5 +1,20 @@
-level_changes: []
-text_changes:
-- line: 71
-  before: ( lazyhelper1 )
-  after: ''
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 55
+  before: 3
+  after: 2
+- line: 73
+  before: 3
+  after: 2
+- line: 79
+  before: 3
+  after: 2
+- line: 97
+  before: 3
+  after: 2
+- line: 127
+  before: 3
+  after: 2
+text_changes: []
