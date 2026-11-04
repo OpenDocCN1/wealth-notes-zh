@@ -1,0 +1,146 @@
+chapter_starts:
+- 'no': 2
+  confidence: 0.92
+  final_reason: 双方均认定为章起始。标题单独成行，‘献词’为正文前置辅文，按规则可独立成章。复核方虽提示单独成章必要性弱，但仍保持拆分。
+  accepted_evidence:
+  - 判断方：一级标题“献词”，属于正文前置内容，划分为一章
+  - 复核方 keep_split=true，overturn_probability=0.05
+  rejected_evidence:
+  - 复核方反证：属于正文前置辅文版面标题，单独成章必要性弱于正式编号章节
+  need_human_review: false
+- 'no': 19
+  confidence: 0.92
+  final_reason: 双方一致视为章起始。‘推荐序’为序言类前置内容，标题单独成行，符合前置辅文成章规则。
+  accepted_evidence:
+  - 判断方：一级标题“推荐序”，属于正文前置内容，划分为一章
+  - 复核方 keep_split=true，overturn_probability=0.05
+  rejected_evidence:
+  - 复核方反证：前置辅文版面标题，非全书正文层级的一章
+  need_human_review: false
+- 'no': 133
+  confidence: 0.93
+  final_reason: 双方一致视为章起始。‘引言’为一级标题，独立于正文前内容，后接正文叙述，符合章节边界。
+  accepted_evidence:
+  - 判断方：一级标题“引言”，是独立章节的起始
+  - 复核方 keep_split=true，overturn_probability=0.06
+  rejected_evidence:
+  - 复核方反证：可能为正文前独立辅文小节标题，下方另有副标题
+  need_human_review: false
+- 'no': 339
+  confidence: 0.98
+  final_reason: 编号特征明确‘# 第一章 分析测评你目前的生活’，单独成行，无句号，语义统领后续内容，上下文为新章起始。
+  accepted_evidence:
+  - 判断方：明确一级标题“第一章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：Markdown一级标题可能由排版自动生成，缺乏页码等版面证据
+  need_human_review: false
+- 'no': 583
+  confidence: 0.98
+  final_reason: 编号特征‘第二章 创建人生的指南针’，格式语义均符合全书最高层级大章。
+  accepted_evidence:
+  - 判断方：明确一级标题“第二章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：标题前后仅空行，分章依据主要来自标题文本
+  need_human_review: false
+- 'no': 739
+  confidence: 0.98
+  final_reason: 编号特征‘第三章 寻路’，单独成行，统领后续叙述，上下文符合新章边界。
+  accepted_evidence:
+  - 判断方：明确一级标题“第三章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：缺乏页码目录等版面确认
+  need_human_review: false
+- 'no': 901
+  confidence: 0.98
+  final_reason: 编号特征‘第四章 摆脱困境’，符合大章格式与语义统领。
+  accepted_evidence:
+  - 判断方：明确一级标题“第四章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：Markdown标题可能为样式噪声
+  need_human_review: false
+- 'no': 1127
+  confidence: 0.98
+  final_reason: 编号特征‘第五章 制订你的“奥德赛计划”’，单独成行，语义概括后续内容。
+  accepted_evidence:
+  - 判断方：明确一级标题“第五章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：上下文仅空行，缺少分页证据
+  need_human_review: false
+- 'no': 1337
+  confidence: 0.98
+  final_reason: 编号特征‘第六章 原型设计’，符合全书最高层级章标题规范。
+  accepted_evidence:
+  - 判断方：明确一级标题“第六章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：章标题与节标题可能样式混淆
+  need_human_review: false
+- 'no': 1499
+  confidence: 0.98
+  final_reason: 编号特征‘第七章 成功求职的秘密’，单独成行，统领后续求职内容。
+  accepted_evidence:
+  - 判断方：明确一级标题“第七章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：无上一章收束或下一章导语等上下文特征
+  need_human_review: false
+- 'no': 1665
+  confidence: 0.98
+  final_reason: 编号特征‘第八章 好工作是设计出来的’，格式语义均符合大章。
+  accepted_evidence:
+  - 判断方：明确一级标题“第八章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：标题前后仅空行，缺乏版面分章证据
+  need_human_review: false
+- 'no': 1763
+  confidence: 0.98
+  final_reason: 编号特征‘第九章 主动选择幸福’，单独成行，语义概括性强。
+  accepted_evidence:
+  - 判断方：明确一级标题“第九章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：电子书标题层级可能被放大误判
+  need_human_review: false
+- 'no': 1941
+  confidence: 0.98
+  final_reason: 编号特征‘第十章 你可以对失败免疫’，符合全书章标题规范。
+  accepted_evidence:
+  - 判断方：明确一级标题“第十章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：仅有Markdown标题样式，缺少页码等独立证据
+  need_human_review: false
+- 'no': 2101
+  confidence: 0.98
+  final_reason: 编号特征‘第十一章 创建团队’，单独成行，统领后续团队内容。
+  accepted_evidence:
+  - 判断方：明确一级标题“第十一章”，为全书章标题
+  - 复核方 keep_split=true，overturn_probability=0.02
+  rejected_evidence:
+  - 复核方反证：标题前后仅空行，缺乏目录分页确认
+  need_human_review: false
+- 'no': 2225
+  confidence: 0.9
+  final_reason: 一级标题‘结语’为正文收束部分，单独成行，符合文末独立章节划分规则。
+  accepted_evidence:
+  - 判断方：一级标题“结语”，是正文收束部分，划分为一章
+  - 复核方 keep_split=true，overturn_probability=0.06
+  rejected_evidence:
+  - 复核方反证：可能为结语内部小节标题，下方另有副标题
+  need_human_review: false
+- 'no': 2387
+  confidence: 0.92
+  final_reason: 一级标题‘致谢’为书末后置辅文，单独成行，按规则应单独划分为一章。
+  accepted_evidence:
+  - 判断方：一级标题“致谢”，属于结尾致谢部分，划分为一章
+  - 复核方 keep_split=true，overturn_probability=0.05
+  rejected_evidence:
+  - 复核方反证：致谢页版面标题，与正式章节不同，存在误判风险
+  need_human_review: false
+rejected_lines: []

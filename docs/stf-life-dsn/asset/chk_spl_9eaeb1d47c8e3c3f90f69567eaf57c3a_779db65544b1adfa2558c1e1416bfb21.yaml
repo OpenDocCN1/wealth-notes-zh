@@ -1,0 +1,113 @@
+reviews:
+- 'no': 2
+  overturn_probability: 0.05
+  alternative: 若不分章，这行最可能是正文前置辅文“献词”的版面标题，而非独立正文章节标题。
+  counter_evidence:
+  - “献词”属于正文前置辅文，按规则可统一归入前置内容，单独成章的必要性弱于正式编号章节。
+  - 该行前后均为空行，且紧接献词正文，缺乏目录、页码或分页信息证明它必须是独立章节起点。
+  keep_split: true
+- 'no': 19
+  overturn_probability: 0.05
+  alternative: 若不分章，这行最可能是前置辅文“推荐序”的版面标题，而不是全书正文层级的一章。
+  counter_evidence:
+  - “推荐序”属于序言类前置内容，按规则可归入前置内容章，但其标题本身并非编号章节。
+  - 该行没有章序号，且下方紧接着序言正文，存在把辅文标题误判为正文分章的风险。
+  keep_split: true
+- 'no': 133
+  overturn_probability: 0.06
+  alternative: 若不分章，这行最可能是正文前独立辅文“引言”的小节标题或版面分隔标题。
+  counter_evidence:
+  - “引言”属于正文前内容，按规则可统一划分为一章，但它不是“第 X 章”式正式章节标题。
+  - 该行下方还有“如何设计你的人生”作为非 Markdown 标题的副标题，说明该处可能只是辅文内部的标题层级。
+  keep_split: true
+- 'no': 339
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - 该行虽然包含“第一章”，但 Markdown 一级标题在电子书转换中可能由排版样式自动生成，存在层级误标可能。
+  - 标题前后均为空行，缺乏目录、页眉页码等版面证据证明此处确为章节起始边界。
+  keep_split: true
+- 'no': 583
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第二章”虽符合编号特征，但该行前后均为空行，分章边界仅由 Markdown 标题层级确认。
+  - 电子书文本中标题层级可能被统一提升为一级标题，存在将正文小标题误判为章标题的风险。
+  keep_split: true
+- 'no': 739
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - 该行以“# 第三章”出现，但标题前后没有页码或目录信息辅助确认它属于全书最高层级。
+  - 紧接其后的内容为叙述段落，缺乏上一章末尾总结或下一章概述等上下文特征。
+  keep_split: true
+- 'no': 901
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第四章”编号明确，但 Markdown 标题本身不能排除电子书排版噪声或层级误标。
+  - 该行前后均为空行，缺少页眉、页码等版面证据证明此处是正式分章边界。
+  keep_split: true
+- 'no': 1127
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第五章”虽符合章标题格式，但该行由 Markdown 一级标题语法生成，存在样式化标题被误判的可能。
+  - 上下文仅显示空行和正文，没有分页、目录或页眉页脚等独立分章证据。
+  keep_split: true
+- 'no': 1337
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - 该行标题内容为“第六章 原型设计”，但标题前后均为空行，无法从版面信息确认其章节边界。
+  - 电子书文本中章标题和节标题可能都使用一级标题样式，存在层级混淆风险。
+  keep_split: true
+- 'no': 1499
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第七章”编号虽然明确，但该行是由 Markdown 标题语法表示的，可能只是文档结构标记。
+  - 紧邻上下文没有明显的上一章结束标志或下一章导语，单凭标题行判断分章存在误报空间。
+  keep_split: true
+- 'no': 1665
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - 该行虽然写作“第八章 好工作是设计出来的”，但标题前后只有空行，缺乏版面分章证据。
+  - Markdown 一级标题可能是转换过程中统一生成的样式，不能单独证明它属于全书最高层级章节。
+  keep_split: true
+- 'no': 1763
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第九章”符合编号章标题特征，但该行前后均为空行，分章依据主要来自标题文本本身。
+  - 电子书排版中标题层级可能被放大，存在把一级分节标题误判为章标题的风险。
+  keep_split: true
+- 'no': 1941
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - 该行内容为“第十章 你可以对失败免疫”，但只有 Markdown 标题样式支持分章，缺少页码等独立证据。
+  - 标题前后是空行和正文段落，未显示清晰的上一章收束或下一章概述结构。
+  keep_split: true
+- 'no': 2101
+  overturn_probability: 0.02
+  alternative: 若不分章，这行最可能是正文中的章名标题/一级分节标题，而非新的章节起点。
+  counter_evidence:
+  - “第十一章”编号明确，但该行由 Markdown 一级标题表示，可能只是文档内部样式层级。
+  - 该行前后只有空行，缺乏目录、分页或页眉页脚来确认它是正式章节起点。
+  keep_split: true
+- 'no': 2225
+  overturn_probability: 0.06
+  alternative: 若不分章，这行最可能是文末独立辅文“结语”的标题行，而不是正文叙事章节。
+  counter_evidence:
+  - “结语”属于文末收束性辅文，按规则可划分为一章，但它本身不是编号章节，存在把辅文标题当章标题的可能。
+  - 该行下方还有“你一定能设计出美好的人生”作为非标题化的副标题，说明此处也可能是结语内部的小节标题。
+  keep_split: true
+- 'no': 2387
+  overturn_probability: 0.05
+  alternative: 若不分章，这行最可能是书末致谢页的版面标题，而不是正文层级的一章。
+  counter_evidence:
+  - “致谢”属于后置辅文，按规则可统一划分为一章，但它与正式章节不同，存在辅文标题被误判为独立章的风险。
+  - 该行前后均为空行，且后续为致谢名单式内容，单凭 Markdown 标题不足以证明需要独立分章。
+  keep_split: true
