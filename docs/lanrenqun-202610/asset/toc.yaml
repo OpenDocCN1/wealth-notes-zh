@@ -2,13 +2,43 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 301
+- line: 36
   before: 2
   after: 3
+- line: 38
+  before: 2
+  after: 3
+- line: 40
+  before: 3
+  after: 4
+- line: 48
+  before: 3
+  after: 4
+- line: 54
+  before: 3
+  after: 4
+- line: 80
+  before: 2
+  after: 3
+- line: 88
+  before: 3
+  after: 4
+- line: 106
+  before: 3
+  after: 4
 text_changes:
-- line: 84
-  before: 提示词2：短篇剧情层次调整
-  after: 提示词 2：短篇剧情层次调整
-- line: 301
-  before: 与其说“剧情好重复”，不如说：
-  after: 与其说“剧情很重复”，不如说：
+- line: 40
+  before: 'a: 贴图 1 号的 9 月份-10 月份的流量表现'
+  after: a：贴图1号的9月份-10月份的流量表现
+- line: 54
+  before: C：另外一个号，写文章的文章流量
+  after: c：另外一个号，写文章的文章流量
+- line: 80
+  before: 二：实操 sop（手段）
+  after: 二：实操 SOP（手段）
+- line: 88
+  before: C：收集对标账号，搭建素材库。
+  after: a：收集对标账号，搭建素材库。
+- line: 106
+  before: D：内容制作
+  after: b：内容制作
