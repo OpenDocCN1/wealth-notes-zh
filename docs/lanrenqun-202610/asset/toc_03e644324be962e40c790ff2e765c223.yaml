@@ -1,0 +1,11 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 73
+  before: 2
+  after: 0
+text_changes:
+- line: 73
+  before: 认同信息过滤价值、想省下每天 3 小时无效阅读时间的读者，扫码加我微信
+  after: ''
