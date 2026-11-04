@@ -1,0 +1,29 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 35
+  before: 3
+  after: 2
+- line: 81
+  before: 3
+  after: 2
+- line: 119
+  before: 3
+  after: 2
+- line: 193
+  before: 3
+  after: 2
+- line: 213
+  before: 3
+  after: 2
+- line: 227
+  before: 3
+  after: 2
+text_changes:
+- line: 35
+  before: 重新定义机会
+  after: 第一次机会：重新定义机会
+- line: 213
+  before: 第三件事，建议你保留一定的可移动性。
+  after: 第四次机会：保持一定的可移动性
