@@ -1,0 +1,50 @@
+level_changes:
+- line: 76
+  before: 2
+  after: 4
+- line: 260
+  before: 2
+  after: 3
+- line: 274
+  before: 2
+  after: 3
+- line: 406
+  before: 3
+  after: 2
+- line: 572
+  before: 2
+  after: 3
+- line: 809
+  before: 2
+  after: 3
+- line: 823
+  before: 2
+  after: 3
+text_changes:
+- line: 220
+  before: 外贸表格更新：两种方案
+  after: 六、外贸表格更新：两种方案
+- line: 326
+  before: 3. 客户给的权重，也需要校验
+  after: 4. 客户给的权重，也需要校验
+- line: 340
+  before: 4. 先落地，再拓展
+  after: 5. 先落地，再拓展
+- line: 406
+  before: 医疗文书：前后对比
+  after: 十一、医疗文书：前后对比
+- line: 489
+  before: 4. 判断自己承担得起什么样的软硬件投入
+  after: 2. 判断自己承担得起什么样的软硬件投入
+- line: 523
+  before: AI 战略合作报价
+  after: 十四、AI 战略合作报价
+- line: 541
+  before: 三种报价方式
+  after: 十五、三种报价方式
+- line: 572
+  before: 项目真实投入
+  after: 2. 项目真实投入
+- line: 660
+  before: 3. 培养内部 FDE
+  after: 2. 培养内部 FDE
