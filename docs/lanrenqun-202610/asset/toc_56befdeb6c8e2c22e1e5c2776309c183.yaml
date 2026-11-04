@@ -1,0 +1,41 @@
+level_changes:
+- line: 17
+  before: 2
+  after: 1
+- line: 33
+  before: 3
+  after: 2
+- line: 53
+  before: 3
+  after: 2
+- line: 69
+  before: 3
+  after: 2
+- line: 83
+  before: 3
+  after: 2
+- line: 137
+  before: 3
+  after: 2
+- line: 184
+  before: 2
+  after: 1
+- line: 218
+  before: 3
+  after: 2
+- line: 230
+  before: 3
+  after: 2
+- line: 246
+  before: 2
+  after: 1
+- line: 256
+  before: 3
+  after: 2
+- line: 272
+  before: 2
+  after: 1
+text_changes:
+- line: 83
+  before: 极简主义风，学霸笔记风，3D 效果等等
+  after: 1.4 极简主义风，学霸笔记风，3D 效果等等
