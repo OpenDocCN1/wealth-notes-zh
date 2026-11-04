@@ -2,4 +2,28 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-text_changes: []
+- line: 39
+  before: 3
+  after: 2
+- line: 45
+  before: 3
+  after: 2
+- line: 49
+  before: 3
+  after: 2
+- line: 53
+  before: 3
+  after: 2
+text_changes:
+- line: 39
+  before: 1、上班族（包括白领、文职、客服、基础设计、初级代码）：要有危机感，同时也有机遇。
+  after: 上班族（包括白领、文职、客服、基础设计、初级代码）：要有危机感，同时也有机遇。
+- line: 45
+  before: 2、底层劳动者，包括工人、服务员、司机、店员：短期不用怕被一夜替代。
+  after: 底层劳动者，包括工人、服务员、司机、店员：短期不用怕被一夜替代。
+- line: 49
+  before: 3、小老板、个体户、小工厂：文件说要给中小微企业提供小快轻准的 AI 工具。
+  after: 小老板、个体户、小工厂：文件说要给中小微企业提供小快轻准的 AI 工具。
+- line: 53
+  before: 4、学生、应届生：别只学会被 AI 秒做的事情。
+  after: 学生、应届生：别只学会被 AI 秒做的事情。
