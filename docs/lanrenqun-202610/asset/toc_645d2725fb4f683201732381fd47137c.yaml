@@ -1,0 +1,14 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 43
+  before: 3
+  after: 2
+- line: 59
+  before: 3
+  after: 2
+text_changes:
+- line: 59
+  before: 赛道2：端侧AI
+  after: 赛道 2：端侧AI

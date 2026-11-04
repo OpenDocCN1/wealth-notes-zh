@@ -1,0 +1,47 @@
+level_changes:
+- line: 19
+  before: 2
+  after: 1
+- line: 23
+  before: 2
+  after: 1
+- line: 27
+  before: 2
+  after: 1
+- line: 63
+  before: 2
+  after: 3
+- line: 67
+  before: 2
+  after: 3
+- line: 77
+  before: 2
+  after: 3
+- line: 107
+  before: 2
+  after: 3
+- line: 129
+  before: 3
+  after: 4
+- line: 137
+  before: 2
+  after: 3
+- line: 145
+  before: 2
+  after: 3
+- line: 168
+  before: 3
+  after: 4
+- line: 202
+  before: 3
+  after: 2
+text_changes:
+- line: 63
+  before: 客户需要的, 不只是一个新界面
+  after: 客户需要的，不只是一个新界面
+- line: 77
+  before: 我当时在和 AI 的沟通里写过一句话：
+  after: 我当时在和 AI 的沟通里写过一句话：
+- line: 232
+  before: '**回头看，我真正做的是“需求翻译”**'
+  after: 回头看，我真正做的是“需求翻译”
