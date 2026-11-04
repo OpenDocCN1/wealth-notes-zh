@@ -2,16 +2,28 @@ level_changes:
 - line: 3
   before: 2
   after: 1
-- line: 29
+- line: 31
   before: 3
   after: 2
-- line: 39
+- line: 47
   before: 3
   after: 2
-- line: 57
+- line: 59
   before: 3
   after: 2
-- line: 71
-  before: 3
-  after: 2
-text_changes: []
+- line: 67
+  before: 2
+  after: 1
+- line: 74
+  before: 2
+  after: 1
+text_changes:
+- line: 31
+  before: 1. 产品大爆发
+  after: 产品大爆发
+- line: 47
+  before: 2. 人的时间没变多，流量越来越贵
+  after: 人的时间没变多，流量越来越贵
+- line: 59
+  before: 3. 入口在换
+  after: 入口在换
