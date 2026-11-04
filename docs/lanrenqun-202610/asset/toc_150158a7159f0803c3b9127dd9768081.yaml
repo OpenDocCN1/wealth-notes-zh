@@ -1,0 +1,8 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+text_changes:
+- line: 3
+  before: 特朗普倒查 6 年赴美生子，生育旅游天塌了？
+  after: 特朗普倒查6年赴美生子，生育旅游天塌了？
