@@ -1,0 +1,14 @@
+level_changes:
+- line: 3
+  before: 2
+  after: 1
+- line: 228
+  before: 2
+  after: 3
+text_changes:
+- line: 32
+  before: □ 二、4个小时，从第一行代码到被原作者收录
+  after: 二、4个小时，从第一行代码到被原作者收录
+- line: 200
+  before: □ 六、谢谢主动分享的朋友
+  after: 六、谢谢主动分享的朋友
