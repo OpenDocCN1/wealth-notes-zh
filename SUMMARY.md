@@ -619,6 +619,7 @@
 +   [线上赚钱](docs/线上赚钱/README.md)
 +   [线图投资术](docs/线图投资术/README.md)
 +   [终极文案撰写系统](docs/终极文案撰写系统/README.md)
++   [给我一颗原始星球](docs/给我一颗原始星球/README.md)
 +   [绝密人性天书](docs/绝密人性天书/README.md)
 +   [缓解入睡困难的方法](docs/缓解入睡困难的方法中信/README.md)
 +   [缠中说禅实战理论](docs/缠中说禅实战理论/README.md)

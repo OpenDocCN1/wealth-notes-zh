@@ -1,0 +1,90 @@
+reviews:
+- 'no': 2952
+  overturn_probability: 0.01
+  alternative: 正文中可能存在的二级标题，但具有明确的“第一章”编号和章级地位
+  counter_evidence:
+  - 该行虽然位于正文连续论述之后，但无任何章末总结或习题等特征，不足以否定其章标题身份
+  - 使用“## ”标记，在本书中与后续“第二章”等形成连续编号体系
+  keep_split: true
+- 'no': 2992
+  overturn_probability: 0.01
+  alternative: 正文中可能存在的二级标题，但具有明确的“第二章”编号和章级地位
+  counter_evidence:
+  - 前一行2950为正文散文，与常规章末格式略有差异，但“第二章”编号足以确认其为章标题
+  - 单独成行且后接概述段落，符合章标题的语义特征
+  keep_split: true
+- 'no': 4194
+  overturn_probability: 0.01
+  alternative: 正文中可能存在的二级标题，但具有明确的“第三章”编号和章级地位
+  counter_evidence:
+  - 标题中使用冒号“：”而非空格，但本书后续章节也采用此样式，不影响识别
+  - 后文从“根据人为设计出来的众生相…”开始的新段落，明显开启新一章内容
+  keep_split: true
+- 'no': 4264
+  overturn_probability: 0.01
+  alternative: 正文中可能存在的二级标题，但具有明确的“第四章”编号和章级地位
+  counter_evidence:
+  - 标题“出奇+极端”带加号，可能被误认为短语，但“第四章”编号明确指向章标题
+  - 后接“做人极端不好…”等统领性论述，符合章标题的概括功能
+  keep_split: true
+- 'no': 4401
+  overturn_probability: 0.05
+  alternative: 正文中带感叹号的标题，但仍有“第五章”编号，可能为作者风格化的章标题
+  counter_evidence:
+  - 标题末尾感叹号“！”不符合常规章标题无标点规则，可能被误认为正文感叹句
+  - 但“第五章”编号及后续“### 1. 精神内耗 破！”等子节结构，使其仍应视为章标题
+  keep_split: true
+- 'no': 4864
+  overturn_probability: 0.1
+  alternative: 文档中的部分分区标记，可能不是独立章节，但“第三部分”符合部分-章节模式
+  counter_evidence:
+  - 前文未出现“第一部分”“第二部分”，编号略显突兀，但规则规定部分标题也应分章
+  - 该行是唯一的一级标题，后续内容均在其下，分章有助于整体结构
+  keep_split: true
+- 'no': 4872
+  overturn_probability: 0.7
+  alternative: 第三部分下的小节标题（正文小标题），与“### 1. 只修天道”等格式一致
+  counter_evidence:
+  - 在全书前五章中，“### 1.”格式均表示章内小节（如“### 1. 灵修”），而非独立章标题
+  - 该行下直接出现“#### 1.1 名字释义”，说明“### 1.”是上层小节而非章
+  - “思维简介”仅概述该部分内容，不具备独立章的统领性
+  keep_split: false
+- 'no': 4907
+  overturn_probability: 0.7
+  alternative: 第三部分下的小节标题，属于正文分点，如“### 2. 天道人道都可修但单修”
+  counter_evidence:
+  - “### 数字.”在整本书中更常见于章内小节，此处延续了该命名习惯
+  - 其下“#### 2.1”等子标题进一步表明它只是节层级
+  - “当下的部分经济问题”更像是一个论题列表的题头，而非完整章节
+  keep_split: false
+- 'no': 4973
+  overturn_probability: 0.65
+  alternative: 第三部分下的小节标题，列举不同版本和案例的导语
+  counter_evidence:
+  - 标题“地主思维版本+行业+案例解析”过长且含加号，更像内容索引而非章标题
+  - 与前后“###”标题处于同一层级，属于部分内的并列分点
+  - 后文“#### 4.1”等是它的子节，符合节-子节关系而非章-节关系
+  keep_split: false
+- 'no': 5063
+  overturn_probability: 0.75
+  alternative: 第三部分下的小节标题，以疑问句作为过渡语
+  counter_evidence:
+  - 标题末尾为问号“？”，违反标题末尾无标点规则，更像正文中的设问句
+  - “可以获得什么？”缺乏章标题的概括性，且与后续“#### 5.1”等并列结构匹配节层级
+  keep_split: false
+- 'no': 5088
+  overturn_probability: 0.7
+  alternative: 第三部分下的小节标题，为创业方向启示的列表题头
+  counter_evidence:
+  - 与“### 5.”“### 7.”等并列，均为部分内的分点，而非独立章节
+  - “创业方向启示”更接近正文小标题而非具有统领全章的大标题
+  - 本书中“###”层级通常用于章内小节，此处延续该用法
+  keep_split: false
+- 'no': 5114
+  overturn_probability: 0.7
+  alternative: 第三部分下的小节标题，为注意事项的列表项标题
+  counter_evidence:
+  - “注意事项”是典型的正文列表标题格式，常见于操作指南而非独立章
+  - “### 7.”与前面的“###”标题处于同一层级，均为部分内分点
+  - 后文直接以列表项展开，没有章末总结或独立的概述段，不具备章的特征
+  keep_split: false
